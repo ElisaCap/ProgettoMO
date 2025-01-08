@@ -1597,3 +1597,6 @@ Continua: salta il salvataggio solo di questo asset.
 [2025.01.08-10.09.28:908][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2924.428223
 [2025.01.08-10.09.29:909][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.08-10.09.29:909][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2925.094727, Update Interval: 321.583313
+[2025.01.08-10.15.38:299][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3293.814209
+[2025.01.08-10.15.39:300][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.08-10.15.39:300][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3294.480957, Update Interval: 335.087738
