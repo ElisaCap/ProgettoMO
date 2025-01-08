@@ -1600,3 +1600,7 @@ Continua: salta il salvataggio solo di questo asset.
 [2025.01.08-10.15.38:299][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3293.814209
 [2025.01.08-10.15.39:300][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.08-10.15.39:300][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3294.480957, Update Interval: 335.087738
+[2025.01.08-10.21.57:348][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3672.865967
+[2025.01.08-10.21.58:348][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.08-10.21.58:348][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3673.534424, Update Interval: 309.895325
+[2025.01.08-10.22.38:872][794]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
