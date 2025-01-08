@@ -1594,3 +1594,6 @@ Continua: salta il salvataggio solo di questo asset.
 [2025.01.08-10.04.54:979][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.08-10.04.54:979][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.08-10.04.54:979][904]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.08-10.09.28:908][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2924.428223
+[2025.01.08-10.09.29:909][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.08-10.09.29:909][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2925.094727, Update Interval: 321.583313
