@@ -1517,3 +1517,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.08-09.50.00:292][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1755.816772
 [2025.01.08-09.50.01:293][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.08-09.50.01:293][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1756.483521, Update Interval: 355.627319
+[2025.01.08-09.54.05:508][365]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.01.08-09.54.15:685][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.01.08-09.54.17:713][  0]LogSlate: Window 'Salva contenuto' being destroyed
+[2025.01.08-09.54.17:871][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.08-09.54.17:929][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.08-09.54.17:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.01.08-09.54.18:015][  0]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.08-09.54.18:015][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.18:516][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.19:017][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.19:517][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.20:017][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.20:518][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.21:018][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.21:519][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.22:019][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.22:519][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp' (Error Code 32), retrying in .5s...
+[2025.01.08-09.54.23:020][  0]LogFileManager: Error: Error moving file '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled99FE3CDF44A6AFD1DF41DA8739E7A295.tmp'.
+[2025.01.08-09.54.23:020][  0]LogSavePackage: Warning: Failed to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to temp directory
+[2025.01.08-09.54.23:020][  0]LogSavePackage: Error: Error saving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.08-09.54.23:024][  0]EditorErrors: Warning: Errore nel salvataggio di '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.08-09.54.23:085][  0]LogFileHelpers: Saving map 'Untitled' took 5.156
+[2025.01.08-09.54.29:570][  0]LogSlate: Window 'Messaggio' being destroyed
+[2025.01.08-09.54.29:579][  0]Message dialog closed, result: Continue, title: Messaggio, text: Salvataggio dell'asset '/Game/Untitled' (Untitled.umap) non riuscito.
+
+Annulla: interrompi il salvataggio di tutti gli asset e torna all'editor.
+Riprova: prova a salvare di nuovo l'asset.
+Continua: salta il salvataggio solo di questo asset.
+[2025.01.08-09.54.31:364][  0]LogSlate: Window 'Salvataggio pacchetti non riuscito' being destroyed
+[2025.01.08-09.54.31:372][  0]Message dialog closed, result: Ok, title: Salvataggio pacchetti non riuscito, text: Non è stato possibile salvare correttamente il seguente tipo di asset:
+/Game/Untitled
+[2025.01.08-09.54.31:373][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.5 sec
+[2025.01.08-09.54.34:504][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.01.08-09.54.34:527][226]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Untitled_Auto1
+[2025.01.08-09.54.34:527][226]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled_Auto11E5CF7F644A4C1D9C8BEA992BF576CF5.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2025.01.08-09.54.34:534][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.038
+[2025.01.08-09.54.34:534][226]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.01.08-09.54.37:337][442]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.01.08-09.54.37:358][442]LogSlate: Window 'Registro dei messaggi' being destroyed

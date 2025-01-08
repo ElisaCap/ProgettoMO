@@ -1399,3 +1399,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.08-09.50.19:719][ 36]MapCheck: Controllo della mappa completato: 0 Errori, 0 Avvisi, 0,067 ms impiegati per il completamento.
 [2025.01.08-09.50.19:721][ 36]LogSlate: Window 'Apri livello' being destroyed
 [2025.01.08-09.50.20:450][ 37]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.08-09.52.46:431][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 361.845032
+[2025.01.08-09.52.47:431][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.08-09.52.47:431][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 362.512177, Update Interval: 350.025940
