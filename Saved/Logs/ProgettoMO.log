@@ -3242,3 +3242,186 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.11-23.40.13:874][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.11-23.40.13:874][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.11-23.40.13:875][477]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.11-23.41.49:104][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-23.41.49:203][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.11-23.41.49:269][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.11-23.41.49:310][118]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.11-23.41.49:310][118]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledB3DA243245DA30F69E7B27A66226EE95.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.11-23.41.49:332][118]LogFileHelpers: Saving map 'Untitled' took 0.130
+[2025.01.11-23.41.49:358][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.041 ms (total: 4.62 sec)
+[2025.01.11-23.41.49:428][118]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-23.41.49:428][118]LogContentValidation: Enabled validators:
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-23.41.49:428][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-23.41.49:428][118]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.11-23.41.51:383][259]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.01.11-23.41.51:398][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.11-23.41.51:398][259]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.01.11-23.41.51:404][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005927s)
+[2025.01.11-23.41.51:404][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005970s)
+[2025.01.11-23.41.51:426][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.11-23.41.51:429][259]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.11-23.41.51:431][259]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2025.01.11-23.41.51:432][259]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.11-23.41.51:432][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.11-23.41.51:432][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.11-23.41.51:432][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.11-23.41.51:432][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.11-23.41.51:432][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.11-23.41.51:434][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.11-23.41.51:471][259]LogAudioMixer: Display: Using Audio Hardware Device 2 - 24W_LCD_TV (2- AMD High Definition Audio Device)
+[2025.01.11-23.41.51:472][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.11-23.41.51:473][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.11-23.41.51:473][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.11-23.41.51:473][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.01.11-23.41.51:473][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.01.11-23.41.51:476][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.01.11-23.41.51:476][259]LogInit: FAudioDevice initialized with ID 23.
+[2025.01.11-23.41.51:476][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.01.11-23.41.51:476][259]LogAudio: Display: Audio Device (ID: 23) registered with world 'Untitled'.
+[2025.01.11-23.41.51:476][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.11-23.41.51:479][259]LogLoad: Game class is 'GameModeBase'
+[2025.01.11-23.41.51:480][259]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.01.12-00.41.51
+[2025.01.11-23.41.51:480][259]LogWorld: Bringing up level for play took: 0.001265
+[2025.01.11-23.41.51:484][259]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.01.11-23.41.51:486][259]PIE: Accesso al server effettuato
+[2025.01.11-23.41.51:488][259]PIE: Tempo di avvio totale di Riproduci nell'editor 0,091 secondi.
+[2025.01.11-23.41.54:248][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.11-23.41.54:248][535]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.01.11-23.41.54:249][535]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-23.41.54:249][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-23.41.54:252][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.11-23.41.54:261][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-23.41.54:283][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.11-23.41.54:283][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.11-23.41.54:283][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.11-23.41.54:285][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.11-23.41.54:292][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.01.11-23.41.54:465][536]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.01.11-23.41.55:414][606]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.01.11-23.41.55:431][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.11-23.41.55:431][606]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.01.11-23.41.55:440][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008419s)
+[2025.01.11-23.41.55:440][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.008503s)
+[2025.01.11-23.41.55:464][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.01.11-23.41.55:466][606]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.11-23.41.55:469][606]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2025.01.11-23.41.55:470][606]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.11-23.41.55:470][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.11-23.41.55:470][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.11-23.41.55:470][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.11-23.41.55:470][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.11-23.41.55:470][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.11-23.41.55:472][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.11-23.41.55:512][606]LogAudioMixer: Display: Using Audio Hardware Device 2 - 24W_LCD_TV (2- AMD High Definition Audio Device)
+[2025.01.11-23.41.55:512][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.11-23.41.55:512][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.11-23.41.55:512][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.11-23.41.55:513][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.01.11-23.41.55:513][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.01.11-23.41.55:516][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.01.11-23.41.55:516][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.01.11-23.41.55:516][606]LogInit: FAudioDevice initialized with ID 24.
+[2025.01.11-23.41.55:516][606]LogAudio: Display: Audio Device (ID: 24) registered with world 'Untitled'.
+[2025.01.11-23.41.55:516][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.11-23.41.55:519][606]LogLoad: Game class is 'GameModeBase'
+[2025.01.11-23.41.55:521][606]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.01.12-00.41.55
+[2025.01.11-23.41.55:521][606]LogWorld: Bringing up level for play took: 0.001254
+[2025.01.11-23.41.55:524][606]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.01.11-23.41.55:526][606]PIE: Accesso al server effettuato
+[2025.01.11-23.41.55:527][606]PIE: Tempo di avvio totale di Riproduci nell'editor 0,097 secondi.
+[2025.01.11-23.41.58:760][947]LogBlueprintUserMessages: [Untitled_C_15] Hello
+[2025.01.11-23.42.04:049][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.11-23.42.04:049][535]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.01.11-23.42.04:049][535]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-23.42.04:049][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-23.42.04:053][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.11-23.42.04:061][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-23.42.04:083][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.11-23.42.04:084][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.11-23.42.04:084][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.11-23.42.04:085][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.11-23.42.04:094][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.01.11-23.42.04:271][536]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.01.11-23.43.44:669][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7742.575195
+[2025.01.11-23.43.45:670][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-23.43.45:670][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7743.242188, Update Interval: 334.509094
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:110][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
+[2025.01.11-23.47.51:280][347]EditorErrors: Warning: Nessuna risorsa da archiviare!
