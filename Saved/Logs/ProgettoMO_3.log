@@ -1484,3 +1484,41 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.01.12-11.12.20:872][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1628.474976
 [2025.01.12-11.12.21:872][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.12-11.12.21:872][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1629.141846, Update Interval: 316.025879
+[2025.01.12-11.18.23:935][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1991.538696
+[2025.01.12-11.18.24:936][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.18.24:936][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1992.206055, Update Interval: 307.511230
+[2025.01.12-11.24.25:651][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2353.258301
+[2025.01.12-11.24.26:651][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.24.26:651][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2353.925049, Update Interval: 344.867706
+[2025.01.12-11.31.10:389][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2757.994873
+[2025.01.12-11.31.11:389][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.31.11:389][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2758.661865, Update Interval: 304.577789
+[2025.01.12-11.36.51:139][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3098.748291
+[2025.01.12-11.36.52:139][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.36.52:139][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3099.415283, Update Interval: 313.299347
+[2025.01.12-11.38.39:497][704]LogAssetRegistry: Error: Package is unloadable: C:/Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/StarterContent/Importedassests/TopDownInterior/TopDownHouse_FurnitureState1_TileMap1.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2025.01.12-11.38.39:497][704]LogAssetRegistry: Error: Package is unloadable: C:/Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/StarterContent/Importedassests/TopDownInterior/TopDownHouse_FurnitureState1_TileMap1.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2025.01.12-11.43.02:032][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3469.640869
+[2025.01.12-11.43.03:032][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.43.03:032][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3470.307373, Update Interval: 310.039978
+[2025.01.12-11.47.06:944][593]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.12-11.48.16:153][801]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-11.48.16:405][801]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-11.48.16:406][801]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25952
+[2025.01.12-11.48.16:739][802]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-11.48.16:744][802]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.34
+[2025.01.12-11.48.16:744][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-11.48.16:747][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-11.48.52:412][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3820.020996
+[2025.01.12-11.48.53:413][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.48.53:413][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3820.687744, Update Interval: 353.323761
+[2025.01.12-11.49.25:596][  9]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-11.49.25:759][  9]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-11.49.25:759][  9]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25952
+[2025.01.12-11.49.26:092][ 10]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-11.49.26:095][ 10]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=36.96
+[2025.01.12-11.49.26:095][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-11.49.26:097][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-11.55.37:497][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4225.107910
+[2025.01.12-11.55.38:498][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.55.38:498][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4225.775879, Update Interval: 331.606812
