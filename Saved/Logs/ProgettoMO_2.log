@@ -1557,3 +1557,116 @@ LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2025.01.12-11.53.07:225][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4396.179199
 [2025.01.12-11.53.08:226][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.12-11.53.08:226][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4396.846191, Update Interval: 322.515320
+[2025.01.12-11.59.04:266][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4753.216797
+[2025.01.12-11.59.05:601][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-11.59.05:601][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4754.217285, Update Interval: 337.158722
+[2025.01.12-12.04.45:541][714]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.04.45:721][714]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.04.45:721][714]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.04.46:054][715]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.04.46:056][715]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.03
+[2025.01.12-12.04.46:056][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.04.46:058][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.05.13:062][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5122.010254
+[2025.01.12-12.05.14:062][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.05.14:062][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5122.677246, Update Interval: 307.817017
+[2025.01.12-12.11.08:121][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5477.075684
+[2025.01.12-12.11.09:122][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.11.09:122][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5477.742676, Update Interval: 311.398651
+[2025.01.12-12.15.59:493][735]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.15.59:499][735]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.15.59:499][735]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.15.59:831][736]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.15.59:833][736]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=167.18
+[2025.01.12-12.15.59:834][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.15.59:836][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.16.29:012][824]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.16.29:222][824]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.29:222][824]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.16.29:555][825]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.29:557][825]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.26
+[2025.01.12-12.16.29:557][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.16.29:560][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.16.32:268][833]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.16.32:410][833]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.32:410][833]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.16.32:743][834]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.32:745][834]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=91.18
+[2025.01.12-12.16.32:745][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.16.32:748][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.17.12:087][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5841.040039
+[2025.01.12-12.17.13:087][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.17.13:087][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5841.707031, Update Interval: 332.033447
+[2025.01.12-12.23.41:519][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6230.477539
+[2025.01.12-12.23.42:519][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.23.42:519][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6231.144043, Update Interval: 349.800720
+[2025.01.12-12.30.18:241][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6627.202148
+[2025.01.12-12.30.19:241][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.30.19:241][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6627.868164, Update Interval: 346.588959
+[2025.01.12-12.36.43:908][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7012.870605
+[2025.01.12-12.36.44:908][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.36.44:908][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7013.537109, Update Interval: 304.925690
+[2025.01.12-12.40.32:298][217]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.40.32:607][217]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.40.32:607][217]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.40.32:940][218]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.40.32:943][218]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.42
+[2025.01.12-12.40.32:943][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.40.32:945][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.41.35:370][406]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.12-12.42.34:291][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7363.256348
+[2025.01.12-12.42.35:292][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.42.35:292][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7363.923340, Update Interval: 312.299561
+[2025.01.12-12.48.35:360][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7724.326172
+[2025.01.12-12.48.36:361][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.48.36:361][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7724.992676, Update Interval: 313.577698
+[2025.01.12-12.54.22:746][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8071.710938
+[2025.01.12-12.54.23:747][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.54.23:747][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8072.377441, Update Interval: 345.255890
+[2025.01.12-12.55.35:303][925]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.55.35:449][925]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.35:449][925]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.55.35:782][926]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.35:784][926]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=41.57
+[2025.01.12-12.55.35:784][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.35:786][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.55.53:389][979]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.55.53:539][979]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.53:539][979]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.55.53:873][980]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.53:875][980]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.66
+[2025.01.12-12.55.53:875][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.53:877][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.55.56:039][987]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.55.56:240][987]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.56:240][987]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.55.56:573][988]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.56:575][988]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.64
+[2025.01.12-12.55.56:575][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.56:578][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.56.41:001][122]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.56.41:268][122]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.41:268][122]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.56.41:600][123]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.41:602][123]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.90
+[2025.01.12-12.56.41:602][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.56.41:604][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.56.44:218][131]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.56.44:359][131]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.44:359][131]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21392
+[2025.01.12-12.56.44:691][132]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.44:693][132]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=83.40
+[2025.01.12-12.56.44:694][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.56.44:696][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-13.00.39:728][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8448.653320
+[2025.01.12-13.00.40:727][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.00.40:727][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8449.320312, Update Interval: 324.670563
+[2025.01.12-13.06.56:633][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8825.530273
+[2025.01.12-13.06.57:633][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.06.57:633][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8826.197266, Update Interval: 322.810150
+[2025.01.12-13.12.58:349][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9187.216797
+[2025.01.12-13.12.59:349][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.12.59:349][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9187.882812, Update Interval: 348.187500
+[2025.01.12-13.19.39:793][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9588.615234
+[2025.01.12-13.19.40:793][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.19.40:793][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9589.281250, Update Interval: 339.063080

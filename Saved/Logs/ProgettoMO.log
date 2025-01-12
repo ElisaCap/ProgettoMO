@@ -1982,3 +1982,231 @@ Riprova: prova a salvare di nuovo l'asset.
 Continua: salta il salvataggio solo di questo asset.
 [2025.01.12-11.58.35:731][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.0 sec (total: 55.0 sec)
 [2025.01.12-11.58.35:826][182]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.01.12-12.03.00:023][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 645.153015
+[2025.01.12-12.03.01:022][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.03.01:022][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 645.819641, Update Interval: 316.445190
+[2025.01.12-12.03.26:443][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.12-12.03.26:482][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Untitled_Auto1
+[2025.01.12-12.03.26:494][337]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled_Auto14391997242BBDA90B0D544ACF9119339.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2025.01.12-12.03.26:496][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.072
+[2025.01.12-12.03.26:496][337]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2025.01.12-12.04.45:541][575]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.04.45:705][575]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.04.45:706][575]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.04.46:038][576]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.04.46:041][576]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.06
+[2025.01.12-12.04.46:041][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.04.46:043][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.08.23:072][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 968.202026
+[2025.01.12-12.08.24:073][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.08.24:073][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 968.868896, Update Interval: 333.024078
+[2025.01.12-12.14.09:135][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.264648
+[2025.01.12-12.14.10:135][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.14.10:135][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1314.932007, Update Interval: 346.261169
+[2025.01.12-12.15.59:493][597]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.15.59:821][597]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.15.59:821][597]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.16.00:155][598]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.00:157][598]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.22
+[2025.01.12-12.16.00:157][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.16.00:159][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.16.29:011][685]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.16.29:236][685]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.29:236][685]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.16.29:570][686]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.29:571][686]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.00
+[2025.01.12-12.16.29:571][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.16.29:574][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.16.32:268][694]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.16.32:433][694]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.32:434][694]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.16.32:765][695]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.16.32:767][695]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=86.24
+[2025.01.12-12.16.32:767][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.16.32:770][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.20.26:806][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1691.935913
+[2025.01.12-12.20.27:806][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.20.27:806][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1692.602905, Update Interval: 328.435303
+[2025.01.12-12.20.45:555][979]LogSlate: Window 'Untitled' being destroyed
+[2025.01.12-12.20.45:559][979]LogSlate: Window 'Untitled' being destroyed
+[2025.01.12-12.20.45:601][979]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.12-12.20.45:602][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.12-12.20.45:778][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.01.12-12.20.47:314][984]LogSlate: Window 'Impostazioni progetto' being destroyed
+[2025.01.12-12.20.47:319][984]LogSlate: Window 'Impostazioni progetto' being destroyed
+[2025.01.12-12.21.14:487][349]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.01.12-12.21.14:498][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.12-12.21.14:523][349]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.01.12-12.21.14:528][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005525s)
+[2025.01.12-12.21.14:528][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005575s)
+[2025.01.12-12.21.14:546][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.12-12.21.14:549][349]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.12-12.21.14:550][349]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_Untitled.Untitled'.
+[2025.01.12-12.21.14:551][349]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2025.01.12-12.21.14:551][349]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.01.12-12.21.14:551][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.12-12.21.14:551][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.12-12.21.14:551][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.12-12.21.14:551][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.12-12.21.14:551][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.12-12.21.14:552][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.12-12.21.14:552][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.12-12.21.14:552][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.12-12.21.14:552][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.12-12.21.14:552][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.12-12.21.14:552][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.12-12.21.14:554][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.12-12.21.14:588][349]LogAudioMixer: Display: Using Audio Hardware Device 2 - 24W_LCD_TV (2- AMD High Definition Audio Device)
+[2025.01.12-12.21.14:588][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.12-12.21.14:588][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.12-12.21.14:588][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.12-12.21.14:589][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.01.12-12.21.14:589][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.01.12-12.21.14:591][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.01.12-12.21.14:591][349]LogInit: FAudioDevice initialized with ID 11.
+[2025.01.12-12.21.14:591][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.01.12-12.21.14:591][349]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled'.
+[2025.01.12-12.21.14:591][349]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.12-12.21.14:595][349]LogLoad: Game class is 'GameModeBase'
+[2025.01.12-12.21.14:595][349]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.01.12-13.21.14
+[2025.01.12-12.21.14:596][349]LogWorld: Bringing up level for play took: 0.001222
+[2025.01.12-12.21.14:598][349]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.01.12-12.21.14:601][349]PIE: Accesso al server effettuato
+[2025.01.12-12.21.14:602][349]PIE: Tempo di avvio totale di Riproduci nell'editor 0,104 secondi.
+[2025.01.12-12.21.18:551][819]LogBlueprintUserMessages: [Untitled_C_3] Hello
+[2025.01.12-12.21.22:401][281]LogBlueprintUserMessages: [Untitled_C_3] Hello
+[2025.01.12-12.21.24:335][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.12-12.21.24:335][510]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.01.12-12.21.24:335][510]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.12-12.21.24:335][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.12-12.21.24:339][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.12-12.21.24:345][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.12-12.21.24:364][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.12-12.21.24:365][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.12-12.21.24:365][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.12-12.21.24:367][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.12-12.21.24:372][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.12-12.21.24:374][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.01.12-12.21.24:467][511]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.01.12-12.21.33:003][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.12-12.21.34:919][314]LogSlate: Window 'Salva contenuto' being destroyed
+[2025.01.12-12.21.35:094][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.12-12.21.35:165][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.12-12.21.35:224][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.12-12.21.35:262][314]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.12-12.21.35:262][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.35:763][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.36:264][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.36:765][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.37:266][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.37:766][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.38:267][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.38:768][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.39:268][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.39:768][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.40:269][314]LogFileManager: Error: Error moving file '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDF09C53E4F6C7977EBC656B90CE3A665.tmp'.
+[2025.01.12-12.21.40:269][314]LogSavePackage: Warning: Failed to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to temp directory
+[2025.01.12-12.21.40:269][314]LogSavePackage: Error: Error saving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.12-12.21.40:277][314]EditorErrors: Warning: Errore nel salvataggio di '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.12-12.21.40:303][314]LogFileHelpers: Saving map 'Untitled' took 5.139
+[2025.01.12-12.21.43:684][314]LogSlate: Window 'Messaggio' being destroyed
+[2025.01.12-12.21.43:694][314]Message dialog closed, result: Retry, title: Messaggio, text: Salvataggio dell'asset '/Game/Untitled' (Untitled.umap) non riuscito.
+
+Annulla: interrompi il salvataggio di tutti gli asset e torna all'editor.
+Riprova: prova a salvare di nuovo l'asset.
+Continua: salta il salvataggio solo di questo asset.
+[2025.01.12-12.21.43:696][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.12-12.21.43:754][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.12-12.21.43:792][314]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.12-12.21.43:792][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.44:294][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.44:794][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.45:295][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.45:796][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.46:297][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.46:797][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.47:297][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.47:798][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.48:299][314]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp' (Error Code 32), retrying in .5s...
+[2025.01.12-12.21.48:799][314]LogFileManager: Error: Error moving file '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled3B34BB1642542F8C613122BAC0B2DE2C.tmp'.
+[2025.01.12-12.21.48:799][314]LogSavePackage: Warning: Failed to move '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap' to temp directory
+[2025.01.12-12.21.48:799][314]LogSavePackage: Error: Error saving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.12-12.21.48:806][314]EditorErrors: Warning: Errore nel salvataggio di '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.12-12.21.48:807][314]LogFileHelpers: Saving map 'Untitled' took 5.113
+[2025.01.12-12.21.52:944][314]LogSlate: Window 'Messaggio' being destroyed
+[2025.01.12-12.21.52:954][314]Message dialog closed, result: Cancel, title: Messaggio, text: Salvataggio dell'asset '/Game/Untitled' (Untitled.umap) non riuscito.
+
+Annulla: interrompi il salvataggio di tutti gli asset e torna all'editor.
+Riprova: prova a salvare di nuovo l'asset.
+Continua: salta il salvataggio solo di questo asset.
+[2025.01.12-12.21.52:960][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.8 sec (total: 1:12 min)
+[2025.01.12-12.26.45:218][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2070.345703
+[2025.01.12-12.26.46:218][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.26.46:218][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2071.012695, Update Interval: 316.606354
+[2025.01.12-12.32.57:264][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2442.385498
+[2025.01.12-12.32.58:263][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.32.58:263][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2443.052002, Update Interval: 358.082825
+[2025.01.12-12.39.42:440][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2847.563477
+[2025.01.12-12.39.43:440][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.39.43:440][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2848.230469, Update Interval: 357.597595
+[2025.01.12-12.40.32:298][930]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.40.32:447][930]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.40.32:449][930]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.40.32:782][931]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.40.32:784][931]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.10
+[2025.01.12-12.40.32:784][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.40.32:787][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.46.39:510][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3264.634033
+[2025.01.12-12.46.40:511][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.46.40:511][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3265.302002, Update Interval: 303.724487
+[2025.01.12-12.52.26:575][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3611.698730
+[2025.01.12-12.52.27:575][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.52.27:575][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3612.365479, Update Interval: 341.941589
+[2025.01.12-12.54.08:188][377]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.12-12.55.35:302][639]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.55.35:599][639]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.35:600][639]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.55.35:933][640]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.35:935][640]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.75
+[2025.01.12-12.55.35:935][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.35:937][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.55.53:389][693]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.55.53:668][693]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.53:668][693]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.55.54:000][694]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.54:002][694]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.35
+[2025.01.12-12.55.54:002][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.54:005][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.55.56:038][700]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.55.56:243][700]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.56:244][700]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.55.56:577][701]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.55.56:579][701]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=47.64
+[2025.01.12-12.55.56:579][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.55.56:582][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.56.40:995][835]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.01.12-12.56.41:270][835]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.41:270][835]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.56.41:603][836]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.41:606][836]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b03518fa-1d1b-44d8-8419-0e905184ef00}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.68
+[2025.01.12-12.56.41:606][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.56.41:608][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.56.44:213][844]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.01.12-12.56.44:375][844]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.44:375][844]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5624
+[2025.01.12-12.56.44:708][845]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.12-12.56.44:710][845]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=75.90
+[2025.01.12-12.56.44:710][845]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.12-12.56.44:712][845]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.12-12.58.45:701][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3990.827393
+[2025.01.12-12.58.46:701][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-12.58.46:702][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3991.493896, Update Interval: 311.466400
+[2025.01.12-13.04.41:123][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4346.252930
+[2025.01.12-13.04.42:124][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.04.42:124][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4346.920410, Update Interval: 309.822083
+[2025.01.12-13.10.43:464][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4708.594727
+[2025.01.12-13.10.44:465][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.10.44:465][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4709.261719, Update Interval: 310.572845
+[2025.01.12-13.16.45:855][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5070.993652
+[2025.01.12-13.16.46:856][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.12-13.16.46:856][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5071.660645, Update Interval: 353.409821
