@@ -3425,3 +3425,25 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
 [2025.01.11-23.47.51:111][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Utente/Documents/Unreal Projects/ProgettoMO'
 [2025.01.11-23.47.51:280][347]EditorErrors: Warning: Nessuna risorsa da archiviare!
+[2025.01.11-23.50.09:746][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8127.664551
+[2025.01.11-23.50.10:746][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-23.50.10:747][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8128.331055, Update Interval: 359.155853
+[2025.01.11-23.54.18:617][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-23.54.18:673][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.11-23.54.18:734][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.01.11-23.54.18:780][182]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.11-23.54.18:780][182]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledEC9C8B974E5A6A911001B59B787A5825.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.11-23.54.18:800][182]LogFileHelpers: Saving map 'Untitled' took 0.127
+[2025.01.11-23.54.18:811][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.046 ms (total: 4.82 sec)
+[2025.01.11-23.54.18:872][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-23.54.18:872][182]LogContentValidation: Enabled validators:
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-23.54.18:872][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.11-23.54.18:873][182]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.11-23.56.52:305][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8530.205078
+[2025.01.11-23.56.53:299][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-23.56.53:300][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8530.866211, Update Interval: 345.638611
