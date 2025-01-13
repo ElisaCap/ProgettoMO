@@ -2759,3 +2759,6 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.01.13-12.32.08:412][ 71]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=50.19
 [2025.01.13-12.32.08:413][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2025.01.13-12.32.08:415][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.13-12.36.13:952][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12924.897461
+[2025.01.13-12.36.14:953][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-12.36.14:953][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12925.564453, Update Interval: 337.567078
