@@ -2765,3 +2765,61 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.01.13-12.42.49:482][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13320.359375
 [2025.01.13-12.42.50:482][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.13-12.42.50:482][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13321.025391, Update Interval: 327.078461
+[2025.01.13-12.48.48:929][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13679.745117
+[2025.01.13-12.48.49:930][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-12.48.49:930][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13680.412109, Update Interval: 355.850708
+[2025.01.13-12.55.24:769][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14075.497070
+[2025.01.13-12.55.25:769][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-12.55.25:769][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14076.164062, Update Interval: 330.425720
+[2025.01.13-12.55.33:689][758]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.01.13-12.55.33:705][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.13-12.55.33:705][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.01.13-12.55.33:713][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008126s)
+[2025.01.13-12.55.33:713][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.008226s)
+[2025.01.13-12.55.33:742][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.01.13-12.55.33:746][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.01.13-12.55.33:748][758]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_Untitled.Untitled'.
+[2025.01.13-12.55.33:748][758]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2025.01.13-12.55.33:749][758]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.13-12.55.33:749][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.13-12.55.33:749][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.13-12.55.33:749][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.13-12.55.33:749][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.13-12.55.33:749][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.13-12.55.33:752][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.13-12.55.33:793][758]LogAudioMixer: Display: Using Audio Hardware Device 2 - 24W_LCD_TV (2- AMD High Definition Audio Device)
+[2025.01.13-12.55.33:793][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.13-12.55.33:793][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.13-12.55.33:793][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.13-12.55.33:794][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.01.13-12.55.33:794][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.01.13-12.55.33:798][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.01.13-12.55.33:798][758]LogInit: FAudioDevice initialized with ID 19.
+[2025.01.13-12.55.33:798][758]LogAudio: Display: Audio Device (ID: 19) registered with world 'Untitled'.
+[2025.01.13-12.55.33:798][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.01.13-12.55.33:798][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.13-12.55.33:803][758]LogLoad: Game class is 'GameModeBase'
+[2025.01.13-12.55.33:805][758]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.01.13-13.55.33
+[2025.01.13-12.55.33:805][758]LogWorld: Bringing up level for play took: 0.002194
+[2025.01.13-12.55.33:808][758]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.01.13-12.55.33:811][758]PIE: Accesso al server effettuato
+[2025.01.13-12.55.33:812][758]PIE: Tempo di avvio totale di Riproduci nell'editor 0,108 secondi.
+[2025.01.13-12.55.49:772][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-12.55.49:772][641]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.01.13-12.55.49:772][641]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-12.55.49:773][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-12.55.49:776][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.13-12.55.49:783][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-12.55.49:801][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.13-12.55.49:801][641]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.13-12.55.49:802][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.13-12.55.49:803][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.13-12.55.49:810][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.13-12.55.49:812][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.01.13-12.55.49:915][642]LogPlayLevel: Display: Destroying online subsystem :Context_22
