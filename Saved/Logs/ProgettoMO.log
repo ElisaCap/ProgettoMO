@@ -4384,3 +4384,23 @@ Script Stack (0 frames) :
 [2025.01.13-14.59.36:050][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.13-14.59.36:050][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.13-14.59.36:050][559]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.13-14.59.52:314][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.13-14.59.53:311][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-14.59.53:365][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.13-14.59.53:424][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.13-14.59.53:466][106]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.13-14.59.53:467][106]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledDCD80F5B4D64E08E643271A62AFB1B2F.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.13-14.59.53:487][106]LogFileHelpers: Saving map 'Untitled' took 0.123
+[2025.01.13-14.59.53:497][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.162 ms (total: 6.68 sec)
+[2025.01.13-14.59.53:567][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-14.59.53:567][106]LogContentValidation: Enabled validators:
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-14.59.53:568][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-14.59.53:568][106]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.13-15.03.48:269][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5466.317871
+[2025.01.13-15.03.49:269][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-15.03.49:269][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5466.984375, Update Interval: 335.897095
