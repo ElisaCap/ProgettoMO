@@ -2823,3 +2823,58 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.01.13-12.55.49:810][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.01.13-12.55.49:812][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
 [2025.01.13-12.55.49:915][642]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.01.13-13.01.50:507][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14461.227539
+[2025.01.13-13.01.51:507][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-13.01.51:507][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14461.894531, Update Interval: 306.280701
+[2025.01.13-13.02.42:398][ 48]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.13-13.07.55:396][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14826.106445
+[2025.01.13-13.07.56:396][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-13.07.56:396][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14826.773438, Update Interval: 346.913055
+[2025.01.13-13.08.21:311][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-13.08.21:381][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.13-13.08.21:443][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.01.13-13.08.21:485][450]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.13-13.08.21:485][450]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledB6505ECB471F23793FDD3BB5A11D690E.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.13-13.08.21:505][450]LogFileHelpers: Saving map 'Untitled' took 0.124
+[2025.01.13-13.08.21:519][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.055 ms (total: 3.03 sec)
+[2025.01.13-13.08.21:580][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-13.08.21:581][450]LogContentValidation: Enabled validators:
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-13.08.21:581][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-13.08.21:581][450]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.13-13.08.23:344][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-13.08.23:402][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.13-13.08.23:460][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.13-13.08.23:499][631]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.13-13.08.23:500][631]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Untitled4557DF72492F6C843B0F5CAB8488CFD1.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.13-13.08.23:519][631]LogFileHelpers: Saving map 'Untitled' took 0.117
+[2025.01.13-13.08.23:535][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.854 ms (total: 3.22 sec)
+[2025.01.13-13.08.23:600][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-13.08.23:600][631]LogContentValidation: Enabled validators:
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-13.08.23:600][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-13.08.23:600][631]AssetCheck: /Game/Untitled Convalida asset
+[2025.01.13-13.08.24:353][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-13.08.24:415][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.13-13.08.24:472][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.13-13.08.24:511][694]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.01.13-13.08.24:512][694]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledACD1555C49EA7DD303598D9BD1E77EC4.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.01.13-13.08.24:531][694]LogFileHelpers: Saving map 'Untitled' took 0.117
+[2025.01.13-13.08.24:539][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.032 ms (total: 3.41 sec)
+[2025.01.13-13.08.24:597][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-13.08.24:597][694]LogContentValidation: Enabled validators:
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-13.08.24:597][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-13.08.24:598][694]AssetCheck: /Game/Untitled Convalida asset
