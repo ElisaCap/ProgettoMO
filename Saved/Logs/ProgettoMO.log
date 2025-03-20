@@ -2830,3 +2830,37 @@ Script Stack (0 frames) :
 [2025.03.20-16.01.04:337][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.20-16.01.04:337][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.20-16.01.04:337][646]AssetCheck: /Game/Untitled Convalida asset
+[2025.03.20-16.06.54:080][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5476.820801
+[2025.03.20-16.06.55:080][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.20-16.06.55:080][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5477.487793, Update Interval: 309.161041
+[2025.03.20-16.12.13:188][188]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altoparlanti (Steam Streaming Speakers), InstanceID=1
+[2025.03.20-16.12.13:454][188]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.20-16.12.13:454][188]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19264
+[2025.03.20-16.12.13:787][189]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.20-16.12.13:789][189]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a506e6f5-eb9f-43e9-a5a4-548f3fcddbd0}, Name=Altoparlanti (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.90
+[2025.03.20-16.12.13:789][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.20-16.12.13:791][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.20-16.12.59:793][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5842.534668
+[2025.03.20-16.13.00:793][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.20-16.13.00:794][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5843.201172, Update Interval: 329.497375
+[2025.03.20-16.14.19:123][565]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.03.20-16.14.19:143][565]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.20-16.14.19:143][565]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19264
+[2025.03.20-16.14.19:476][566]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.20-16.14.19:478][566]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=168.13
+[2025.03.20-16.14.19:478][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.20-16.14.19:479][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.20-16.16.51:159][ 22]LogUdpMessaging: Error: Socket error detected when communicating with 192.168.1.71:55773. Banning communication to that endpoint.
+[2025.03.20-16.16.51:491][ 22]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.20-16.16.53:679][ 27]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55300'.
+[2025.03.20-16.16.53:684][ 27]LogUdpMessaging: Display: Added local interface '192.168.1.71' to multicast group '230.0.0.1:6666'
+[2025.03.20-16.16.53:684][ 27]LogUdpMessaging: Display: Added local interface '172.26.16.1' to multicast group '230.0.0.1:6666'
+[2025.03.20-16.19.01:044][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6203.793945
+[2025.03.20-16.19.02:044][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.20-16.19.02:044][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6204.460449, Update Interval: 309.615173
+[2025.03.20-16.25.10:101][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6572.863770
+[2025.03.20-16.25.11:101][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.20-16.25.11:101][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6573.530273, Update Interval: 346.709808
+[2025.03.20-16.31.54:192][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6976.961914
+[2025.03.20-16.31.55:192][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.20-16.31.55:192][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6977.628906, Update Interval: 303.810547
