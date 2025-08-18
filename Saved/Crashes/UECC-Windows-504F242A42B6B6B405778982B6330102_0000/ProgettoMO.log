@@ -1527,23 +1527,3 @@ Script Stack (0 frames) :
 [2025.08.18-13.01.28:446][925]LogOutputDevice: Error: [Callstack] 0x00007ff8d21ee8d7 KERNEL32.DLL!UnknownFunction []
 [2025.08.18-13.01.28:446][925]LogOutputDevice: Error: [Callstack] 0x00007ff8d3a9c34c ntdll.dll!UnknownFunction []
 [2025.08.18-13.01.28:446][925]LogOutputDevice: Error: 
-[2025.08.18-13.01.28:456][925]LogStats:                SubmitErrorReport -  0.000 s
-[2025.08.18-13.01.29:557][925]LogStats:                    SendNewReport -  1.102 s
-[2025.08.18-13.01.29:557][925]LogStats:             FDebug::EnsureFailed -  1.140 s
-[2025.08.18-13.01.29:560][925]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.18-15.01.29
-[2025.08.18-13.01.29:561][925]LogWorld: Bringing up level for play took: 1.143377
-[2025.08.18-13.01.29:564][925]LogOnline: OSS: Created online subsystem instance for: :Context_1
-[2025.08.18-13.01.29:576][925]PIE: Accesso al server effettuato
-[2025.08.18-13.01.29:577][925]PIE: Tempo di avvio totale di Riproduci nell'editor 1,241 secondi.
-[2025.08.18-13.01.37:971][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2025.08.18-13.01.37:971][881]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
-[2025.08.18-13.01.37:971][881]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2025.08.18-13.01.37:971][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2025.08.18-13.01.37:975][881]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2025.08.18-13.01.37:978][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2025.08.18-13.01.37:988][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2025.08.18-13.01.37:988][881]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
-[2025.08.18-13.01.37:988][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
-[2025.08.18-13.01.37:990][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
-[2025.08.18-13.01.37:997][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
-[2025.08.18-13.01.38:044][882]LogPlayLevel: Display: Destroying online subsystem :Context_1
