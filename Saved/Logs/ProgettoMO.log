@@ -7282,3 +7282,41 @@ Script Stack (0 frames) :
 [2025.08.18-09.48.50:419][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Importedassests/OggettiCasa/Lampaa_Auto4
 [2025.08.18-09.48.50:419][785]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Lampaa_Auto457AC82BD4DDF8F17740C6FBC6F727996.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/StarterContent/Importedassests/OggettiCasa/Lampaa_Auto4.uasset'
 [2025.08.18-09.48.50:421][785]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.08.18-09.52.22:828][429]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.18-09.52.36:426][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7326.456055
+[2025.08.18-09.52.37:427][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.18-09.52.37:427][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7327.123047, Update Interval: 327.501465
+[2025.08.18-09.59.00:808][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7710.839355
+[2025.08.18-09.59.02:808][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.18-09.59.02:808][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7712.506836, Update Interval: 331.200287
+[2025.08.18-09.59.24:842][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altoparlanti (Steam Streaming Speakers), InstanceID=1
+[2025.08.18-09.59.25:143][695]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.18-09.59.25:143][695]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28048
+[2025.08.18-09.59.25:476][696]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.18-09.59.25:479][696]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a506e6f5-eb9f-43e9-a5a4-548f3fcddbd0}, Name=Altoparlanti (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.44
+[2025.08.18-09.59.25:479][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.18-09.59.25:481][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.18-09.59.31:283][714]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.08.18-09.59.31:483][714]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.18-09.59.31:483][714]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28048
+[2025.08.18-09.59.31:816][715]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.18-09.59.31:818][715]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=42.92
+[2025.08.18-09.59.31:818][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.18-09.59.31:820][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.18-10.04.28:176][604]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altoparlanti (Steam Streaming Speakers), InstanceID=1
+[2025.08.18-10.04.28:198][604]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.18-10.04.28:198][604]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28048
+[2025.08.18-10.04.28:531][605]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.18-10.04.28:533][605]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a506e6f5-eb9f-43e9-a5a4-548f3fcddbd0}, Name=Altoparlanti (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.00
+[2025.08.18-10.04.28:533][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.18-10.04.28:536][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.18-10.05.32:545][797]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8102.575195
+[2025.08.18-10.05.33:545][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.18-10.05.33:545][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8103.241699, Update Interval: 302.417053
+[2025.08.18-10.06.02:994][889]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2 - 24W_LCD_TV (2- AMD High Definition Audio Device), InstanceID=1
+[2025.08.18-10.06.03:216][889]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.18-10.06.03:216][889]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28048
+[2025.08.18-10.06.03:549][890]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.18-10.06.03:551][890]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e60bcaed-c697-4fab-90f5-21357ea66eb9}, Name=2 - 24W_LCD_TV (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=35.32
+[2025.08.18-10.06.03:551][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.18-10.06.03:553][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
