@@ -1643,3 +1643,892 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.30-15.43.28:590][443]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2025.08.30-15.43.28:632][448]Cmd: SELECT NONE
 [2025.08.30-15.44.04:445][294]LogDerivedDataCache: C:/Users/Paolo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.30-15.44.48:769][837]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.44.48:780][837]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_.PixelFantasy_Dungeon_B_desaturated_
+[2025.08.30-15.44.55:178][501]LogSlate: Window 'PixelFantasy_Dungeon_B_desaturated_' being destroyed
+[2025.08.30-15.44.55:184][501]LogSlate: Window 'PixelFantasy_Dungeon_B_desaturated_' being destroyed
+[2025.08.30-15.47.17:793][858]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TilesetsR/TM_Grass.TM_Grass
+[2025.08.30-15.47.17:796][858]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.08.30-15.47.18:129][858]LogSlate: Took 0.005817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.30-15.47.18:142][858]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.30-15.47.18:221][859]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.08.30-15.47.20:895][134]LogSlate: Window 'TM_Grass' being destroyed
+[2025.08.30-15.47.20:909][134]LogSlate: Window 'TM_Grass' being destroyed
+[2025.08.30-15.47.20:954][134]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-15.47.20:954][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.47.21:002][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.30-15.47.22:099][261]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.47.22:101][261]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TilesetsR/TM_Home.TM_Home
+[2025.08.30-15.47.22:101][261]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.08.30-15.47.24:133][432]LogSlate: Window 'TM_Home' being destroyed
+[2025.08.30-15.47.24:138][432]LogSlate: Window 'TM_Home' being destroyed
+[2025.08.30-15.47.24:156][432]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-15.47.24:156][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.47.24:178][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-15.48.00:395][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 352.325684
+[2025.08.30-15.48.00:552][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-15.48.00:552][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.476776, Update Interval: 358.243958
+[2025.08.30-15.49.37:138][361]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.49.37:141][361]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Importedassests/OggettiCasa/OggettiMap.OggettiMap
+[2025.08.30-15.49.37:141][361]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.08.30-15.49.39:354][506]LogSlate: Window 'OggettiMap' being destroyed
+[2025.08.30-15.49.39:359][506]LogSlate: Window 'OggettiMap' being destroyed
+[2025.08.30-15.49.39:404][506]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-15.49.39:404][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.49.39:435][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-15.49.43:405][906]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Importedassests/OggettiCasa/Oggetto1.Oggetto1
+[2025.08.30-15.49.43:406][906]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.08.30-15.49.45:007][990]LogSlate: Window 'Oggetto1' being destroyed
+[2025.08.30-15.49.45:012][990]LogSlate: Window 'Oggetto1' being destroyed
+[2025.08.30-15.49.45:064][990]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-15.49.45:064][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.49.45:090][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-15.51.42:854][ 79]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.51.42:855][ 79]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TilesetsR/Textures/PixelFantasy_Outside_A1_desaturated_.PixelFantasy_Outside_A1_desaturated_
+[2025.08.30-15.51.44:830][232]LogSlate: Window 'PixelFantasy_Outside_A1_desaturated_' being destroyed
+[2025.08.30-15.51.44:835][232]LogSlate: Window 'PixelFantasy_Outside_A1_desaturated_' being destroyed
+[2025.08.30-15.51.56:190][487]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.52.31:448][487]LogInterchangeEngine: [In sospeso] Importazione
+[2025.08.30-15.52.31:448][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_A1.png]
+[2025.08.30-15.52.31:449][487]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.52.31:449][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_A2.png]
+[2025.08.30-15.52.31:449][487]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.52.31:449][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_A4.png]
+[2025.08.30-15.52.31:450][487]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.52.31:450][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_A5.png]
+[2025.08.30-15.52.31:450][487]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.52.31:450][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_B.png]
+[2025.08.30-15.52.31:451][487]LogInterchangeEngine: [In sospeso] Importazione -  (6)
+[2025.08.30-15.52.31:451][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Dungeon_C.png]
+[2025.08.30-15.52.31:554][489]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.52.31:561][490]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.52.31:562][490]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.52.31:564][490]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.52.31:568][490]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.52.31:572][490]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.52.31:585][491]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_A1.png]
+[2025.08.30-15.52.31:585][491]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.52.31:586][491]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_A2.png]
+[2025.08.30-15.52.31:587][491]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.52.31:587][491]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_C.png]
+[2025.08.30-15.52.31:587][491]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.52.31:639][492]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_A5.png]
+[2025.08.30-15.52.31:639][492]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.52.31:646][493]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_A4.png]
+[2025.08.30-15.52.31:646][493]LogInterchangeEngine: [In sospeso] Importazione -  (1)
+[2025.08.30-15.52.31:646][493]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Dungeon_B.png]
+[2025.08.30-15.52.31:716][493]LogInterchangeEngine: [In sospeso] Importazione - Operation completed.
+[2025.08.30-15.52.31:716][493]LogInterchangeEngine: [Operazione riuscita] Importazione completata
+[2025.08.30-15.53.23:692][463]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.53.23:693][463]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Importedassests/town_free/free_version.free_version
+[2025.08.30-15.53.31:876][241]LogSlate: Window 'free_version' being destroyed
+[2025.08.30-15.54.01:865][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 713.794312
+[2025.08.30-15.54.02:015][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-15.54.02:015][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 713.937988, Update Interval: 323.460175
+[2025.08.30-15.54.52:300][389]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.54.53:042][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.54.53:044][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:044][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_]
+[2025.08.30-15.54.53:047][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_
+[2025.08.30-15.54.53:047][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A5_desatura70C5581E4209977BE66A9A8300CA1BAE.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:048][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:048][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_]
+[2025.08.30-15.54.53:048][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_
+[2025.08.30-15.54.53:049][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A5_desatura1729A2D9461738BABC06C2A61CC6683E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:050][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:050][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_]
+[2025.08.30-15.54.53:052][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_
+[2025.08.30-15.54.53:052][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A4_desatura722F5D1249ACD9684DE26995DE5E26CB.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:054][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:054][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_]
+[2025.08.30-15.54.53:054][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_
+[2025.08.30-15.54.53:054][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A4_desaturaE7D018B4437DA13D35467C9E0B4CD5A8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:055][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:055][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_]
+[2025.08.30-15.54.53:057][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_
+[2025.08.30-15.54.53:057][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A3_desaturaEE710A444847924E655575AD6CE2055E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_.uasset'
+[2025.08.30-15.54.53:058][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:058][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_]
+[2025.08.30-15.54.53:058][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_
+[2025.08.30-15.54.53:059][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A3_desaturaB5A9CFDD4C85FC2EAACF8D8C743248A3.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_.uasset'
+[2025.08.30-15.54.53:060][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:060][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_]
+[2025.08.30-15.54.53:063][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_
+[2025.08.30-15.54.53:063][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A2_desaturaD156D08A4D440160FF4F1288CC778A7F.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:064][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:064][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_]
+[2025.08.30-15.54.53:064][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_
+[2025.08.30-15.54.53:065][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A2_desaturaD633A5784DE80C8A0A8FF3B63188DE4A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:065][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:065][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_]
+[2025.08.30-15.54.53:068][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_
+[2025.08.30-15.54.53:068][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A1_desaturaFA9C7E2F4759B2E0B58FDEA4B7E53326.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:069][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:069][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_]
+[2025.08.30-15.54.53:069][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_
+[2025.08.30-15.54.53:070][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A1_desatura2D952B6546C5E953A898F085E90F0C73.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:071][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:071][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_]
+[2025.08.30-15.54.53:074][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_
+[2025.08.30-15.54.53:074][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A5_desaturat47087AA64F572B2858CCA0A6374B6C11.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:074][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:074][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_]
+[2025.08.30-15.54.53:074][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_
+[2025.08.30-15.54.53:075][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A5_desaturatA451743A4530FB189E424AAA3ECC1A41.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:076][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:076][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_]
+[2025.08.30-15.54.53:079][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_
+[2025.08.30-15.54.53:079][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A4_desaturatE5318B1044D60A8E85E859990267F21B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:080][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:081][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_]
+[2025.08.30-15.54.53:081][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_
+[2025.08.30-15.54.53:082][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A4_desaturat6919D8664EB7FC9632CE76B2EC9C3F9C.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:083][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:083][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_]
+[2025.08.30-15.54.53:085][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_
+[2025.08.30-15.54.53:085][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A2_desaturatC05945734142D12A43D6CB871AB88A25.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:086][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:086][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_]
+[2025.08.30-15.54.53:087][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_
+[2025.08.30-15.54.53:087][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A2_desaturat2D6B8FAF40544165A004209FC72ED8F8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:088][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:088][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_]
+[2025.08.30-15.54.53:091][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_
+[2025.08.30-15.54.53:091][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A1_desaturat069422274D2447EF9E86A6ABC0E7E0FC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:091][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:091][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_]
+[2025.08.30-15.54.53:092][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_
+[2025.08.30-15.54.53:092][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A1_desaturat21CBBFE4475AB43599546A8BEF9B5B21.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:094][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:094][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_]
+[2025.08.30-15.54.53:096][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_
+[2025.08.30-15.54.53:096][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A5_desatura7FBA1C0A443B63D3FB947C8C38521C61.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:097][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:097][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_]
+[2025.08.30-15.54.53:098][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_
+[2025.08.30-15.54.53:098][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A5_desatura55B8F16D4CB0C4D6EAC670A287D36EBE.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_.uasset'
+[2025.08.30-15.54.53:099][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:099][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_]
+[2025.08.30-15.54.53:102][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_
+[2025.08.30-15.54.53:102][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A4_desaturaCF0FD28B4B92EBC28D5E85A9584CAA62.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:103][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:103][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_]
+[2025.08.30-15.54.53:104][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_
+[2025.08.30-15.54.53:104][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A4_desaturaAA19BA8E485B99C591BD0196C5EF3E72.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_.uasset'
+[2025.08.30-15.54.53:105][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:105][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_]
+[2025.08.30-15.54.53:108][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_
+[2025.08.30-15.54.53:108][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A2_desatura48B22DA14AEC9E82244F94983DF90597.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:109][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:109][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_]
+[2025.08.30-15.54.53:109][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_
+[2025.08.30-15.54.53:110][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A2_desatura242D256745E6206A61F39EA6433C986C.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_.uasset'
+[2025.08.30-15.54.53:111][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:111][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_]
+[2025.08.30-15.54.53:114][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_
+[2025.08.30-15.54.53:114][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A1_desatura88583CE64D984CC2946F38BE0F5C5D34.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:115][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.53:115][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_]
+[2025.08.30-15.54.53:115][389]LogSavePackage: Moving output files for package: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_
+[2025.08.30-15.54.53:116][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A1_desaturaDFCF4EE947FE5713E8549EA5B33D8DC6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_.uasset'
+[2025.08.30-15.54.53:685][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 643.310 ms
+[2025.08.30-15.54.58:310][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.54.58:312][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:312][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_]
+[2025.08.30-15.54.58:315][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_
+[2025.08.30-15.54.58:315][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_B_desaturatBF70EC6A485C4BB4168111BD18B61789.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_.uasset'
+[2025.08.30-15.54.58:316][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:316][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_]
+[2025.08.30-15.54.58:318][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_
+[2025.08.30-15.54.58:318][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_B_desaturat64E4D2AC48BDDCD577BA99B57EB525A0.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_.uasset'
+[2025.08.30-15.54.58:319][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:319][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_]
+[2025.08.30-15.54.58:322][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_
+[2025.08.30-15.54.58:322][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_D-Trees_desC9D59352491252A2ED8D7EA3C2368859.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_.uasset'
+[2025.08.30-15.54.58:323][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:323][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_]
+[2025.08.30-15.54.58:324][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_
+[2025.08.30-15.54.58:324][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_D-Trees_desAD589B16480767D3F1C60EB6FB918CCD.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_.uasset'
+[2025.08.30-15.54.58:325][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:325][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_]
+[2025.08.30-15.54.58:328][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_
+[2025.08.30-15.54.58:329][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_C_desaturat27CCB6A842A0FDE163996EB21EB63A38.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_.uasset'
+[2025.08.30-15.54.58:329][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:329][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_]
+[2025.08.30-15.54.58:330][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_
+[2025.08.30-15.54.58:330][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_C_desaturat238A794C475CC7820ABF51A3D3F484ED.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_.uasset'
+[2025.08.30-15.54.58:331][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:331][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_]
+[2025.08.30-15.54.58:335][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_
+[2025.08.30-15.54.58:335][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_B_desaturatC99FDAB64EB60DCC87F7EEA231F169CC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_.uasset'
+[2025.08.30-15.54.58:335][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:335][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_]
+[2025.08.30-15.54.58:336][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_
+[2025.08.30-15.54.58:337][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_B_desaturat9EA84B134B070A67190E8CA46DB47026.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_.uasset'
+[2025.08.30-15.54.58:337][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:337][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_]
+[2025.08.30-15.54.58:340][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_
+[2025.08.30-15.54.58:340][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_C_desaturateAC34A0D7406F97842201D48517F16C99.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_.uasset'
+[2025.08.30-15.54.58:341][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:341][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_]
+[2025.08.30-15.54.58:342][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_
+[2025.08.30-15.54.58:342][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_C_desaturate77782F8F40D16DF570C0EEB58077B949.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_.uasset'
+[2025.08.30-15.54.58:344][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:344][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_]
+[2025.08.30-15.54.58:346][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_
+[2025.08.30-15.54.58:346][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_B_desaturate18027F0F416103C82C01D1AB794EF748.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_.uasset'
+[2025.08.30-15.54.58:347][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:347][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_]
+[2025.08.30-15.54.58:347][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_
+[2025.08.30-15.54.58:348][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_B_desaturate07F32A8548BC4D4C435161BD450E66B3.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_.uasset'
+[2025.08.30-15.54.58:349][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:349][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_]
+[2025.08.30-15.54.58:352][389]LogSavePackage: Moving output files for package: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_
+[2025.08.30-15.54.58:352][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_C_desaturatFB4DD7284327E25596105B8C9B9F3C2C.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_.uasset'
+[2025.08.30-15.54.58:354][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_] ([1] browsable assets)...
+[2025.08.30-15.54.58:354][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_]
+[2025.08.30-15.54.58:354][389]LogSavePackage: Moving output files for package: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_
+[2025.08.30-15.54.58:355][389]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_C_desaturatDE65F7AF4C96EC0E45FFB085621E7021.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_.uasset'
+[2025.08.30-15.54.58:899][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 589.160 ms (total: 1.23 sec)
+[2025.08.30-15.55.01:285][389]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.08.30-15.55.01:285][389]LogContentValidation: Display: Starting to validate 40 assets
+[2025.08.30-15.55.01:285][389]LogContentValidation: Enabled validators:
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.55.01:285][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_ Convalida asset
+[2025.08.30-15.55.01:285][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Textures/desaturated/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_ Convalida asset
+[2025.08.30-15.55.01:286][389]AssetCheck: /Game/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_ Convalida asset
+[2025.08.30-15.55.42:156][883]LogSlate: Window 'Report sull'aggiornamento del reindirizzatore' being destroyed
+[2025.08.30-15.55.42:295][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-15.55.44:673][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.08.30-15.55.44:680][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-15.55.44:688][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.08.30-15.55.45:689][883]SourceControl: Error: Updated 7 paths from the index
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_B_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Dungeon_C_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_B_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Inside_C_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_B_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_C_desaturated_.uasset'
+[2025.08.30-15.55.46:019][883]SourceControl: rm 'Content/Importedassests/TopDown_Fantasy/PixelFantasy_Outside_D-Trees_desaturated_.uasset'
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Dungeon_B_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Dungeon_C_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Inside_B_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Inside_C_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Outside_B_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Outside_C_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.46:030][883]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\TopDown_Fantasy\PixelFantasy_Outside_D-Trees_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.49:107][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-15.55.49:109][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.08.30-15.55.49:161][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Untitled_Auto1
+[2025.08.30-15.55.49:161][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled_Auto11DF2CDE0446167626A2A069589E838B8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2025.08.30-15.55.49:162][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.065
+[2025.08.30-15.55.49:162][209]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2025.08.30-15.55.49:163][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1] ([1] browsable assets)...
+[2025.08.30-15.55.49:165][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A1.PixelFantasy_Dungeon_A1]
+[2025.08.30-15.55.49:165][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1]
+[2025.08.30-15.55.49:167][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1_Auto1
+[2025.08.30-15.55.49:167][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A1_Auto1DAA154F14AAE372C6A232FB4E0EB2A3E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1_Auto1.uasset'
+[2025.08.30-15.55.49:168][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_C] ([1] browsable assets)...
+[2025.08.30-15.55.49:169][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_C.PixelFantasy_Dungeon_C]
+[2025.08.30-15.55.49:169][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_C]
+[2025.08.30-15.55.49:172][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_C_Auto1
+[2025.08.30-15.55.49:172][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_C_Auto1E09012B64DF97312E1E532983C2D87E9.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_C_Auto1.uasset'
+[2025.08.30-15.55.49:173][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5] ([1] browsable assets)...
+[2025.08.30-15.55.49:175][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A5.PixelFantasy_Dungeon_A5]
+[2025.08.30-15.55.49:175][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5]
+[2025.08.30-15.55.49:177][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5_Auto1
+[2025.08.30-15.55.49:177][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A5_Auto154A3B00D4C0DDD334EA24CA397501730.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5_Auto1.uasset'
+[2025.08.30-15.55.49:177][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4] ([1] browsable assets)...
+[2025.08.30-15.55.49:179][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A4.PixelFantasy_Dungeon_A4]
+[2025.08.30-15.55.49:179][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4]
+[2025.08.30-15.55.49:181][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4_Auto1
+[2025.08.30-15.55.49:181][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A4_Auto1BA72DE924F7A4DBA3FFECEB28A40109C.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4_Auto1.uasset'
+[2025.08.30-15.55.49:182][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2] ([1] browsable assets)...
+[2025.08.30-15.55.49:183][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A2.PixelFantasy_Dungeon_A2]
+[2025.08.30-15.55.49:183][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2]
+[2025.08.30-15.55.49:185][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2_Auto1
+[2025.08.30-15.55.49:186][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A2_Auto170E2FC1C444D7CE3DE217A9A980B5131.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2_Auto1.uasset'
+[2025.08.30-15.55.49:186][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_B] ([1] browsable assets)...
+[2025.08.30-15.55.49:187][209]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_B.PixelFantasy_Dungeon_B]
+[2025.08.30-15.55.49:187][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_B]
+[2025.08.30-15.55.49:190][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_B_Auto1
+[2025.08.30-15.55.49:190][209]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_B_Auto1D6CDC10A4A5ABC33AC5A47A633749A94.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Textures/Dungeon/PixelFantasy_Dungeon_B_Auto1.uasset'
+[2025.08.30-15.55.49:190][209]LogFileHelpers: Auto-saving content packages took 0.028
+[2025.08.30-15.55.53:996][483]LogSlate: Window 'Report sull'aggiornamento del reindirizzatore' being destroyed
+[2025.08.30-15.55.54:122][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.30-15.55.58:354][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.08.30-15.55.58:362][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-15.55.58:369][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.08.30-15.55.59:399][483]SourceControl: Error: Updated 13 paths from the index
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A1_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A2_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A4_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Dungeon_A5_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A1_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A2_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A4_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Inside_A5_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A1_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A2_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A3_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A4_desaturated_.uasset'
+[2025.08.30-15.55.59:557][483]SourceControl: rm 'Content/Importedassests/Tileset_Fantasy/PixelFantasy_Outside_A5_desaturated_.uasset'
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Dungeon_A1_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Dungeon_A2_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Dungeon_A4_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Dungeon_A5_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Inside_A1_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Inside_A2_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Inside_A4_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Inside_A5_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Outside_A1_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Outside_A2_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Outside_A3_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Outside_A4_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.55.59:566][483]LogAssetRegistry: Warning: C:/Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests\Tileset_Fantasy\PixelFantasy_Outside_A5_desaturated_.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.08.30-15.56.37:420][703]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A1.PixelFantasy_Dungeon_A1
+[2025.08.30-15.56.47:280][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.56.47:313][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1] ([1] browsable assets)...
+[2025.08.30-15.56.47:315][591]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A1.PixelFantasy_Dungeon_A1]
+[2025.08.30-15.56.47:315][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A1]
+[2025.08.30-15.56.47:319][591]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A1
+[2025.08.30-15.56.47:319][591]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A161F8355B447F46F0A6CA74BAD138FC74.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_A1.uasset'
+[2025.08.30-15.56.47:837][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 557.014 ms (total: 1.78 sec)
+[2025.08.30-15.56.47:879][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.56.47:879][591]LogContentValidation: Enabled validators:
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.56.47:879][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.56.47:879][591]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A1 Convalida asset
+[2025.08.30-15.56.48:854][674]LogSlate: Window 'PixelFantasy_Dungeon_A1' being destroyed
+[2025.08.30-15.56.51:711][968]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A2.PixelFantasy_Dungeon_A2
+[2025.08.30-15.56.59:780][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.56.59:830][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2] ([1] browsable assets)...
+[2025.08.30-15.56.59:831][669]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A2.PixelFantasy_Dungeon_A2]
+[2025.08.30-15.56.59:831][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A2]
+[2025.08.30-15.56.59:835][669]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A2
+[2025.08.30-15.56.59:835][669]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A21BCEAD58498DA76BA73B73AFE3F610DC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_A2.uasset'
+[2025.08.30-15.57.00:177][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 396.500 ms (total: 2.18 sec)
+[2025.08.30-15.57.00:211][669]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.57.00:211][669]LogContentValidation: Enabled validators:
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.57.00:211][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.57.00:211][669]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A2 Convalida asset
+[2025.08.30-15.57.01:068][750]LogSlate: Window 'PixelFantasy_Dungeon_A2' being destroyed
+[2025.08.30-15.57.02:236][867]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A4.PixelFantasy_Dungeon_A4
+[2025.08.30-15.57.10:378][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.57.10:432][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4] ([1] browsable assets)...
+[2025.08.30-15.57.10:434][578]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A4.PixelFantasy_Dungeon_A4]
+[2025.08.30-15.57.10:434][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A4]
+[2025.08.30-15.57.10:438][578]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A4
+[2025.08.30-15.57.10:438][578]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A4FA3709DE4AA088D316BA6880A230058A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_A4.uasset'
+[2025.08.30-15.57.10:961][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 582.541 ms (total: 2.76 sec)
+[2025.08.30-15.57.11:011][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.57.11:011][578]LogContentValidation: Enabled validators:
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.57.11:011][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.57.11:012][578]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A4 Convalida asset
+[2025.08.30-15.57.12:757][745]LogSlate: Window 'PixelFantasy_Dungeon_A4' being destroyed
+[2025.08.30-15.57.14:332][908]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A5.PixelFantasy_Dungeon_A5
+[2025.08.30-15.57.20:912][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.57.20:964][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5] ([1] browsable assets)...
+[2025.08.30-15.57.20:966][485]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_A5.PixelFantasy_Dungeon_A5]
+[2025.08.30-15.57.20:966][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_A5]
+[2025.08.30-15.57.20:970][485]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A5
+[2025.08.30-15.57.20:970][485]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_A59A9204824FA942EA8F0DB0B4B003AD0A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_A5.uasset'
+[2025.08.30-15.57.21:319][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 407.716 ms (total: 3.17 sec)
+[2025.08.30-15.57.21:382][485]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.57.21:382][485]LogContentValidation: Enabled validators:
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.57.21:382][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.57.21:382][485]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_A5 Convalida asset
+[2025.08.30-15.57.22:954][636]LogSlate: Window 'PixelFantasy_Dungeon_A5' being destroyed
+[2025.08.30-15.57.24:755][824]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_B.PixelFantasy_Dungeon_B
+[2025.08.30-15.57.30:712][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.57.30:762][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_B] ([1] browsable assets)...
+[2025.08.30-15.57.30:764][333]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_B.PixelFantasy_Dungeon_B]
+[2025.08.30-15.57.30:764][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_B]
+[2025.08.30-15.57.30:768][333]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_B
+[2025.08.30-15.57.30:768][333]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_B37362A354D4547A7F532C29085FA3B5B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_B.uasset'
+[2025.08.30-15.57.31:100][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 387.875 ms (total: 3.56 sec)
+[2025.08.30-15.57.31:143][333]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.57.31:143][333]LogContentValidation: Enabled validators:
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.57.31:143][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.57.31:144][333]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_B Convalida asset
+[2025.08.30-15.57.32:245][439]LogSlate: Window 'PixelFantasy_Dungeon_B' being destroyed
+[2025.08.30-15.57.33:679][588]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_C.PixelFantasy_Dungeon_C
+[2025.08.30-15.57.38:709][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.57.38:743][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_C] ([1] browsable assets)...
+[2025.08.30-15.57.38:745][ 11]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dungeon/PixelFantasy_Dungeon_C.PixelFantasy_Dungeon_C]
+[2025.08.30-15.57.38:745][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dungeon/PixelFantasy_Dungeon_C]
+[2025.08.30-15.57.38:749][ 11]LogSavePackage: Moving output files for package: /Game/Textures/Dungeon/PixelFantasy_Dungeon_C
+[2025.08.30-15.57.38:749][ 11]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Dungeon_C3A47AA75473F185479737D8A27A711CC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Dungeon/PixelFantasy_Dungeon_C.uasset'
+[2025.08.30-15.57.39:091][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 382.345 ms (total: 3.94 sec)
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: Enabled validators:
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.57.39:145][ 11]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.57.39:145][ 11]AssetCheck: /Game/Textures/Dungeon/PixelFantasy_Dungeon_C Convalida asset
+[2025.08.30-15.57.41:867][277]LogSlate: Window 'PixelFantasy_Dungeon_C' being destroyed
+[2025.08.30-15.57.54:757][701]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.57.54:773][701]LogInterchangeEngine: [In sospeso] Importazione
+[2025.08.30-15.57.54:773][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_A1.png]
+[2025.08.30-15.57.54:774][701]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.57.54:774][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_A2.png]
+[2025.08.30-15.57.54:774][701]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.57.54:774][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_A4.png]
+[2025.08.30-15.57.54:775][701]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.57.54:775][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_A5.png]
+[2025.08.30-15.57.54:775][701]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.57.54:775][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_B.png]
+[2025.08.30-15.57.54:777][701]LogInterchangeEngine: [In sospeso] Importazione -  (6)
+[2025.08.30-15.57.54:777][701]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Inside_C.png]
+[2025.08.30-15.57.54:855][703]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.57.54:861][704]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.57.54:877][705]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.57.54:877][706]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.57.54:879][706]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.57.54:879][706]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.57.54:908][706]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_A1.png]
+[2025.08.30-15.57.54:908][706]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.57.54:978][707]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_A2.png]
+[2025.08.30-15.57.54:978][707]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_A4.png]
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_A5.png]
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_C.png]
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: [In sospeso] Importazione -  (1)
+[2025.08.30-15.57.55:010][708]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Inside_B.png]
+[2025.08.30-15.57.55:075][708]LogInterchangeEngine: [In sospeso] Importazione - Operation completed.
+[2025.08.30-15.57.55:075][708]LogInterchangeEngine: [Operazione riuscita] Importazione completata
+[2025.08.30-15.57.56:642][878]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A1.PixelFantasy_Inside_A1
+[2025.08.30-15.58.07:394][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.07:427][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_A1] ([1] browsable assets)...
+[2025.08.30-15.58.07:428][896]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A1.PixelFantasy_Inside_A1]
+[2025.08.30-15.58.07:428][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_A1]
+[2025.08.30-15.58.07:432][896]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_A1
+[2025.08.30-15.58.07:432][896]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A12708F4AF46400C692100E28C6EE3B716.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_A1.uasset'
+[2025.08.30-15.58.07:939][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 545.097 ms (total: 4.49 sec)
+[2025.08.30-15.58.07:977][896]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.07:977][896]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.07:977][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.07:977][896]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_A1 Convalida asset
+[2025.08.30-15.58.08:709][966]LogSlate: Window 'PixelFantasy_Inside_A1' being destroyed
+[2025.08.30-15.58.11:305][254]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A2.PixelFantasy_Inside_A2
+[2025.08.30-15.58.16:726][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.16:761][735]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_A2] ([1] browsable assets)...
+[2025.08.30-15.58.16:762][735]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A2.PixelFantasy_Inside_A2]
+[2025.08.30-15.58.16:762][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_A2]
+[2025.08.30-15.58.16:765][735]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_A2
+[2025.08.30-15.58.16:765][735]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A25A01F52B4D0D9BAF8FB95281E60C77EA.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_A2.uasset'
+[2025.08.30-15.58.17:098][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 371.418 ms (total: 4.86 sec)
+[2025.08.30-15.58.17:144][735]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.17:144][735]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.17:144][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.17:144][735]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_A2 Convalida asset
+[2025.08.30-15.58.18:102][824]LogSlate: Window 'PixelFantasy_Inside_A2' being destroyed
+[2025.08.30-15.58.19:286][943]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A4.PixelFantasy_Inside_A4
+[2025.08.30-15.58.28:492][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.28:545][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_A4] ([1] browsable assets)...
+[2025.08.30-15.58.28:546][775]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A4.PixelFantasy_Inside_A4]
+[2025.08.30-15.58.28:546][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_A4]
+[2025.08.30-15.58.28:550][775]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_A4
+[2025.08.30-15.58.28:550][775]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A4535ABEE24D39D4151158298DD8CA8AF3.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_A4.uasset'
+[2025.08.30-15.58.29:088][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 595.820 ms (total: 5.45 sec)
+[2025.08.30-15.58.29:143][775]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.29:143][775]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.29:143][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.29:143][775]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_A4 Convalida asset
+[2025.08.30-15.58.29:577][814]LogSlate: Window 'PixelFantasy_Inside_A4' being destroyed
+[2025.08.30-15.58.30:560][913]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A5.PixelFantasy_Inside_A5
+[2025.08.30-15.58.35:059][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.35:093][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_A5] ([1] browsable assets)...
+[2025.08.30-15.58.35:094][281]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_A5.PixelFantasy_Inside_A5]
+[2025.08.30-15.58.35:094][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_A5]
+[2025.08.30-15.58.35:097][281]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_A5
+[2025.08.30-15.58.35:097][281]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_A5D75245D547798707DDE0A094A3FD2054.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_A5.uasset'
+[2025.08.30-15.58.35:613][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 553.702 ms (total: 6.01 sec)
+[2025.08.30-15.58.35:641][281]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.35:641][281]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.35:641][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.35:641][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.35:641][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.35:641][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.35:641][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.35:642][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.35:642][281]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_A5 Convalida asset
+[2025.08.30-15.58.37:604][460]LogSlate: Window 'PixelFantasy_Inside_A5' being destroyed
+[2025.08.30-15.58.38:783][580]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_B.PixelFantasy_Inside_B
+[2025.08.30-15.58.42:728][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.42:777][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_B] ([1] browsable assets)...
+[2025.08.30-15.58.42:779][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_B.PixelFantasy_Inside_B]
+[2025.08.30-15.58.42:779][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_B]
+[2025.08.30-15.58.42:779][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Inside/PixelFantasy_Inside_B" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_B.uasset" SILENT=true
+[2025.08.30-15.58.42:784][900]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_B
+[2025.08.30-15.58.42:784][900]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_B01F3EC66497E14F9B71B81BDB5E67BE6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_B.uasset'
+[2025.08.30-15.58.43:095][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 367.606 ms (total: 6.38 sec)
+[2025.08.30-15.58.43:126][900]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.43:126][900]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.43:126][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.43:126][900]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_B Convalida asset
+[2025.08.30-15.58.43:875][969]LogSlate: Window 'PixelFantasy_Inside_B' being destroyed
+[2025.08.30-15.58.45:099][ 93]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Inside/PixelFantasy_Inside_C.PixelFantasy_Inside_C
+[2025.08.30-15.58.50:809][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.58.50:864][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Inside/PixelFantasy_Inside_C] ([1] browsable assets)...
+[2025.08.30-15.58.50:865][579]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Inside/PixelFantasy_Inside_C.PixelFantasy_Inside_C]
+[2025.08.30-15.58.50:865][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Inside/PixelFantasy_Inside_C]
+[2025.08.30-15.58.50:865][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Inside/PixelFantasy_Inside_C" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_C.uasset" SILENT=true
+[2025.08.30-15.58.50:869][579]LogSavePackage: Moving output files for package: /Game/Textures/Inside/PixelFantasy_Inside_C
+[2025.08.30-15.58.50:869][579]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Inside_C1124FAD640F4942A22CAC98F3CAF8819.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Inside/PixelFantasy_Inside_C.uasset'
+[2025.08.30-15.58.51:187][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 377.838 ms (total: 6.75 sec)
+[2025.08.30-15.58.51:243][579]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.58.51:243][579]LogContentValidation: Enabled validators:
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.58.51:243][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.58.51:243][579]AssetCheck: /Game/Textures/Inside/PixelFantasy_Inside_C Convalida asset
+[2025.08.30-15.58.51:734][625]LogSlate: Window 'PixelFantasy_Inside_C' being destroyed
+[2025.08.30-15.58.55:102][993]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-15.58.55:112][993]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-15.58.55:119][993]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-15.58.55:119][993]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-15.58.55:124][993]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-15.58.55:124][993]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-15.58.55:230][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.08.30-15.58.55:232][993]LogPlayLevel: PlayLevel: Blueprint regeneration took 120 ms (1 blueprints)
+[2025.08.30-15.58.55:232][993]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-15.58.56:860][993]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-15.58.56:894][993]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-15.58.56:905][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010762s)
+[2025.08.30-15.58.56:905][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010806s)
+[2025.08.30-15.58.56:912][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.30-15.58.56:914][993]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-15.58.56:915][993]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2025.08.30-15.58.56:915][993]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-15.58.56:915][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-15.58.56:915][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-15.58.56:915][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-15.58.56:915][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-15.58.56:915][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-15.58.56:918][993]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-15.58.56:950][993]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-15.58.56:950][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-15.58.56:950][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-15.58.56:950][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-15.58.56:950][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.30-15.58.56:950][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.30-15.58.56:953][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.30-15.58.56:953][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.30-15.58.56:953][993]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.30-15.58.56:953][993]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2025.08.30-15.58.56:953][993]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.30-15.58.56:956][993]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-15.58.56:959][993]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-17.58.56
+[2025.08.30-15.58.56:959][993]LogWorld: Bringing up level for play took: 0.003127
+[2025.08.30-15.58.56:961][993]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.08.30-15.58.56:996][993]PIE: Accesso al server effettuato
+[2025.08.30-15.58.56:997][993]PIE: Tempo di avvio totale di Riproduci nell'editor 1,887 secondi.
+[2025.08.30-15.59.01:514][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-15.59.01:514][508]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-15.59.01:514][508]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-15.59.01:515][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.59.01:518][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-15.59.01:520][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-15.59.01:531][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-15.59.01:531][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.30-15.59.01:531][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.30-15.59.01:532][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.30-15.59.01:538][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.30-15.59.01:600][509]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.08.30-15.59.13:792][979]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.59.13:805][979]LogInterchangeEngine: [In sospeso] Importazione
+[2025.08.30-15.59.13:805][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_A1.png]
+[2025.08.30-15.59.13:805][979]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.59.13:805][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_A2.png]
+[2025.08.30-15.59.13:806][979]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.59.13:806][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_A3.png]
+[2025.08.30-15.59.13:806][979]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.59.13:806][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_A4.png]
+[2025.08.30-15.59.13:807][979]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.59.13:807][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_A5.png]
+[2025.08.30-15.59.13:807][979]LogInterchangeEngine: [In sospeso] Importazione -  (6)
+[2025.08.30-15.59.13:807][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_B.png]
+[2025.08.30-15.59.13:808][979]LogInterchangeEngine: [In sospeso] Importazione -  (7)
+[2025.08.30-15.59.13:808][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_C.png]
+[2025.08.30-15.59.13:808][979]LogInterchangeEngine: [In sospeso] Importazione -  (8)
+[2025.08.30-15.59.13:808][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Paolo/Desktop/Rita/Mobile Computing/Assets/giusti/ambientazione Fantasy/img/tilesets/PixelFantasy_Outside_D-Trees.png]
+[2025.08.30-15.59.13:888][981]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-15.59.13:895][982]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:912][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:914][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:915][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:915][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:915][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:917][983]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.30-15.59.13:947][983]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_A1.png]
+[2025.08.30-15.59.13:947][983]LogInterchangeEngine: [In sospeso] Importazione -  (7)
+[2025.08.30-15.59.13:960][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_A2.png]
+[2025.08.30-15.59.13:960][984]LogInterchangeEngine: [In sospeso] Importazione -  (6)
+[2025.08.30-15.59.13:960][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_A3.png]
+[2025.08.30-15.59.13:960][984]LogInterchangeEngine: [In sospeso] Importazione -  (5)
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_A4.png]
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: [In sospeso] Importazione -  (4)
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_A5.png]
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: [In sospeso] Importazione -  (3)
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_D-Trees.png]
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: [In sospeso] Importazione -  (2)
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_B.png]
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: [In sospeso] Importazione -  (1)
+[2025.08.30-15.59.13:961][984]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Paolo/Deskt...Fantasy/img/tilesets/PixelFantasy_Outside_C.png]
+[2025.08.30-15.59.14:049][984]LogInterchangeEngine: [In sospeso] Importazione - Operation completed.
+[2025.08.30-15.59.14:049][984]LogInterchangeEngine: [Operazione riuscita] Importazione completata
+[2025.08.30-15.59.16:249][233]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A1.PixelFantasy_Outside_A1
+[2025.08.30-15.59.22:526][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.59.22:576][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_A1] ([1] browsable assets)...
+[2025.08.30-15.59.22:577][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A1.PixelFantasy_Outside_A1]
+[2025.08.30-15.59.22:578][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_A1]
+[2025.08.30-15.59.22:581][817]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_A1
+[2025.08.30-15.59.22:581][817]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A185C4021341511BA98F0181BA1402D0C8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_A1.uasset'
+[2025.08.30-15.59.23:076][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 549.988 ms (total: 7.30 sec)
+[2025.08.30-15.59.23:109][817]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.59.23:109][817]LogContentValidation: Enabled validators:
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.59.23:109][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.59.23:109][817]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_A1 Convalida asset
+[2025.08.30-15.59.24:964][  2]LogSlate: Window 'PixelFantasy_Outside_A1' being destroyed
+[2025.08.30-15.59.26:328][148]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A2.PixelFantasy_Outside_A2
+[2025.08.30-15.59.32:510][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.59.32:543][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_A2] ([1] browsable assets)...
+[2025.08.30-15.59.32:544][691]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A2.PixelFantasy_Outside_A2]
+[2025.08.30-15.59.32:544][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_A2]
+[2025.08.30-15.59.32:548][691]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_A2
+[2025.08.30-15.59.32:548][691]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A2F35C90824A9F276B617C7EB5EE096B61.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_A2.uasset'
+[2025.08.30-15.59.33:062][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 552.965 ms (total: 7.86 sec)
+[2025.08.30-15.59.33:109][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.59.33:109][691]LogContentValidation: Enabled validators:
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.59.33:109][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.59.33:109][691]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_A2 Convalida asset
+[2025.08.30-15.59.33:147][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1045.074463
+[2025.08.30-15.59.33:577][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-15.59.33:577][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1045.495239, Update Interval: 312.045044
+[2025.08.30-15.59.33:803][758]LogSlate: Window 'PixelFantasy_Outside_A2' being destroyed
+[2025.08.30-15.59.35:075][894]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A3.PixelFantasy_Outside_A3
+[2025.08.30-15.59.41:574][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.59.41:609][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_A3] ([1] browsable assets)...
+[2025.08.30-15.59.41:610][456]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A3.PixelFantasy_Outside_A3]
+[2025.08.30-15.59.41:610][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_A3]
+[2025.08.30-15.59.41:613][456]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_A3
+[2025.08.30-15.59.41:613][456]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A3647C6191444CA62EBDD316B8D770F8E7.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_A3.uasset'
+[2025.08.30-15.59.42:124][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 549.830 ms (total: 8.41 sec)
+[2025.08.30-15.59.42:177][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.59.42:177][456]LogContentValidation: Enabled validators:
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.59.42:177][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.59.42:177][456]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_A3 Convalida asset
+[2025.08.30-15.59.42:946][526]LogSlate: Window 'PixelFantasy_Outside_A3' being destroyed
+[2025.08.30-15.59.43:819][613]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A4.PixelFantasy_Outside_A4
+[2025.08.30-15.59.48:322][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.59.48:358][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_A4] ([1] browsable assets)...
+[2025.08.30-15.59.48:359][991]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A4.PixelFantasy_Outside_A4]
+[2025.08.30-15.59.48:359][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_A4]
+[2025.08.30-15.59.48:363][991]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_A4
+[2025.08.30-15.59.48:363][991]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A4446C3B414DB8C14BF0F3798A759D4BBD.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_A4.uasset'
+[2025.08.30-15.59.48:882][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 560.320 ms (total: 8.97 sec)
+[2025.08.30-15.59.48:925][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.59.48:925][991]LogContentValidation: Enabled validators:
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.59.48:925][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.59.48:925][991]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_A4 Convalida asset
+[2025.08.30-15.59.49:466][ 36]LogSlate: Window 'PixelFantasy_Outside_A4' being destroyed
+[2025.08.30-15.59.50:542][142]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A5.PixelFantasy_Outside_A5
+[2025.08.30-15.59.55:392][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-15.59.55:444][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_A5] ([1] browsable assets)...
+[2025.08.30-15.59.55:446][554]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A5.PixelFantasy_Outside_A5]
+[2025.08.30-15.59.55:446][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_A5]
+[2025.08.30-15.59.55:449][554]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_A5
+[2025.08.30-15.59.55:449][554]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_A5019B907C4F3A91B680381F9A553A339B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_A5.uasset'
+[2025.08.30-15.59.55:937][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 544.963 ms (total: 9.51 sec)
+[2025.08.30-15.59.55:993][554]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-15.59.55:993][554]LogContentValidation: Enabled validators:
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-15.59.55:993][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-15.59.55:993][554]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_A5 Convalida asset
+[2025.08.30-15.59.56:401][589]LogSlate: Window 'PixelFantasy_Outside_A5' being destroyed
+[2025.08.30-15.59.57:481][702]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_B.PixelFantasy_Outside_B
+[2025.08.30-16.00.01:542][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-16.00.01:595][ 44]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_B] ([1] browsable assets)...
+[2025.08.30-16.00.01:596][ 44]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_B.PixelFantasy_Outside_B]
+[2025.08.30-16.00.01:596][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_B]
+[2025.08.30-16.00.01:601][ 44]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_B
+[2025.08.30-16.00.01:601][ 44]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_B463F30214AE5F70FF693BD9761C58784.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_B.uasset'
+[2025.08.30-16.00.02:107][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 565.643 ms (total: 10.0 sec)
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: Enabled validators:
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-16.00.02:141][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-16.00.02:141][ 44]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_B Convalida asset
+[2025.08.30-16.00.02:828][110]LogSlate: Window 'PixelFantasy_Outside_B' being destroyed
+[2025.08.30-16.00.03:599][186]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_C.PixelFantasy_Outside_C
+[2025.08.30-16.00.07:795][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-16.00.07:844][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_C] ([1] browsable assets)...
+[2025.08.30-16.00.07:845][543]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_C.PixelFantasy_Outside_C]
+[2025.08.30-16.00.07:845][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_C]
+[2025.08.30-16.00.07:849][543]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_C
+[2025.08.30-16.00.07:849][543]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_C41CA093B482C9037D3F8DAA2BF7AA240.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_C.uasset'
+[2025.08.30-16.00.08:160][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 365.701 ms (total: 10.4 sec)
+[2025.08.30-16.00.08:208][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-16.00.08:208][543]LogContentValidation: Enabled validators:
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-16.00.08:208][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-16.00.08:208][543]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_C Convalida asset
+[2025.08.30-16.00.08:768][596]LogSlate: Window 'PixelFantasy_Outside_C' being destroyed
+[2025.08.30-16.00.09:803][704]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_D-Trees.PixelFantasy_Outside_D-Trees
+[2025.08.30-16.00.15:592][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-16.00.15:624][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Outside/PixelFantasy_Outside_D-Trees] ([1] browsable assets)...
+[2025.08.30-16.00.15:625][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Outside/PixelFantasy_Outside_D-Trees.PixelFantasy_Outside_D-Trees]
+[2025.08.30-16.00.15:625][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Outside/PixelFantasy_Outside_D-Trees]
+[2025.08.30-16.00.15:629][202]LogSavePackage: Moving output files for package: /Game/Textures/Outside/PixelFantasy_Outside_D-Trees
+[2025.08.30-16.00.15:629][202]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/PixelFantasy_Outside_D-Trees2D7430CE4F9AC1798F41348A7982811F.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Textures/Outside/PixelFantasy_Outside_D-Trees.uasset'
+[2025.08.30-16.00.16:154][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 562.642 ms (total: 11.0 sec)
+[2025.08.30-16.00.16:228][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-16.00.16:228][202]LogContentValidation: Enabled validators:
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-16.00.16:228][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-16.00.16:228][202]AssetCheck: /Game/Textures/Outside/PixelFantasy_Outside_D-Trees Convalida asset
+[2025.08.30-16.00.17:005][274]LogSlate: Window 'PixelFantasy_Outside_D-Trees' being destroyed
+[2025.08.30-16.01.05:424][796]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-16.01.05:426][796]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TilesetsR/Textures/PixelFantasy_Outside_A5_desaturated_.PixelFantasy_Outside_A5_desaturated_
+[2025.08.30-16.01.09:360][149]LogSlate: Window 'PixelFantasy_Outside_A5_desaturated_' being destroyed
+[2025.08.30-16.01.14:718][734]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Outside/PixelFantasy_Outside_A2.PixelFantasy_Outside_A2
+[2025.08.30-16.01.18:754][ 90]LogSlate: Window 'PixelFantasy_Outside_A2' being destroyed
+[2025.08.30-16.01.24:628][736]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TilesetsR/Textures/PixelFantasy_Outside_A5_desaturated_.PixelFantasy_Outside_A5_desaturated_
+[2025.08.30-16.01.32:087][430]LogSlate: Window 'PixelFantasy_Outside_A5_desaturated_' being destroyed
