@@ -4527,3 +4527,1557 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.30-17.21.18:425][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.30-17.21.18:425][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.30-17.21.18:426][834]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.26.48:795][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6280.606934
+[2025.08.30-17.26.48:958][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.26.48:958][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6280.755859, Update Interval: 314.844818
+[2025.08.30-17.32.40:896][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6632.718262
+[2025.08.30-17.32.41:080][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.32.41:080][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6632.886230, Update Interval: 300.787384
+[2025.08.30-17.38.12:644][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6964.432617
+[2025.08.30-17.38.12:824][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.38.12:824][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6964.596191, Update Interval: 332.903229
+[2025.08.30-17.40.40:386][356]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 34c...8fd
+[2025.08.30-17.40.40:386][356]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.08.30-17.40.40:579][368]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 34c...8fd Access[Expires: 2025.08.30-19.40.41 Remaining: 7200.27] Refresh[Expires: 2026-02-26T14:36:17.459Z Remaining: 15540936.46] State: Valid
+[2025.08.30-17.44.04:446][144]LogDerivedDataCache: C:/Users/Paolo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.30-17.44.24:735][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7336.555176
+[2025.08.30-17.44.25:736][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.44.25:736][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7337.221191, Update Interval: 315.434418
+[2025.08.30-17.47.02:027][756]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.47.02:041][756]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.47.02:052][756]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.47.02:052][756]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.47.02:057][756]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.47.02:057][756]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.47.02:080][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.08.30-17.47.02:082][756]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2025.08.30-17.47.02:082][756]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.47.03:845][756]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.47.03:884][756]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.47.03:895][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011084s)
+[2025.08.30-17.47.03:895][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011130s)
+[2025.08.30-17.47.03:902][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.30-17.47.03:904][756]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.47.03:905][756]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2025.08.30-17.47.03:906][756]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.47.03:906][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.47.03:906][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.47.03:906][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.47.03:906][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.47.03:906][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.47.03:908][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.47.03:930][756]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.47.03:931][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.47.03:931][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.47.03:931][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.47.03:932][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.30-17.47.03:932][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.30-17.47.03:934][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.30-17.47.03:934][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.30-17.47.03:934][756]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.30-17.47.03:934][756]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2025.08.30-17.47.03:934][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.30-17.47.03:936][756]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.47.03:944][756]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.47.03
+[2025.08.30-17.47.03:945][756]LogWorld: Bringing up level for play took: 0.008066
+[2025.08.30-17.47.03:947][756]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.08.30-17.47.04:140][756]PIE: Accesso al server effettuato
+[2025.08.30-17.47.04:141][756]PIE: Tempo di avvio totale di Riproduci nell'editor 2,102 secondi.
+[2025.08.30-17.47.21:004][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.47.21:004][755]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.47.21:004][755]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.47.21:006][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.47.21:009][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.47.21:011][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.47.21:030][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.47.21:030][755]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.30-17.47.21:030][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.30-17.47.21:032][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.30-17.47.21:040][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.08.30-17.47.21:079][756]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.08.30-17.47.25:226][ 47]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.47.25:235][ 47]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.47.25:242][ 47]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.47.25:242][ 47]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.47.25:247][ 47]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.47.25:247][ 47]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.47.25:268][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.08.30-17.47.25:269][ 47]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2025.08.30-17.47.25:269][ 47]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.47.27:523][ 47]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.47.27:529][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.47.27:541][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011629s)
+[2025.08.30-17.47.27:541][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011670s)
+[2025.08.30-17.47.27:548][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.47.27:549][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.47.27:550][ 47]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2025.08.30-17.47.27:551][ 47]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.47.27:551][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.47.27:551][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.47.27:551][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.47.27:551][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.47.27:551][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.47.27:553][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.47.27:572][ 47]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.47.27:572][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.47.27:572][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.47.27:572][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.47.27:572][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.30-17.47.27:573][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.30-17.47.27:575][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.30-17.47.27:575][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.30-17.47.27:575][ 47]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.30-17.47.27:575][ 47]LogAudio: Display: Audio Device (ID: 14) registered with world 'Untitled'.
+[2025.08.30-17.47.27:575][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.30-17.47.27:577][ 47]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.47.27:585][ 47]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.47.27
+[2025.08.30-17.47.27:585][ 47]LogWorld: Bringing up level for play took: 0.007418
+[2025.08.30-17.47.27:588][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.08.30-17.47.27:780][ 47]PIE: Accesso al server effettuato
+[2025.08.30-17.47.27:781][ 47]PIE: Tempo di avvio totale di Riproduci nell'editor 2,546 secondi.
+[2025.08.30-17.47.40:314][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.47.40:314][514]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.47.40:314][514]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.47.40:315][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.47.40:318][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.47.40:320][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.47.40:332][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.47.40:332][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.30-17.47.40:332][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.30-17.47.40:334][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.30-17.47.40:340][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-17.47.40:427][516]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.08.30-17.48.17:275][997]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.48.17:285][997]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.48.17:292][997]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.48.17:292][997]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.48.17:296][997]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.48.17:296][997]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.48.17:318][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-17.48.17:322][997]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2025.08.30-17.48.17:322][997]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.48.19:246][997]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.48.19:284][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.48.19:295][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011057s)
+[2025.08.30-17.48.19:295][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011106s)
+[2025.08.30-17.48.19:305][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.48.19:306][997]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.48.19:308][997]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2025.08.30-17.48.19:308][997]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.48.19:308][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.48.19:308][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.48.19:308][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.48.19:308][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.48.19:308][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.48.19:310][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.48.19:329][997]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.48.19:330][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.48.19:330][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.48.19:330][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.48.19:330][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.30-17.48.19:330][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.30-17.48.19:332][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.30-17.48.19:332][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.30-17.48.19:332][997]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.30-17.48.19:332][997]LogAudio: Display: Audio Device (ID: 15) registered with world 'Untitled'.
+[2025.08.30-17.48.19:332][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.30-17.48.19:335][997]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.48.19:342][997]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.48.19
+[2025.08.30-17.48.19:342][997]LogWorld: Bringing up level for play took: 0.007000
+[2025.08.30-17.48.19:343][997]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.08.30-17.48.19:535][997]PIE: Accesso al server effettuato
+[2025.08.30-17.48.19:535][997]PIE: Tempo di avvio totale di Riproduci nell'editor 2,251 secondi.
+[2025.08.30-17.48.27:400][914]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-17.48.27:567][934]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_2] chiave2
+[2025.08.30-17.48.27:800][962]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_2] chiave2
+[2025.08.30-17.48.28:884][ 92]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_1] chiave2
+[2025.08.30-17.48.42:194][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.48.42:194][684]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.48.42:194][684]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.48.42:195][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.48.42:199][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.48.42:201][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.48.42:212][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.48.42:212][684]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.30-17.48.42:212][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.30-17.48.42:215][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.30-17.48.42:221][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.30-17.48.42:312][685]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.08.30-17.50.28:397][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7700.236328
+[2025.08.30-17.50.28:539][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.50.28:540][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7700.369141, Update Interval: 334.747162
+[2025.08.30-17.50.37:069][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.50.37:117][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.50.37:155][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-17.50.37:212][520]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.50.37:213][520]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledAD26EB964FC61A186A4736B24FF4EE00.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.50.37:227][520]LogFileHelpers: Saving map 'Untitled' took 0.111
+[2025.08.30-17.50.37:234][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.525 ms (total: 23.9 sec)
+[2025.08.30-17.50.37:297][520]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.50.37:297][520]LogContentValidation: Enabled validators:
+[2025.08.30-17.50.37:297][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.50.37:298][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.50.37:298][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.50.37:298][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.50.37:298][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.50.37:298][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.50.37:298][520]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.50.38:123][614]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.50.38:143][614]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.50.38:150][614]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.50.38:150][614]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.50.38:156][614]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.50.38:156][614]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.50.38:178][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.08.30-17.50.38:179][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2025.08.30-17.50.38:179][614]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.50.39:796][614]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.50.39:803][614]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.50.39:815][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011525s)
+[2025.08.30-17.50.39:815][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011568s)
+[2025.08.30-17.50.39:821][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-17.50.39:822][614]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.50.39:824][614]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2025.08.30-17.50.39:825][614]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.50.39:825][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.50.39:825][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.50.39:825][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.50.39:825][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.50.39:825][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.50.39:827][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.50.39:846][614]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.50.39:846][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.50.39:846][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.50.39:846][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.50.39:847][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.30-17.50.39:847][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.30-17.50.39:849][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.30-17.50.39:849][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.30-17.50.39:849][614]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.30-17.50.39:849][614]LogAudio: Display: Audio Device (ID: 16) registered with world 'Untitled'.
+[2025.08.30-17.50.39:849][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.30-17.50.39:851][614]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.50.39:859][614]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.50.39
+[2025.08.30-17.50.39:859][614]LogWorld: Bringing up level for play took: 0.007566
+[2025.08.30-17.50.39:861][614]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.08.30-17.50.40:056][614]PIE: Accesso al server effettuato
+[2025.08.30-17.50.40:057][614]PIE: Tempo di avvio totale di Riproduci nell'editor 1,915 secondi.
+[2025.08.30-17.50.42:455][878]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.50.42:739][912]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.50.43:506][  4]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.50.45:824][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.50.45:824][278]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.50.45:825][278]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.50.45:826][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.50.45:829][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.50.45:831][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.50.45:841][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.50.45:841][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.30-17.50.45:841][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.30-17.50.45:843][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.30-17.50.45:848][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-17.50.45:911][279]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.08.30-17.51.04:097][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.51.04:132][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.51.04:167][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.08.30-17.51.04:221][356]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.51.04:221][356]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled9A3E63CB49856AE11A356B9FC81D8A2B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.51.04:237][356]LogFileHelpers: Saving map 'Untitled' took 0.105
+[2025.08.30-17.51.04:253][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.449 ms (total: 24.1 sec)
+[2025.08.30-17.51.04:316][356]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.51.04:316][356]LogContentValidation: Enabled validators:
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.51.04:316][356]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.51.04:316][356]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.51.11:381][  1]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.51.11:390][  1]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.51.11:397][  1]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.51.11:397][  1]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.51.11:402][  1]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.51.11:403][  1]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.51.11:425][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-17.51.11:426][  1]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2025.08.30-17.51.11:426][  1]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.51.15:223][  1]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.51.15:235][  1]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.51.15:247][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012574s)
+[2025.08.30-17.51.15:247][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.012615s)
+[2025.08.30-17.51.15:254][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.51.15:255][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.51.15:256][  1]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2025.08.30-17.51.15:257][  1]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.51.15:257][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.51.15:257][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.51.15:257][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.51.15:257][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.51.15:257][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.51.15:259][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.51.15:278][  1]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.51.15:278][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.51.15:278][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.51.15:278][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.51.15:279][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.08.30-17.51.15:279][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.08.30-17.51.15:281][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.08.30-17.51.15:281][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.08.30-17.51.15:281][  1]LogInit: FAudioDevice initialized with ID 17.
+[2025.08.30-17.51.15:281][  1]LogAudio: Display: Audio Device (ID: 17) registered with world 'Untitled'.
+[2025.08.30-17.51.15:281][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.30-17.51.15:284][  1]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.51.15:291][  1]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.51.15
+[2025.08.30-17.51.15:291][  1]LogWorld: Bringing up level for play took: 0.007025
+[2025.08.30-17.51.15:293][  1]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.08.30-17.51.15:483][  1]PIE: Accesso al server effettuato
+[2025.08.30-17.51.15:485][  1]PIE: Tempo di avvio totale di Riproduci nell'editor 4,095 secondi.
+[2025.08.30-17.51.24:352][431]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.51.29:384][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.51.29:384][ 29]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.51.29:385][ 29]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.51.29:385][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.51.29:389][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.51.29:392][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.51.29:404][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.51.29:404][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.30-17.51.29:404][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.30-17.51.29:406][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.30-17.51.29:412][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.30-17.51.29:474][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.08.30-17.53.48:847][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.53.48:896][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.53.48:932][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.08.30-17.53.48:990][287]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.53.48:991][287]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledBA6DBF924A82A1BD7087DCBA7DE59F06.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.53.49:006][287]LogFileHelpers: Saving map 'Untitled' took 0.110
+[2025.08.30-17.53.49:035][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.217 ms (total: 24.3 sec)
+[2025.08.30-17.53.49:094][287]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.53.49:094][287]LogContentValidation: Enabled validators:
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.53.49:094][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.53.49:095][287]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.53.50:402][433]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.53.50:413][433]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.53.50:420][433]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.53.50:420][433]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.53.50:425][433]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.53.50:425][433]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.53.50:450][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-17.53.50:451][433]LogPlayLevel: PlayLevel: Blueprint regeneration took 39 ms (1 blueprints)
+[2025.08.30-17.53.50:451][433]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.53.52:542][433]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.53.52:550][433]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.53.52:564][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013713s)
+[2025.08.30-17.53.52:564][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.013751s)
+[2025.08.30-17.53.52:571][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-17.53.52:572][433]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.53.52:572][433]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2025.08.30-17.53.52:574][433]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.53.52:574][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.53.52:574][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.53.52:574][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.53.52:574][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.53.52:574][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.53.52:576][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.53.52:596][433]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.53.52:596][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.53.52:596][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.53.52:596][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.53.52:597][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.08.30-17.53.52:597][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.08.30-17.53.52:599][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.08.30-17.53.52:599][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.08.30-17.53.52:600][433]LogInit: FAudioDevice initialized with ID 18.
+[2025.08.30-17.53.52:600][433]LogAudio: Display: Audio Device (ID: 18) registered with world 'Untitled'.
+[2025.08.30-17.53.52:600][433]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.30-17.53.52:602][433]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.53.52:609][433]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.53.52
+[2025.08.30-17.53.52:609][433]LogWorld: Bringing up level for play took: 0.006863
+[2025.08.30-17.53.52:611][433]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.08.30-17.53.52:804][433]PIE: Accesso al server effettuato
+[2025.08.30-17.53.52:805][433]PIE: Tempo di avvio totale di Riproduci nell'editor 2,393 secondi.
+[2025.08.30-17.53.55:620][745]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.53.59:938][263]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.54.01:604][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.54.01:604][458]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.54.01:605][458]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.54.01:606][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.54.01:609][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.54.01:612][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.54.01:623][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.54.01:623][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.30-17.54.01:623][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.30-17.54.01:625][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.30-17.54.01:630][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.30-17.54.01:695][459]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.08.30-17.54.26:377][ 93]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.54.26:387][ 93]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.54.26:394][ 93]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.54.26:394][ 93]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.54.26:400][ 93]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.54.26:400][ 93]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.54.26:425][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.08.30-17.54.26:428][ 93]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2025.08.30-17.54.26:428][ 93]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.54.27:715][ 93]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.54.27:723][ 93]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.54.27:735][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011308s)
+[2025.08.30-17.54.27:735][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011347s)
+[2025.08.30-17.54.27:743][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.30-17.54.27:744][ 93]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.54.27:745][ 93]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2025.08.30-17.54.27:746][ 93]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.54.27:746][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.54.27:746][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.54.27:746][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.54.27:746][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.54.27:746][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.54.27:748][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.54.27:766][ 93]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.54.27:767][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.54.27:767][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.54.27:767][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.54.27:767][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.08.30-17.54.27:767][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.08.30-17.54.27:769][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.08.30-17.54.27:770][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.08.30-17.54.27:770][ 93]LogInit: FAudioDevice initialized with ID 19.
+[2025.08.30-17.54.27:770][ 93]LogAudio: Display: Audio Device (ID: 19) registered with world 'Untitled'.
+[2025.08.30-17.54.27:770][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.08.30-17.54.27:772][ 93]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.54.27:780][ 93]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.54.27
+[2025.08.30-17.54.27:780][ 93]LogWorld: Bringing up level for play took: 0.007072
+[2025.08.30-17.54.27:782][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.08.30-17.54.27:973][ 93]PIE: Accesso al server effettuato
+[2025.08.30-17.54.27:974][ 93]PIE: Tempo di avvio totale di Riproduci nell'editor 1,587 secondi.
+[2025.08.30-17.54.30:237][351]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.54.31:634][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.54.31:634][513]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.54.31:634][513]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.54.31:635][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.54.31:638][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.54.31:640][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.54.31:651][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.54.31:652][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.08.30-17.54.31:652][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.08.30-17.54.31:654][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.08.30-17.54.31:659][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.08.30-17.54.31:724][514]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.08.30-17.55.18:557][326]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.55.18:568][326]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.55.18:577][326]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.55.18:577][326]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.55.18:582][326]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.55.18:582][326]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.55.18:609][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.08.30-17.55.18:614][326]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2025.08.30-17.55.18:614][326]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.55.20:029][326]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.55.20:037][326]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.55.20:051][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012870s)
+[2025.08.30-17.55.20:051][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.012920s)
+[2025.08.30-17.55.20:058][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.55.20:059][326]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.55.20:061][326]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2025.08.30-17.55.20:061][326]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.55.20:061][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.55.20:061][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.55.20:061][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.55.20:062][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.55.20:062][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.55.20:064][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.55.20:085][326]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.55.20:085][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.55.20:085][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.55.20:085][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.55.20:086][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.08.30-17.55.20:086][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.08.30-17.55.20:087][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.08.30-17.55.20:087][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.08.30-17.55.20:087][326]LogInit: FAudioDevice initialized with ID 20.
+[2025.08.30-17.55.20:087][326]LogAudio: Display: Audio Device (ID: 20) registered with world 'Untitled'.
+[2025.08.30-17.55.20:087][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.08.30-17.55.20:090][326]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.55.20:097][326]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.55.20
+[2025.08.30-17.55.20:098][326]LogWorld: Bringing up level for play took: 0.007486
+[2025.08.30-17.55.20:100][326]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.08.30-17.55.20:302][326]PIE: Accesso al server effettuato
+[2025.08.30-17.55.20:304][326]PIE: Tempo di avvio totale di Riproduci nell'editor 1,736 secondi.
+[2025.08.30-17.55.27:965][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.55.27:965][226]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.55.27:965][226]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.55.27:966][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.55.27:970][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.55.27:972][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.55.27:983][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.55.27:984][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.08.30-17.55.27:984][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.08.30-17.55.27:987][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.08.30-17.55.27:994][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.08.30-17.55.28:058][227]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.08.30-17.55.52:092][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.55.52:145][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.55.52:182][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.30-17.55.52:245][453]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.55.52:246][453]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledC71662D74599B1D57E67A78581C42E88.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.55.52:262][453]LogFileHelpers: Saving map 'Untitled' took 0.117
+[2025.08.30-17.55.52:271][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.080 ms (total: 24.4 sec)
+[2025.08.30-17.55.52:326][453]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.55.52:326][453]LogContentValidation: Enabled validators:
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.55.52:326][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.55.52:326][453]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.56.19:261][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.56.19:308][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.56.19:346][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.08.30-17.56.19:402][469]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.56.19:402][469]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledF530317949A055F82B4448A64F81A4E6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.56.19:416][469]LogFileHelpers: Saving map 'Untitled' took 0.108
+[2025.08.30-17.56.19:424][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.585 ms (total: 24.6 sec)
+[2025.08.30-17.56.19:474][469]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.56.19:474][469]LogContentValidation: Enabled validators:
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.56.19:474][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.56.19:474][469]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.56.32:280][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.56.32:343][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.56.32:376][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.08.30-17.56.32:431][819]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.56.32:432][819]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledF972CC114C9E846BF57D399D71416CD0.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.56.32:446][819]LogFileHelpers: Saving map 'Untitled' took 0.103
+[2025.08.30-17.56.32:454][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.877 ms (total: 24.8 sec)
+[2025.08.30-17.56.32:510][819]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.56.32:510][819]LogContentValidation: Enabled validators:
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.56.32:510][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.56.32:510][819]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.56.34:395][ 41]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.56.34:406][ 41]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.56.34:413][ 41]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.56.34:413][ 41]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.56.34:419][ 41]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.56.34:419][ 41]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.56.34:443][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-17.56.34:444][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2025.08.30-17.56.34:444][ 41]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.56.35:842][ 41]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.56.35:851][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.56.35:862][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010757s)
+[2025.08.30-17.56.35:862][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010795s)
+[2025.08.30-17.56.35:870][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.56.35:871][ 41]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.56.35:872][ 41]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2025.08.30-17.56.35:872][ 41]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.56.35:872][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.56.35:872][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.56.35:872][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.56.35:872][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.56.35:872][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.56.35:875][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.56.35:894][ 41]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.56.35:895][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.56.35:895][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.56.35:895][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.56.35:895][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.08.30-17.56.35:895][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.08.30-17.56.35:897][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.08.30-17.56.35:897][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.08.30-17.56.35:897][ 41]LogInit: FAudioDevice initialized with ID 21.
+[2025.08.30-17.56.35:897][ 41]LogAudio: Display: Audio Device (ID: 21) registered with world 'Untitled'.
+[2025.08.30-17.56.35:897][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.08.30-17.56.35:900][ 41]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.56.35:907][ 41]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.56.35
+[2025.08.30-17.56.35:907][ 41]LogWorld: Bringing up level for play took: 0.006910
+[2025.08.30-17.56.35:910][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.08.30-17.56.36:101][ 41]PIE: Accesso al server effettuato
+[2025.08.30-17.56.36:102][ 41]PIE: Tempo di avvio totale di Riproduci nell'editor 1,697 secondi.
+[2025.08.30-17.56.39:077][378]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-17.56.45:056][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.56.45:056][ 90]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.56.45:056][ 90]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.56.45:058][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.56.45:062][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.56.45:064][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.56.45:074][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.56.45:074][ 90]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.08.30-17.56.45:075][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.08.30-17.56.45:076][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.08.30-17.56.45:081][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.08.30-17.56.45:146][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.08.30-17.56.54:893][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8086.739746
+[2025.08.30-17.56.55:035][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-17.56.55:035][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8086.873535, Update Interval: 329.427765
+[2025.08.30-17.57.14:239][508]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.57.14:250][508]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.57.14:256][508]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.57.14:256][508]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.57.14:262][508]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.57.14:262][508]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.57.14:284][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-17.57.14:287][508]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2025.08.30-17.57.14:287][508]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.57.15:908][508]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.57.15:964][508]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.57.15:974][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010407s)
+[2025.08.30-17.57.15:974][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010452s)
+[2025.08.30-17.57.15:982][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.57.15:982][508]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.57.15:984][508]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2025.08.30-17.57.15:984][508]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.57.15:984][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.57.15:984][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.57.15:984][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.57.15:984][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.57.15:984][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.57.15:987][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.57.16:006][508]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.57.16:007][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.57.16:007][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.57.16:007][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.57.16:008][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.08.30-17.57.16:008][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.08.30-17.57.16:009][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.08.30-17.57.16:009][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.08.30-17.57.16:009][508]LogInit: FAudioDevice initialized with ID 22.
+[2025.08.30-17.57.16:009][508]LogAudio: Display: Audio Device (ID: 22) registered with world 'Untitled'.
+[2025.08.30-17.57.16:009][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.08.30-17.57.16:012][508]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.57.16:019][508]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.57.16
+[2025.08.30-17.57.16:019][508]LogWorld: Bringing up level for play took: 0.007197
+[2025.08.30-17.57.16:022][508]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.08.30-17.57.16:214][508]PIE: Accesso al server effettuato
+[2025.08.30-17.57.16:214][508]PIE: Tempo di avvio totale di Riproduci nell'editor 1,966 secondi.
+[2025.08.30-17.57.41:564][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.57.41:564][521]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.57.41:564][521]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.57.41:565][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.57.41:568][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.57.41:570][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.57.41:582][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.57.41:582][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.08.30-17.57.41:582][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.08.30-17.57.41:584][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.08.30-17.57.41:591][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-17.57.41:655][522]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.08.30-17.58.06:124][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-17.58.06:157][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-17.58.06:192][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.30-17.58.06:255][322]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-17.58.06:256][322]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled939753054B81D493A2CA51B00EDAE426.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-17.58.06:270][322]LogFileHelpers: Saving map 'Untitled' took 0.113
+[2025.08.30-17.58.06:278][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.691 ms (total: 24.9 sec)
+[2025.08.30-17.58.06:323][322]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-17.58.06:323][322]LogContentValidation: Enabled validators:
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-17.58.06:323][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-17.58.06:323][322]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-17.58.08:144][421]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-17.58.08:155][421]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-17.58.08:162][421]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.58.08:162][421]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.58.08:167][421]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-17.58.08:167][421]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-17.58.08:187][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-17.58.08:188][421]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2025.08.30-17.58.08:188][421]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-17.58.09:923][421]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-17.58.09:934][421]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-17.58.09:944][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011018s)
+[2025.08.30-17.58.09:944][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011057s)
+[2025.08.30-17.58.09:953][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-17.58.09:954][421]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-17.58.09:955][421]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2025.08.30-17.58.09:956][421]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-17.58.09:956][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-17.58.09:956][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-17.58.09:956][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-17.58.09:956][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-17.58.09:956][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-17.58.09:958][421]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-17.58.09:978][421]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-17.58.09:978][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-17.58.09:978][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-17.58.09:978][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-17.58.09:979][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.08.30-17.58.09:979][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.08.30-17.58.09:981][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.08.30-17.58.09:981][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.08.30-17.58.09:981][421]LogInit: FAudioDevice initialized with ID 23.
+[2025.08.30-17.58.09:981][421]LogAudio: Display: Audio Device (ID: 23) registered with world 'Untitled'.
+[2025.08.30-17.58.09:981][421]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.08.30-17.58.09:984][421]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-17.58.09:990][421]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-19.58.09
+[2025.08.30-17.58.09:991][421]LogWorld: Bringing up level for play took: 0.006799
+[2025.08.30-17.58.09:993][421]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.08.30-17.58.10:187][421]PIE: Accesso al server effettuato
+[2025.08.30-17.58.10:188][421]PIE: Tempo di avvio totale di Riproduci nell'editor 2,034 secondi.
+[2025.08.30-17.58.17:894][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.58.17:895][313]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-17.58.17:895][313]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-17.58.17:896][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.58.17:900][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-17.58.17:902][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-17.58.17:914][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-17.58.17:914][313]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.08.30-17.58.17:914][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.08.30-17.58.17:916][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.08.30-17.58.17:922][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.08.30-17.58.17:984][314]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.08.30-17.59.51:418][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.30-18.00.09:059][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.00.09:125][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.00.09:159][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.08.30-18.00.09:214][533]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.00.09:214][533]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled3EDBF1CF46BE30AB60AD16975AD7C189.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.00.09:228][533]LogFileHelpers: Saving map 'Untitled' took 0.104
+[2025.08.30-18.00.09:242][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.920 ms (total: 25.1 sec)
+[2025.08.30-18.00.09:308][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.00.09:308][533]LogContentValidation: Enabled validators:
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.00.09:308][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.00.09:308][533]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.00.10:447][666]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.00.10:455][666]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.00.10:461][666]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.00.10:462][666]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.00.10:466][666]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.00.10:466][666]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.00.10:488][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-18.00.10:489][666]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2025.08.30-18.00.10:489][666]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.00.11:637][666]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.00.11:685][666]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.00.11:699][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014508s)
+[2025.08.30-18.00.11:699][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.014576s)
+[2025.08.30-18.00.11:709][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-18.00.11:710][666]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.00.11:711][666]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2025.08.30-18.00.11:711][666]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.00.11:712][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.00.11:712][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.00.11:712][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.00.11:712][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.00.11:712][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.00.11:715][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.00.11:734][666]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.00.11:734][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.00.11:734][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.00.11:734][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.00.11:734][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.08.30-18.00.11:735][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.08.30-18.00.11:736][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.08.30-18.00.11:736][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.08.30-18.00.11:736][666]LogInit: FAudioDevice initialized with ID 24.
+[2025.08.30-18.00.11:736][666]LogAudio: Display: Audio Device (ID: 24) registered with world 'Untitled'.
+[2025.08.30-18.00.11:736][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.08.30-18.00.11:739][666]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.00.11:746][666]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.00.11
+[2025.08.30-18.00.11:746][666]LogWorld: Bringing up level for play took: 0.006926
+[2025.08.30-18.00.11:748][666]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.08.30-18.00.11:939][666]PIE: Accesso al server effettuato
+[2025.08.30-18.00.11:940][666]PIE: Tempo di avvio totale di Riproduci nell'editor 1,485 secondi.
+[2025.08.30-18.00.13:385][827]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-18.00.21:124][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.00.21:125][752]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.00.21:125][752]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.00.21:126][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.00.21:129][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.00.21:131][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.00.21:144][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.00.21:144][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.08.30-18.00.21:144][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.08.30-18.00.21:146][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.08.30-18.00.21:152][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-18.00.21:215][753]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.08.30-18.00.44:374][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.00.44:425][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.00.44:458][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.08.30-18.00.44:513][342]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.00.44:514][342]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled7F83B91D447658E5EDB961BB09AEA0EA.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.00.44:529][342]LogFileHelpers: Saving map 'Untitled' took 0.105
+[2025.08.30-18.00.44:538][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.229 ms (total: 25.3 sec)
+[2025.08.30-18.00.44:587][342]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.00.44:587][342]LogContentValidation: Enabled validators:
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.00.44:587][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.00.44:588][342]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.00.49:039][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.00.49:088][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.00.49:122][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.08.30-18.00.49:176][843]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.00.49:176][843]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled2D43AF69437F18F2E29E06ABCE49A98A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.00.49:191][843]LogFileHelpers: Saving map 'Untitled' took 0.103
+[2025.08.30-18.00.49:199][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.893 ms (total: 25.4 sec)
+[2025.08.30-18.00.49:254][843]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.00.49:254][843]LogContentValidation: Enabled validators:
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.00.49:254][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.00.49:254][843]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.00.53:009][274]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.00.53:020][274]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.00.53:027][274]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.00.53:027][274]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.00.53:032][274]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.00.53:032][274]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.00.53:053][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-18.00.53:056][274]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.08.30-18.00.53:056][274]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.00.54:154][274]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.00.54:184][274]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.00.54:197][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012736s)
+[2025.08.30-18.00.54:197][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.012784s)
+[2025.08.30-18.00.54:207][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.30-18.00.54:208][274]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.00.54:209][274]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2025.08.30-18.00.54:209][274]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.00.54:209][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.00.54:209][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.00.54:209][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.00.54:209][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.00.54:209][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.00.54:211][274]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.00.54:231][274]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.00.54:231][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.00.54:231][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.00.54:231][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.00.54:231][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.08.30-18.00.54:231][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.08.30-18.00.54:234][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.08.30-18.00.54:234][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.08.30-18.00.54:234][274]LogInit: FAudioDevice initialized with ID 25.
+[2025.08.30-18.00.54:234][274]LogAudio: Display: Audio Device (ID: 25) registered with world 'Untitled'.
+[2025.08.30-18.00.54:234][274]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.08.30-18.00.54:236][274]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.00.54:242][274]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.00.54
+[2025.08.30-18.00.54:242][274]LogWorld: Bringing up level for play took: 0.006938
+[2025.08.30-18.00.54:245][274]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.08.30-18.00.54:437][274]PIE: Accesso al server effettuato
+[2025.08.30-18.00.54:438][274]PIE: Tempo di avvio totale di Riproduci nell'editor 1,419 secondi.
+[2025.08.30-18.01.12:344][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.01.12:344][406]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.01.12:344][406]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.01.12:345][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.01.12:349][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.01.12:351][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.01.12:359][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.01.12:360][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.08.30-18.01.12:360][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.08.30-18.01.12:362][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.08.30-18.01.12:369][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-18.01.12:430][407]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.08.30-18.01.36:490][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.01.36:541][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.01.36:579][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.08.30-18.01.36:645][ 10]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.01.36:645][ 10]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledAE267A6F4E5918B7279508B072F3F36C.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.01.36:660][ 10]LogFileHelpers: Saving map 'Untitled' took 0.120
+[2025.08.30-18.01.36:669][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.884 ms (total: 25.6 sec)
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: Enabled validators:
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.01.36:720][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.01.36:721][ 10]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.01.38:515][216]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.01.38:525][216]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.01.38:532][216]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.01.38:532][216]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.01.38:537][216]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.01.38:537][216]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.01.38:560][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.30-18.01.38:561][216]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.08.30-18.01.38:561][216]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.01.39:873][216]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.01.39:924][216]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.01.39:938][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013582s)
+[2025.08.30-18.01.39:938][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.013653s)
+[2025.08.30-18.01.39:949][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-18.01.39:950][216]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.01.39:951][216]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2025.08.30-18.01.39:951][216]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.01.39:951][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.01.39:952][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.01.39:952][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.01.39:952][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.01.39:952][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.01.39:954][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.01.39:973][216]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.01.39:974][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.01.39:974][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.01.39:974][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.01.39:974][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.08.30-18.01.39:974][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.08.30-18.01.39:976][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.08.30-18.01.39:976][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.08.30-18.01.39:976][216]LogInit: FAudioDevice initialized with ID 26.
+[2025.08.30-18.01.39:976][216]LogAudio: Display: Audio Device (ID: 26) registered with world 'Untitled'.
+[2025.08.30-18.01.39:977][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.08.30-18.01.39:980][216]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.01.39:987][216]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.01.39
+[2025.08.30-18.01.39:988][216]LogWorld: Bringing up level for play took: 0.007303
+[2025.08.30-18.01.39:990][216]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.08.30-18.01.40:191][216]PIE: Accesso al server effettuato
+[2025.08.30-18.01.40:192][216]PIE: Tempo di avvio totale di Riproduci nell'editor 1,668 secondi.
+[2025.08.30-18.01.46:934][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.01.46:934][  7]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.01.46:934][  7]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.01.46:935][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.01.46:938][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.01.46:940][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.01.46:952][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.01.46:953][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.08.30-18.01.46:953][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.08.30-18.01.46:955][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.08.30-18.01.46:961][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-18.01.47:021][  8]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.08.30-18.02.07:624][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.02.07:692][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.02.07:727][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.08.30-18.02.07:782][345]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.02.07:782][345]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledDE324F574357CF0DBC5DB9B2097D0C75.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.02.07:796][345]LogFileHelpers: Saving map 'Untitled' took 0.104
+[2025.08.30-18.02.07:812][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.744 ms (total: 25.8 sec)
+[2025.08.30-18.02.07:852][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.02.07:852][345]LogContentValidation: Enabled validators:
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.02.07:852][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.02.07:852][345]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.02.08:646][436]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.02.08:658][436]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.02.08:665][436]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.02.08:665][436]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.02.08:670][436]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.02.08:670][436]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.02.08:692][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.30-18.02.08:694][436]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.08.30-18.02.08:694][436]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.02.10:065][436]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.02.10:074][436]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.02.10:085][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010927s)
+[2025.08.30-18.02.10:085][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010965s)
+[2025.08.30-18.02.10:094][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.08.30-18.02.10:095][436]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.02.10:096][436]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2025.08.30-18.02.10:096][436]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.02.10:096][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.02.10:097][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.02.10:097][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.02.10:097][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.02.10:097][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.02.10:098][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.02.10:118][436]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.02.10:118][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.02.10:118][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.02.10:118][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.02.10:119][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.08.30-18.02.10:119][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.08.30-18.02.10:121][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.08.30-18.02.10:121][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.08.30-18.02.10:121][436]LogInit: FAudioDevice initialized with ID 27.
+[2025.08.30-18.02.10:121][436]LogAudio: Display: Audio Device (ID: 27) registered with world 'Untitled'.
+[2025.08.30-18.02.10:121][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.30-18.02.10:123][436]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.02.10:130][436]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.02.10
+[2025.08.30-18.02.10:130][436]LogWorld: Bringing up level for play took: 0.007173
+[2025.08.30-18.02.10:132][436]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.08.30-18.02.10:323][436]PIE: Accesso al server effettuato
+[2025.08.30-18.02.10:324][436]PIE: Tempo di avvio totale di Riproduci nell'editor 1,667 secondi.
+[2025.08.30-18.02.13:364][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.02.13:364][784]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.02.13:364][784]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.02.13:365][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.02.13:369][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.02.13:370][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.02.13:381][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.02.13:381][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.30-18.02.13:381][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.30-18.02.13:383][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.30-18.02.13:388][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.08.30-18.02.13:450][785]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.08.30-18.02.46:567][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.02.46:602][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.02.46:638][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-18.02.46:695][445]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.02.46:695][445]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledE7CFF0304F8C46370934D59AA9869AAB.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.02.46:710][445]LogFileHelpers: Saving map 'Untitled' took 0.109
+[2025.08.30-18.02.46:719][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.978 ms (total: 26.0 sec)
+[2025.08.30-18.02.46:769][445]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.02.46:769][445]LogContentValidation: Enabled validators:
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.02.46:769][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.02.46:769][445]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.02.48:139][600]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.02.48:149][600]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.02.48:156][600]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.02.48:156][600]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.02.48:161][600]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.02.48:162][600]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.02.48:185][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-18.02.48:186][600]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.08.30-18.02.48:186][600]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.02.49:613][600]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.02.49:622][600]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.02.49:632][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010938s)
+[2025.08.30-18.02.49:632][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010978s)
+[2025.08.30-18.02.49:640][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-18.02.49:641][600]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.02.49:642][600]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.08.30-18.02.49:643][600]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.02.49:643][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.02.49:643][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.02.49:643][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.02.49:643][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.02.49:643][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.02.49:645][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.02.49:663][600]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.02.49:664][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.02.49:664][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.02.49:664][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.02.49:664][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.08.30-18.02.49:664][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.08.30-18.02.49:666][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.08.30-18.02.49:666][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.08.30-18.02.49:666][600]LogInit: FAudioDevice initialized with ID 28.
+[2025.08.30-18.02.49:666][600]LogAudio: Display: Audio Device (ID: 28) registered with world 'Untitled'.
+[2025.08.30-18.02.49:666][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.30-18.02.49:669][600]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.02.49:676][600]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.02.49
+[2025.08.30-18.02.49:676][600]LogWorld: Bringing up level for play took: 0.007402
+[2025.08.30-18.02.49:678][600]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.08.30-18.02.49:872][600]PIE: Accesso al server effettuato
+[2025.08.30-18.02.49:872][600]PIE: Tempo di avvio totale di Riproduci nell'editor 1,724 secondi.
+[2025.08.30-18.02.55:561][259]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.02.56:770][404]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.03.13:511][411]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.03.15:208][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8467.218750
+[2025.08.30-18.03.15:359][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.03.15:359][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8467.360352, Update Interval: 338.273865
+[2025.08.30-18.03.17:764][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.03.17:764][917]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.03.17:764][917]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.03.17:765][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.03.17:769][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.03.17:770][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.03.17:781][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.03.17:781][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.30-18.03.17:781][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.30-18.03.17:784][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.30-18.03.17:789][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-18.03.17:848][918]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.08.30-18.03.39:235][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.03.39:287][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.03.39:322][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.08.30-18.03.39:375][391]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.03.39:376][391]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled421C220941CD0920B38916BD1DCDC396.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.03.39:391][391]LogFileHelpers: Saving map 'Untitled' took 0.103
+[2025.08.30-18.03.39:398][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.873 ms (total: 26.1 sec)
+[2025.08.30-18.03.39:434][391]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.03.39:434][391]LogContentValidation: Enabled validators:
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.03.39:434][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.03.39:434][391]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.04.50:364][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.04.50:419][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.04.50:454][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.08.30-18.04.50:510][ 66]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.04.50:510][ 66]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled22D59A5542E82477D8B7D19B3978FA17.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.04.50:525][ 66]LogFileHelpers: Saving map 'Untitled' took 0.106
+[2025.08.30-18.04.50:533][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.292 ms (total: 26.3 sec)
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: Enabled validators:
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.04.50:584][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.04.50:584][ 66]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.04.51:219][101]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.04.51:228][101]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.04.51:234][101]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.04.51:234][101]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.04.51:240][101]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.04.51:240][101]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.04.51:261][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-18.04.51:262][101]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2025.08.30-18.04.51:262][101]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.05.00:209][101]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.05.00:219][101]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.05.00:230][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010987s)
+[2025.08.30-18.05.00:230][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011026s)
+[2025.08.30-18.05.00:239][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.30-18.05.00:240][101]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.05.00:241][101]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2025.08.30-18.05.00:241][101]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.05.00:242][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.05.00:242][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.05.00:242][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.05.00:242][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.05.00:242][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.05.00:244][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.05.00:264][101]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.05.00:265][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.05.00:265][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.05.00:265][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.05.00:266][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.08.30-18.05.00:266][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.08.30-18.05.00:268][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.08.30-18.05.00:268][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.08.30-18.05.00:268][101]LogInit: FAudioDevice initialized with ID 29.
+[2025.08.30-18.05.00:268][101]LogAudio: Display: Audio Device (ID: 29) registered with world 'Untitled'.
+[2025.08.30-18.05.00:268][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.08.30-18.05.00:271][101]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.05.00:277][101]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.05.00
+[2025.08.30-18.05.00:277][101]LogWorld: Bringing up level for play took: 0.006914
+[2025.08.30-18.05.00:279][101]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.08.30-18.05.00:473][101]PIE: Accesso al server effettuato
+[2025.08.30-18.05.00:474][101]PIE: Tempo di avvio totale di Riproduci nell'editor 9,247 secondi.
+[2025.08.30-18.05.14:155][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.05.14:155][701]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.05.14:155][701]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.05.14:156][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.05.14:161][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.05.14:162][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.05.14:174][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.05.14:174][701]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.08.30-18.05.14:175][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.08.30-18.05.14:177][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.08.30-18.05.14:184][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-18.05.14:244][702]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.08.30-18.05.29:184][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.05.29:234][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.05.29:270][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.08.30-18.05.29:334][402]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.05.29:335][402]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled68FAD51B4C58317413F62F98D2A651BC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.05.29:350][402]LogFileHelpers: Saving map 'Untitled' took 0.117
+[2025.08.30-18.05.29:358][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.760 ms (total: 26.5 sec)
+[2025.08.30-18.05.29:397][402]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.05.29:397][402]LogContentValidation: Enabled validators:
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.05.29:397][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.05.29:397][402]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.05.40:530][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.05.40:584][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.05.40:621][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.08.30-18.05.40:674][645]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.05.40:674][645]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled2418A8694066AE383363AA89297E48B1.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.05.40:690][645]LogFileHelpers: Saving map 'Untitled' took 0.106
+[2025.08.30-18.05.40:697][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.540 ms (total: 26.6 sec)
+[2025.08.30-18.05.40:750][645]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.05.40:750][645]LogContentValidation: Enabled validators:
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.05.40:750][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.05.40:750][645]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.05.55:449][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.05.55:499][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.05.55:535][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.30-18.05.55:591][293]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.05.55:591][293]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled64F4E7ED4451DDEA5AAC0495D222265B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.05.55:606][293]LogFileHelpers: Saving map 'Untitled' took 0.107
+[2025.08.30-18.05.55:613][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.603 ms (total: 26.8 sec)
+[2025.08.30-18.05.55:666][293]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.05.55:666][293]LogContentValidation: Enabled validators:
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.05.55:666][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.05.55:667][293]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.05.57:221][469]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.05.57:232][469]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.05.57:240][469]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.05.57:240][469]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.05.57:246][469]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.05.57:246][469]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.05.57:272][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.08.30-18.05.57:273][469]LogPlayLevel: PlayLevel: Blueprint regeneration took 41 ms (1 blueprints)
+[2025.08.30-18.05.57:273][469]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.05.58:358][469]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.05.58:394][469]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.05.58:405][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011817s)
+[2025.08.30-18.05.58:405][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011862s)
+[2025.08.30-18.05.58:414][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.30-18.05.58:414][469]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.05.58:416][469]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2025.08.30-18.05.58:416][469]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.05.58:417][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.05.58:417][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.05.58:417][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.05.58:417][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.05.58:417][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.05.58:419][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.05.58:438][469]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.05.58:439][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.05.58:439][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.05.58:439][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.05.58:439][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.08.30-18.05.58:439][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.08.30-18.05.58:442][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.08.30-18.05.58:442][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.08.30-18.05.58:442][469]LogInit: FAudioDevice initialized with ID 30.
+[2025.08.30-18.05.58:442][469]LogAudio: Display: Audio Device (ID: 30) registered with world 'Untitled'.
+[2025.08.30-18.05.58:442][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.30-18.05.58:445][469]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.05.58:452][469]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.05.58
+[2025.08.30-18.05.58:453][469]LogWorld: Bringing up level for play took: 0.007946
+[2025.08.30-18.05.58:455][469]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.08.30-18.05.58:661][469]PIE: Accesso al server effettuato
+[2025.08.30-18.05.58:662][469]PIE: Tempo di avvio totale di Riproduci nell'editor 1,431 secondi.
+[2025.08.30-18.06.18:489][835]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.06.19:506][957]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.06.25:834][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.06.25:834][713]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.06.25:834][713]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.06.25:835][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.06.25:839][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.06.25:842][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.06.25:859][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.06.25:859][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.08.30-18.06.25:859][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.30-18.06.25:861][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.08.30-18.06.25:867][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.08.30-18.06.25:928][714]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.08.30-18.07.59:810][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.07.59:867][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.07.59:905][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.08.30-18.07.59:974][ 93]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.07.59:974][ 93]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledA503FE634FB663594480B296E3098FC3.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.07.59:990][ 93]LogFileHelpers: Saving map 'Untitled' took 0.123
+[2025.08.30-18.07.59:999][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.016 ms (total: 27.0 sec)
+[2025.08.30-18.08.00:065][ 93]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: Enabled validators:
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.08.00:066][ 93]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.08.00:066][ 93]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.08.00:331][121]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.08.00:341][121]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.08.00:348][121]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.08.00:348][121]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.08.00:352][121]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.08.00:352][121]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.08.00:373][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.30-18.08.00:374][121]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2025.08.30-18.08.00:374][121]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.08.01:456][121]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.08.01:514][121]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.08.01:527][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013427s)
+[2025.08.30-18.08.01:527][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.013485s)
+[2025.08.30-18.08.01:537][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.30-18.08.01:538][121]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.08.01:539][121]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2025.08.30-18.08.01:540][121]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.08.01:540][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.08.01:540][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.08.01:540][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.08.01:540][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.08.01:540][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.08.01:542][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.08.01:561][121]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.08.01:562][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.08.01:562][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.08.01:562][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.08.01:562][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.08.30-18.08.01:562][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.08.30-18.08.01:565][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.08.30-18.08.01:565][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.08.30-18.08.01:565][121]LogInit: FAudioDevice initialized with ID 31.
+[2025.08.30-18.08.01:565][121]LogAudio: Display: Audio Device (ID: 31) registered with world 'Untitled'.
+[2025.08.30-18.08.01:565][121]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.08.30-18.08.01:568][121]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.08.01:575][121]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.08.01
+[2025.08.30-18.08.01:576][121]LogWorld: Bringing up level for play took: 0.007867
+[2025.08.30-18.08.01:578][121]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.08.30-18.08.01:787][121]PIE: Accesso al server effettuato
+[2025.08.30-18.08.01:788][121]PIE: Tempo di avvio totale di Riproduci nell'editor 1,448 secondi.
+[2025.08.30-18.08.13:011][457]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-18.08.13:162][475]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_2] chiave2
+[2025.08.30-18.08.16:364][859]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_2] chiave2
+[2025.08.30-18.08.16:381][861]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-18.08.19:085][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.08.19:085][181]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.08.19:085][181]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.08.19:087][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.08.19:092][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.08.19:094][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.08.19:103][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.08.19:103][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.08.30-18.08.19:103][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.08.30-18.08.19:106][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.08.30-18.08.19:112][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.30-18.08.19:170][182]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.08.30-18.08.55:600][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.08.55:670][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.08.55:704][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.08.30-18.08.55:759][226]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.08.55:760][226]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled7F1976904E5E6640F622A59886500A7A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.08.55:774][226]LogFileHelpers: Saving map 'Untitled' took 0.105
+[2025.08.30-18.08.55:782][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.686 ms (total: 27.2 sec)
+[2025.08.30-18.08.55:849][226]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.08.55:849][226]LogContentValidation: Enabled validators:
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.08.55:849][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.08.55:849][226]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.08.56:859][344]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.08.30-18.08.56:870][344]LogPlayLevel: [PlayLevel] Compiling Untitled before play...
+[2025.08.30-18.08.56:876][344]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.08.56:876][344]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.08.56:881][344]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.08.30-18.08.56:881][344]LogBlueprint: Error: [AssetLog] C:\Users\Paolo\Documents\GitHub\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.08.30-18.08.56:904][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.30-18.08.56:905][344]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2025.08.30-18.08.56:905][344]BlueprintLog: Warning: La blueprint non è riuscita a compilare:  Untitled
+[2025.08.30-18.08.58:306][344]LogSlate: Window 'Errori di compilazione della blueprint' being destroyed
+[2025.08.30-18.08.58:314][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.08.30-18.08.58:325][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010938s)
+[2025.08.30-18.08.58:325][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.010975s)
+[2025.08.30-18.08.58:334][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.30-18.08.58:335][344]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.30-18.08.58:336][344]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2025.08.30-18.08.58:337][344]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.08.58:337][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.08.58:337][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.08.58:337][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.08.58:337][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.08.58:337][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.08.58:339][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.08.58:358][344]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.08.30-18.08.58:358][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.08.58:358][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.08.58:358][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.08.58:359][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.08.30-18.08.58:359][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.08.30-18.08.58:361][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.08.30-18.08.58:361][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.08.30-18.08.58:361][344]LogInit: FAudioDevice initialized with ID 32.
+[2025.08.30-18.08.58:361][344]LogAudio: Display: Audio Device (ID: 32) registered with world 'Untitled'.
+[2025.08.30-18.08.58:361][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.08.30-18.08.58:364][344]LogLoad: Game class is 'GameModeBase'
+[2025.08.30-18.08.58:371][344]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.08.30-20.08.58
+[2025.08.30-18.08.58:371][344]LogWorld: Bringing up level for play took: 0.006909
+[2025.08.30-18.08.58:373][344]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.08.30-18.08.58:564][344]PIE: Accesso al server effettuato
+[2025.08.30-18.08.58:564][344]PIE: Tempo di avvio totale di Riproduci nell'editor 1,695 secondi.
+[2025.08.30-18.09.03:086][875]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.08.30-18.09.04:802][ 81]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_1] chiave2
+[2025.08.30-18.09.07:871][449]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-18.09.11:773][917]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-18.09.12:891][ 51]LogBlueprintUserMessages: [Oggetto1_Blueprint_C_0] chiave2
+[2025.08.30-18.09.15:593][375]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.08.30-18.09.34:174][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.09.34:174][599]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.08.30-18.09.34:174][599]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.09.34:175][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.09.34:179][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.09.34:180][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.09.34:192][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.09.34:193][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.08.30-18.09.34:193][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.08.30-18.09.34:195][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.08.30-18.09.34:202][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.08.30-18.09.34:258][600]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.08.30-18.09.34:826][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.09.34:879][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-18.09.34:912][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.08.30-18.09.34:965][648]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-18.09.34:965][648]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/UntitledBC4E976A4F4FEC554FC4A2A1F8D2B44E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-18.09.34:980][648]LogFileHelpers: Saving map 'Untitled' took 0.101
+[2025.08.30-18.09.34:993][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.338 ms (total: 27.3 sec)
+[2025.08.30-18.09.35:027][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.09.35:027][648]LogContentValidation: Enabled validators:
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.09.35:027][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.09.35:027][648]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-18.09.41:142][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8853.392578
+[2025.08.30-18.09.41:301][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.09.41:301][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8853.541992, Update Interval: 349.205597
+[2025.08.30-18.10.27:816][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
