@@ -2532,3 +2532,33 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.30-16.01.18:754][ 90]LogSlate: Window 'PixelFantasy_Outside_A2' being destroyed
 [2025.08.30-16.01.24:628][736]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TilesetsR/Textures/PixelFantasy_Outside_A5_desaturated_.PixelFantasy_Outside_A5_desaturated_
 [2025.08.30-16.01.32:087][430]LogSlate: Window 'PixelFantasy_Outside_A5_desaturated_' being destroyed
+[2025.08.30-16.04.56:367][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1368.295776
+[2025.08.30-16.04.57:370][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-16.04.57:370][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1368.968262, Update Interval: 339.597778
+[2025.08.30-16.05.56:201][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.08.30-16.05.56:204][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.08.30-16.05.56:256][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Untitled_Auto2
+[2025.08.30-16.05.56:256][701]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled_Auto27DFA20544EFB2AF86D6E4D8D1EE1BE61.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Untitled_Auto2.umap'
+[2025.08.30-16.05.56:257][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.167
+[2025.08.30-16.05.56:257][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.167
+[2025.08.30-16.07.41:033][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-16.07.41:068][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.30-16.07.41:104][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.08.30-16.07.41:155][ 65]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.08.30-16.07.41:156][ 65]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Untitled2A25F2EA4FEECB83D277E9815BED1A39.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Untitled.umap'
+[2025.08.30-16.07.41:171][ 65]LogFileHelpers: Saving map 'Untitled' took 0.103
+[2025.08.30-16.07.41:178][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.708 ms (total: 11.1 sec)
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: Enabled validators:
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-16.07.41:235][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-16.07.41:245][ 65]AssetCheck: /Game/Untitled Convalida asset
+[2025.08.30-16.08.40:874][483]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-16.10.54:211][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1726.136353
+[2025.08.30-16.10.54:386][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-16.10.54:386][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1726.303223, Update Interval: 340.017090
+[2025.08.30-16.11.29:188][282]LogSlate: Window 'Selettore colore' being destroyed
