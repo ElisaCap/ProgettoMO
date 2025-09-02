@@ -1708,3 +1708,89 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.09.02-07.43.28:811][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2025.09.02-07.43.28:934][454]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2025.09.02-07.43.41:237][898]LogDerivedDataCache: C:/Users/Utente/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.02-07.44.22:178][304]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.02-07.44.22:624][317]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Untitled.Untitled:PersistentLevel.Untitled
+[2025.09.02-07.44.22:625][317]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.09.02-07.44.22:780][317]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-07.44.24:184][317]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.02-07.44.26:262][366]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  Testo  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.09.02-07.44.26:262][366]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  Testo : Array di Stringa non compatibile con Stringa.
+[2025.09.02-07.44.26:273][366]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.09.02-07.44.26:273][366]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.09.02-07.44.26:347][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.02-07.44.47:055][978]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  In String  e  New Param : Stringa non compatibile con Array di Stringa.
+[2025.09.02-07.44.47:055][978]LogBlueprint: Error: [AssetLog] C:\Users\Utente\Documents\Unreal Projects\ProgettoMO\Content\Untitled.umap: [Compiler] Impossibile collegare i pin  New Param  e  In String : Array di Stringa non compatibile con Stringa.
+[2025.09.02-07.44.47:109][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.02-07.45.13:064][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.02-07.45.14:620][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-07.45.14:693][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.02-07.45.14:756][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.02-07.45.14:850][837]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.09.02-07.45.14:851][837]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/UntitledD1B6069C4F48152725003D92990B42E9.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Untitled.umap'
+[2025.09.02-07.45.14:876][837]LogFileHelpers: Saving map 'Untitled' took 0.185
+[2025.09.02-07.45.14:896][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.365 ms
+[2025.09.02-07.45.14:957][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-07.45.14:958][837]LogContentValidation: Enabled validators:
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-07.45.14:958][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-07.45.14:958][837]AssetCheck: /Game/Untitled Convalida asset
+[2025.09.02-07.45.27:293][189]LogDebuggerCommands: Repeating last play command: Viewport selezionata
+[2025.09.02-07.45.27:307][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.02-07.45.27:308][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2025.09.02-07.45.27:328][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020441s)
+[2025.09.02-07.45.27:328][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.020481s)
+[2025.09.02-07.45.27:347][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.02-07.45.27:349][189]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.09.02-07.45.27:350][189]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2025.09.02-07.45.27:351][189]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.02-07.45.27:351][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.02-07.45.27:351][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.02-07.45.27:351][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.02-07.45.27:351][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.02-07.45.27:351][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.02-07.45.27:353][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.02-07.45.27:396][189]LogAudioMixer: Display: Using Audio Hardware Device 2 - 24W_LCD_TV (2- AMD High Definition Audio Device)
+[2025.09.02-07.45.27:397][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.02-07.45.27:397][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.02-07.45.27:397][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.02-07.45.27:397][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.02-07.45.27:397][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.02-07.45.27:400][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.02-07.45.27:400][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.02-07.45.27:400][189]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.02-07.45.27:400][189]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2025.09.02-07.45.27:400][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.02-07.45.27:403][189]LogLoad: Game class is 'GameModeBase'
+[2025.09.02-07.45.27:419][189]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2025.09.02-09.45.27
+[2025.09.02-07.45.27:419][189]LogWorld: Bringing up level for play took: 0.016510
+[2025.09.02-07.45.27:422][189]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.02-07.45.28:128][189]PIE: Accesso al server effettuato
+[2025.09.02-07.45.28:129][189]PIE: Tempo di avvio totale di Riproduci nell'editor 0,822 secondi.
+[2025.09.02-07.45.30:877][475]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.02-07.45.31:417][536]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.02-07.45.31:417][536]LogBlueprintUserMessages: [NewBlueprint_C_1] Oggetto1_Blueprint_C_2
+[2025.09.02-07.45.31:417][536]LogBlueprintUserMessages: [Untitled_C_7] chiave
+[2025.09.02-07.45.36:606][119]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.02-07.45.38:818][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-07.45.38:818][375]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2025.09.02-07.45.38:818][375]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.02-07.45.38:820][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-07.45.38:823][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.02-07.45.38:829][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-07.45.38:848][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.02-07.45.38:848][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.02-07.45.38:848][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.02-07.45.38:851][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.02-07.45.38:857][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-07.45.38:862][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.02-07.45.39:035][376]LogPlayLevel: Display: Destroying online subsystem :Context_8
