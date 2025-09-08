@@ -4036,3 +4036,138 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.08-12.51.45:513][793]Cmd: MAP CHECKDEP NOCLEARLOG
 [2025.09.08-12.51.45:513][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
 [2025.09.08-12.51.58:004][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.08-12.53.09:877][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3254.170654
+[2025.09.08-12.53.10:018][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-12.53.10:018][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3254.304443, Update Interval: 353.682678
+[2025.09.08-12.53.43:917][381]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.09.08-12.53.43:924][381]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.09.08-12.53.43:930][381]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.09.08-12.53.43:939][382]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.09.08-12.53.50:697][191]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> optionMenu
+[2025.09.08-12.53.50:812][191]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.09.08-12.53.52:106][336]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/optionMenu.optionMenu
+[2025.09.08-12.53.52:106][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.08-12.53.52:113][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.08-12.54.03:601][590]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.54.03:601][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.54.03:615][590]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.54.03:615][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.54.03:687][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.08-12.54.08:236][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.08-12.54.10:909][890]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.08-12.54.14:430][136]LogContentBrowser: Attempting asset rename: optionMenu -> optionMenu
+[2025.09.08-12.54.16:305][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.08-12.54.17:412][256]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.08-12.54.17:457][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.08-12.54.17:477][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.08-12.54.17:497][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.08-12.54.28:749][ 56]LogContentBrowser: Deferred new asset file creation: mainMenu1
+[2025.09.08-12.54.28:759][ 56]LogContentBrowser: Creating deferred item: mainMenu1
+[2025.09.08-12.54.28:774][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: mainMenu1).
+[2025.09.08-12.54.30:829][206]LogContentBrowser: Attempting asset rename: mainMenu1 -> optionMenu
+[2025.09.08-12.54.30:965][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.08-12.54.31:091][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-12.54.31:149][206]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-12.54.31:152][206]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-12.54.31:152][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-12.54.31:152][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-12.54.31:161][206]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-12.54.31:161][206]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuE22F41F9489E897A1D5072B877FC11AF.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-12.54.31:841][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 750.015 ms (total: 5.99 sec)
+[2025.09.08-12.54.32:307][206]LogContentBrowser: End creating deferred item mainMenu1
+[2025.09.08-12.54.32:367][206]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-12.54.32:367][206]LogContentValidation: Enabled validators:
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-12.54.32:367][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-12.54.32:367][206]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-12.54.33:995][306]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/optionMenu.optionMenu
+[2025.09.08-12.54.33:995][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.08-12.54.34:001][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.08-12.54.35:633][420]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.54.35:633][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.54.35:645][420]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.54.35:645][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.54.35:731][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.08-12.55.27:732][ 55]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.09.08-12.55.38:623][755]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.09.08-12.56.19:094][621]LogSlate: Window 'optionMenu' being destroyed
+[2025.09.08-12.56.19:109][621]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.56.19:109][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.56.19:123][621]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-12.56.19:123][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.56.19:192][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.08-12.56.21:565][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.08-12.56.25:610][856]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.08-12.56.25:790][856]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/optionMenu.optionMenu
+	Asset Type: WidgetBlueprint
+[2025.09.08-12.56.26:433][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.08-12.56.26:453][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.08-12.56.26:472][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.08-12.56.26:634][856]SourceControl: rm 'Content/UI/optionMenu.uasset'
+[2025.09.08-12.56.30:203][215]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 172215
+[2025.09.08-12.56.30:203][215]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.09.08-12.56.30:205][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-12.56.32:549][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.08-12.56.40:164][ 73]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.09.08-12.56.40:170][ 73]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.09.08-12.56.40:175][ 73]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.09.08-12.56.40:185][ 74]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.09.08-12.56.41:850][273]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> optionMenu
+[2025.09.08-12.56.41:970][273]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.09.08-12.56.43:756][477]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/optionMenu.optionMenu
+[2025.09.08-12.56.43:756][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.08-12.56.43:762][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.08-13.00.03:197][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3667.484131
+[2025.09.08-13.00.03:346][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-13.00.03:346][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3667.620605, Update Interval: 310.992157
+[2025.09.08-13.00.16:580][762]LogEditorTransaction: Undo Edit Text
+[2025.09.08-13.00.51:091][774]LogDerivedDataCache: C:/Users/f/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.08-13.01.06:465][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.08-13.01.06:581][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-13.01.06:639][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-13.01.06:641][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-13.01.06:641][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-13.01.06:641][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-13.01.06:645][875]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-13.01.06:645][875]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu362474964A9921593B417DA8F0E55DF8.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-13.01.07:343][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 761.778 ms (total: 6.75 sec)
+[2025.09.08-13.01.07:406][875]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-13.01.07:406][875]LogContentValidation: Enabled validators:
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-13.01.07:406][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-13.01.07:406][875]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-13.02.17:820][477]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.08-13.02.20:625][663]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.08-13.02.21:115][684]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.08-13.02.23:043][818]LogEditorTransaction: Undo Paste clipboard contents
+[2025.09.08-13.02.23:492][826]LogEditorTransaction: Undo Paste clipboard contents
+[2025.09.08-13.02.25:662][977]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.08-13.02.28:047][119]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.08-13.04.43:040][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.08-13.04.43:172][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-13.04.43:221][360]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-13.04.43:223][360]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-13.04.43:223][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-13.04.43:223][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-13.04.43:230][360]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-13.04.43:230][360]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu74EF775B4E7495D64928CCB0F7ABC66B.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-13.04.43:238][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.871 ms (total: 6.82 sec)
+[2025.09.08-13.04.43:303][360]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-13.04.43:304][360]LogContentValidation: Enabled validators:
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-13.04.43:304][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-13.04.43:305][360]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-13.05.14:775][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
