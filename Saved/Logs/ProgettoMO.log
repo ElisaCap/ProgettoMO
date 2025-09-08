@@ -4451,3 +4451,587 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.08-14.18.22:138][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.08-14.18.22:141][402]AssetCheck: /Game/UI/optionMenu Validating asset
 [2025.09.08-14.18.24:036][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.08-14.20.31:881][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.08-14.20.32:004][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.20.32:062][162]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.20.32:066][162]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.20.32:066][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.20.32:066][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.20.32:103][162]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.20.32:104][162]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu3F06D36143A88C194E8001A81FDC1FB0.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.20.32:110][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.276 ms (total: 7.84 sec)
+[2025.09.08-14.20.32:161][162]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.20.32:161][162]LogContentValidation: Enabled validators:
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.20.32:161][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.20.32:164][162]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-14.20.32:488][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.08-14.21.00:801][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.08-14.21.09:081][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/mainMenu.mainMenu
+[2025.09.08-14.21.09:081][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.09.08-14.21.09:087][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.09.08-14.21.25:999][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8549.979492
+[2025.09.08-14.21.26:165][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-14.21.26:165][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8550.138672, Update Interval: 312.744537
+[2025.09.08-14.21.32:690][283]LogEditorTransaction: Undo Move Node
+[2025.09.08-14.22.57:699][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.08-14.22.57:813][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.22.57:858][ 55]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/mainMenu] ([2] browsable assets)...
+[2025.09.08-14.22.57:861][ 55]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/mainMenu.mainMenu]
+[2025.09.08-14.22.57:861][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/mainMenu]
+[2025.09.08-14.22.57:861][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/mainMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/mainMenu.uasset" SILENT=true
+[2025.09.08-14.22.57:870][ 55]LogSavePackage: Moving output files for package: /Game/UI/mainMenu
+[2025.09.08-14.22.57:870][ 55]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/mainMenu8BB1600545F26D6855A779B378960AC2.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/mainMenu.uasset'
+[2025.09.08-14.22.57:877][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.292 ms (total: 7.90 sec)
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: Enabled validators:
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.22.57:937][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.22.57:938][ 55]AssetCheck: /Game/UI/mainMenu Validating asset
+[2025.09.08-14.22.59:789][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.08-14.25.07:610][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.08-14.25.07:714][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.25.07:745][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.25.07:749][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.25.07:749][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.25.07:749][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.25.07:787][332]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.25.07:787][332]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuC18A43434FCB3FF9603AF0BBB4F572FC.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.25.07:795][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.643 ms (total: 7.98 sec)
+[2025.09.08-14.25.07:845][332]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.25.07:845][332]LogContentValidation: Enabled validators:
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.25.07:845][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.25.07:846][332]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-14.25.08:338][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.08-14.25.16:215][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.08-14.25.22:220][ 96]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.08-14.25.22:234][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.08-14.25.22:234][ 96]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2025.09.08-14.25.22:236][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.09.08-14.25.22:248][ 97]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_optionMap
+[2025.09.08-14.25.22:250][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001710s)
+[2025.09.08-14.25.22:250][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/optionMap.optionMap to /Game/UEDPIE_0_optionMap.optionMap (0.001826s)
+[2025.09.08-14.25.22:270][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.08-14.25.22:271][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world optionMap
+[2025.09.08-14.25.22:274][ 97]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2025.09.08-14.25.22:275][ 97]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.08-14.25.22:275][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.08-14.25.22:275][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.08-14.25.22:275][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.08-14.25.22:275][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.08-14.25.22:275][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.08-14.25.22:277][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.08-14.25.22:303][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.08-14.25.22:304][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.08-14.25.22:304][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.08-14.25.22:304][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.08-14.25.22:304][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.09.08-14.25.22:304][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.09.08-14.25.22:308][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.09.08-14.25.22:308][ 97]LogInit: FAudioDevice initialized with ID 31.
+[2025.09.08-14.25.22:308][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.09.08-14.25.22:308][ 97]LogAudio: Display: Audio Device (ID: 31) registered with world 'optionMap'.
+[2025.09.08-14.25.22:308][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.09.08-14.25.22:347][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.25.22:347][ 97]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.08-14.25.22:348][ 97]LogWorld: Bringing World /Game/UEDPIE_0_optionMap.optionMap up for play (max tick rate 0) at 2025.09.08-16.25.22
+[2025.09.08-14.25.22:348][ 97]LogWorld: Bringing up level for play took: 0.000518
+[2025.09.08-14.25.22:350][ 97]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.08-14.25.22:350][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.08-14.25.22:361][ 97]PIE: Server logged in
+[2025.09.08-14.25.22:366][ 97]PIE: Play in editor total start time 0.132 seconds.
+[2025.09.08-14.26.08:756][217]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.09.08-14.26.08:756][217]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.09.08-14.26.08:756][217]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.09.08-14.26.08:757][217]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.09.08-14.26.08:757][217]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.09.08-14.26.08:758][217]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.09.08-14.26.08:758][217]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.09.08-14.26.08:855][217]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.09.08-14.26.09:036][219]LogContentStreaming: Texture pool size now 600 MB
+[2025.09.08-14.26.09:036][219]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.09.08-14.26.27:466][540]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2025.09.08-14.26.27:466][540]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.09.08-14.26.27:466][540]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.09.08-14.26.27:466][540]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.09.08-14.26.27:467][540]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.09.08-14.26.27:467][540]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2025.09.08-14.26.27:467][540]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.09.08-14.26.27:467][540]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2025.09.08-14.26.27:468][540]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.09.08-14.26.27:468][540]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2025.09.08-14.26.27:468][540]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.09.08-14.26.27:468][540]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2025.09.08-14.26.27:490][540]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.09.08-14.26.27:809][542]LogContentStreaming: Texture pool size now 3000 MB
+[2025.09.08-14.26.27:809][542]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="3000"
+[2025.09.08-14.26.33:377][810]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.09.08-14.26.33:377][810]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.09.08-14.26.33:378][810]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MappaGioco"
+[2025.09.08-14.26.33:378][810]LogNet: Browse: /Game/MappaGioco
+[2025.09.08-14.26.33:378][810]LogLoad: LoadMap: /Game/MappaGioco
+[2025.09.08-14.26.33:378][810]LogWorld: BeginTearingDown for /Game/UEDPIE_0_optionMap
+[2025.09.08-14.26.33:382][810]LogWorld: UWorld::CleanupWorld for optionMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-14.26.33:382][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.26.33:434][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.08-14.26.33:436][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.08-14.26.33:438][810]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-14.26.33:574][810]LogAudio: Display: Audio Device (ID: 31) registered with world 'MappaGioco'.
+[2025.09.08-14.26.33:574][810]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.08-14.26.33:576][810]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2025.09.08-14.26.33:576][810]LogLoad: Game class is 'GameModeBase'
+[2025.09.08-14.26.33:602][810]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.08-16.26.33
+[2025.09.08-14.26.33:602][810]LogWorld: Bringing up level for play took: 0.027515
+[2025.09.08-14.26.33:603][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.08-14.26.34:315][810]LogBlueprintUserMessages: [Untitled_C_1] Dov'e' Armando? Dovevamo incontrarci ma non e' ancora arrivato...Non e' da lui
+[2025.09.08-14.26.34:316][810]LogLoad: Took 0.937760 seconds to LoadMap(/Game/MappaGioco)
+[2025.09.08-14.26.34:316][810]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MappaGioco
+[2025.09.08-14.26.34:348][811]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.09.08-14.26.45:087][301]LogBlueprintUserMessages: [Giovanna_C_1] Giovanna
+[2025.09.08-14.26.46:845][384]LogBlueprintUserMessages: [Untitled_C_1] Aah!! Ma la porta è aperta!!!
+[2025.09.08-14.26.57:192][872]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] nome
+[2025.09.08-14.26.59:123][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.26.59:123][962]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.08-14.26.59:125][962]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.08-14.26.59:174][962]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-14.26.59:177][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.26.59:181][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.08-14.26.59:189][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.26.59:212][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.09.08-14.26.59:212][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.09.08-14.26.59:214][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.09.08-14.26.59:225][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.08-14.26.59:423][963]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.09.08-14.27.05:499][988]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.08-14.27.05:511][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.08-14.27.05:512][988]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2025.09.08-14.27.05:513][988]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.09.08-14.27.05:531][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_optionMap
+[2025.09.08-14.27.05:533][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2025.09.08-14.27.05:533][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/optionMap.optionMap to /Game/UEDPIE_0_optionMap.optionMap (0.000946s)
+[2025.09.08-14.27.05:550][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.08-14.27.05:551][989]LogChaosDD: Creating Chaos Debug Draw Scene for world optionMap
+[2025.09.08-14.27.05:554][989]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2025.09.08-14.27.05:555][989]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.08-14.27.05:555][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.08-14.27.05:555][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.08-14.27.05:555][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.08-14.27.05:555][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.08-14.27.05:555][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.08-14.27.05:557][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.08-14.27.05:581][989]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.08-14.27.05:581][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.08-14.27.05:581][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.08-14.27.05:581][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.08-14.27.05:581][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.09.08-14.27.05:581][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.09.08-14.27.05:585][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.09.08-14.27.05:585][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.09.08-14.27.05:585][989]LogInit: FAudioDevice initialized with ID 32.
+[2025.09.08-14.27.05:585][989]LogAudio: Display: Audio Device (ID: 32) registered with world 'optionMap'.
+[2025.09.08-14.27.05:585][989]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.09.08-14.27.05:655][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.27.05:656][989]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.08-14.27.05:656][989]LogWorld: Bringing World /Game/UEDPIE_0_optionMap.optionMap up for play (max tick rate 0) at 2025.09.08-16.27.05
+[2025.09.08-14.27.05:656][989]LogWorld: Bringing up level for play took: 0.000420
+[2025.09.08-14.27.05:659][989]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.08-14.27.05:659][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.08-14.27.05:665][989]PIE: Server logged in
+[2025.09.08-14.27.05:671][989]PIE: Play in editor total start time 0.159 seconds.
+[2025.09.08-14.27.10:284][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.27.10:284][213]LogWorld: BeginTearingDown for /Game/UEDPIE_0_optionMap
+[2025.09.08-14.27.10:285][213]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.08-14.27.10:335][213]LogWorld: UWorld::CleanupWorld for optionMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-14.27.10:335][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.27.10:340][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.08-14.27.10:347][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.27.10:366][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.09.08-14.27.10:366][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.09.08-14.27.10:369][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.09.08-14.27.10:375][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.08-14.27.10:413][214]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.09.08-14.27.27:537][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8911.399414
+[2025.09.08-14.27.27:704][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-14.27.27:704][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8911.550781, Update Interval: 334.272888
+[2025.09.08-14.27.55:201][306]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.09.08-14.27.55:201][306]LogWindowsTextInputMethodSystem: Activated input method: Italian (Italy) - (Keyboard).
+[2025.09.08-14.28.15:661][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.08-14.28.15:783][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.28.15:822][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.28.15:827][719]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.28.15:827][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.28.15:827][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.28.15:865][719]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.28.15:866][719]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu1A6C713A451FADDD5285DD911A564867.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.28.15:873][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.749 ms (total: 8.07 sec)
+[2025.09.08-14.28.15:905][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.28.15:905][719]LogContentValidation: Enabled validators:
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.28.15:905][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.28.15:908][719]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-14.28.16:234][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.08-14.28.20:823][160]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.08-14.28.20:836][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.08-14.28.20:836][160]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2025.09.08-14.28.20:838][160]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.09.08-14.28.20:850][161]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_optionMap
+[2025.09.08-14.28.20:851][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000906s)
+[2025.09.08-14.28.20:851][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/optionMap.optionMap to /Game/UEDPIE_0_optionMap.optionMap (0.000941s)
+[2025.09.08-14.28.20:870][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.08-14.28.20:874][161]LogChaosDD: Creating Chaos Debug Draw Scene for world optionMap
+[2025.09.08-14.28.20:875][161]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2025.09.08-14.28.20:876][161]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.08-14.28.20:876][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.08-14.28.20:876][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.08-14.28.20:876][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.08-14.28.20:876][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.08-14.28.20:876][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.08-14.28.20:878][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.08-14.28.20:902][161]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.08-14.28.20:903][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.08-14.28.20:903][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.08-14.28.20:903][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.08-14.28.20:903][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.09.08-14.28.20:903][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.09.08-14.28.20:905][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.09.08-14.28.20:905][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.09.08-14.28.20:905][161]LogInit: FAudioDevice initialized with ID 33.
+[2025.09.08-14.28.20:905][161]LogAudio: Display: Audio Device (ID: 33) registered with world 'optionMap'.
+[2025.09.08-14.28.20:905][161]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.09.08-14.28.20:964][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.28.20:964][161]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.08-14.28.20:964][161]LogWorld: Bringing World /Game/UEDPIE_0_optionMap.optionMap up for play (max tick rate 0) at 2025.09.08-16.28.20
+[2025.09.08-14.28.20:965][161]LogWorld: Bringing up level for play took: 0.000450
+[2025.09.08-14.28.20:966][161]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.08-14.28.20:966][161]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.08-14.28.20:970][161]PIE: Server logged in
+[2025.09.08-14.28.20:972][161]PIE: Play in editor total start time 0.136 seconds.
+[2025.09.08-14.28.25:114][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.28.25:114][351]LogWorld: BeginTearingDown for /Game/UEDPIE_0_optionMap
+[2025.09.08-14.28.25:114][351]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.08-14.28.25:149][351]LogWorld: UWorld::CleanupWorld for optionMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-14.28.25:149][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.28.25:151][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.08-14.28.25:159][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.28.25:179][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.08-14.28.25:180][351]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.09.08-14.28.25:180][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.09.08-14.28.25:183][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.09.08-14.28.25:190][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.08-14.28.25:219][352]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.09.08-14.28.36:252][122]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.08-14.28.36:267][122]LogPlayLevel: [PlayLevel] Compiling optionMenu before play...
+[2025.09.08-14.28.36:417][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.08-14.28.36:419][122]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2025.09.08-14.28.36:419][122]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2025.09.08-14.28.36:421][122]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.09.08-14.28.36:514][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_optionMap
+[2025.09.08-14.28.36:514][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2025.09.08-14.28.36:514][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/optionMap.optionMap to /Game/UEDPIE_0_optionMap.optionMap (0.001117s)
+[2025.09.08-14.28.36:531][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.08-14.28.36:534][123]LogChaosDD: Creating Chaos Debug Draw Scene for world optionMap
+[2025.09.08-14.28.36:536][123]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2025.09.08-14.28.36:537][123]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.08-14.28.36:537][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.08-14.28.36:537][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.08-14.28.36:537][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.08-14.28.36:537][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.08-14.28.36:537][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.08-14.28.36:539][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.08-14.28.36:563][123]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.08-14.28.36:563][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.08-14.28.36:563][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.08-14.28.36:563][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.08-14.28.36:564][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.09.08-14.28.36:564][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.09.08-14.28.36:566][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.09.08-14.28.36:566][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.09.08-14.28.36:566][123]LogInit: FAudioDevice initialized with ID 34.
+[2025.09.08-14.28.36:566][123]LogAudio: Display: Audio Device (ID: 34) registered with world 'optionMap'.
+[2025.09.08-14.28.36:566][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.09.08-14.28.36:613][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.28.36:613][123]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.08-14.28.36:613][123]LogWorld: Bringing World /Game/UEDPIE_0_optionMap.optionMap up for play (max tick rate 0) at 2025.09.08-16.28.36
+[2025.09.08-14.28.36:614][123]LogWorld: Bringing up level for play took: 0.000516
+[2025.09.08-14.28.36:616][123]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.08-14.28.36:616][123]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.08-14.28.36:620][123]PIE: Server logged in
+[2025.09.08-14.28.36:624][123]PIE: Play in editor total start time 0.359 seconds.
+[2025.09.08-14.28.38:744][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-14.28.38:744][210]LogWorld: BeginTearingDown for /Game/UEDPIE_0_optionMap
+[2025.09.08-14.28.38:744][210]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.08-14.28.38:790][210]LogWorld: UWorld::CleanupWorld for optionMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-14.28.38:790][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.28.38:792][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.08-14.28.38:800][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-14.28.38:820][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.09.08-14.28.38:820][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.09.08-14.28.38:823][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.09.08-14.28.38:831][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.08-14.28.38:866][211]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.09.08-14.28.41:805][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.08-14.28.41:915][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.28.41:958][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.28.41:962][404]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.28.41:962][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.28.41:962][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.28.42:002][404]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.28.42:002][404]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuCE57D69548B82FB5CBDB51A4C8CCF762.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.28.42:010][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.932 ms (total: 8.17 sec)
+[2025.09.08-14.28.42:074][404]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.28.42:074][404]LogContentValidation: Enabled validators:
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.28.42:074][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.28.42:075][404]AssetCheck: /Game/UI/optionMenu Validating asset
