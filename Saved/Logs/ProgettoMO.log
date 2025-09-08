@@ -4323,3 +4323,59 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.09.08-13.55.10:442][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.08-13.55.10:443][432]AssetCheck: /Game/UI/optionMenu Validating asset
 [2025.09.08-13.55.10:881][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.08-13.56.15:702][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7039.418457
+[2025.09.08-13.56.16:702][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-13.56.16:702][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7040.085938, Update Interval: 315.390472
+[2025.09.08-13.57.10:219][605]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B5CD4D55E-48EB-62DC-5507-3A980FBFFA94%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 3.62s
+[2025.09.08-13.57.10:219][605]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00 Response Header Date: Mon, 08 Sep 2025 13:57:13 GMT
+[2025.09.08-13.57.10:219][606]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00 Response Header Content-Type: text/html
+[2025.09.08-13.57.10:219][606]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00 Response Header Content-Length: 122
+[2025.09.08-13.57.10:219][606]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00 Response Header Connection: keep-alive
+[2025.09.08-13.57.10:219][606]LogEOSSDK: Warning: LogHttp: 0000099BCE399C00 Response Header Server: eos-gateway
+[2025.09.08-13.57.29:245][374]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 79a...5be
+[2025.09.08-13.57.29:245][374]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.09.08-13.57.29:425][389]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 79a...5be Access[Expires: 2025.09.08-15.57.32 Remaining: 7200.74] Refresh[Expires: 2026-03-07T11:12:37.826Z Remaining: 15542105.83] State: Valid
+[2025.09.08-14.00.51:091][849]LogDerivedDataCache: C:/Users/f/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.08-14.01.16:627][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.08-14.01.16:740][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.01.16:797][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.01.16:801][991]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.01.16:801][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.01.16:801][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.01.16:828][991]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.01.16:828][991]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu7C8F89D7458775673E715991DBC6A2E8.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.01.16:836][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.554 ms (total: 7.34 sec)
+[2025.09.08-14.01.16:897][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.01.16:897][991]LogContentValidation: Enabled validators:
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.01.16:897][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.01.16:898][991]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-14.02.30:335][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7414.061523
+[2025.09.08-14.02.30:498][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-14.02.30:498][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7414.210449, Update Interval: 339.136322
+[2025.09.08-14.09.05:752][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7809.539062
+[2025.09.08-14.09.05:929][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-14.09.05:929][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7809.703613, Update Interval: 320.850861
+[2025.09.08-14.09.26:164][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.08-14.09.26:284][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-14.09.26:341][856]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.08-14.09.26:344][856]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.08-14.09.26:345][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.08-14.09.26:345][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.08-14.09.26:375][856]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.08-14.09.26:376][856]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu29FA1A9044A4AD59E03A5AA6CAA312A8.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.08-14.09.26:383][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.822 ms (total: 7.44 sec)
+[2025.09.08-14.09.26:424][856]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-14.09.26:424][856]LogContentValidation: Enabled validators:
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-14.09.26:424][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-14.09.26:425][856]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.08-14.09.28:132][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
