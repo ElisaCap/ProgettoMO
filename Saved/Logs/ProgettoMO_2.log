@@ -9726,3 +9726,1400 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.09.15-15.43.02:624][ 92]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
 [2025.09.15-15.43.02:624][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.15-15.43.02:757][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-15.44.30:843][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16112.055664
+[2025.09.15-15.44.31:843][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-15.44.31:843][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16112.721680, Update Interval: 334.878998
+[2025.09.15-15.44.40:591][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-15.44.40:643][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-15.44.40:687][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.15-15.44.40:760][904]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-15.44.40:760][904]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco609C842B47DA10F2967CD98E4682A4C8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-15.44.40:776][904]LogFileHelpers: Saving map 'MappaGioco' took 0.134
+[2025.09.15-15.44.40:785][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.557 ms (total: 16.1 sec)
+[2025.09.15-15.44.40:825][904]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-15.44.40:825][904]LogContentValidation: Enabled validators:
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-15.44.40:825][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-15.44.40:825][904]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-15.50.54:439][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16494.917969
+[2025.09.15-15.50.54:581][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-15.50.54:581][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16495.052734, Update Interval: 300.684845
+[2025.09.15-15.56.33:137][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16827.378906
+[2025.09.15-15.56.33:308][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-15.56.33:308][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16827.541016, Update Interval: 337.554260
+[2025.09.15-15.58.04:605][470]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-15.58.04:615][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-15.58.04:615][470]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-15.58.04:633][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017170s)
+[2025.09.15-15.58.04:633][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017215s)
+[2025.09.15-15.58.04:655][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.15-15.58.04:657][470]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-15.58.04:659][470]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2025.09.15-15.58.04:659][470]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.09.15-15.58.04:659][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-15.58.04:659][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-15.58.04:659][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-15.58.04:659][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-15.58.04:659][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-15.58.04:660][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-15.58.04:660][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-15.58.04:660][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-15.58.04:660][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-15.58.04:660][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-15.58.04:660][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-15.58.04:663][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-15.58.04:685][470]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-15.58.04:685][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-15.58.04:685][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-15.58.04:685][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-15.58.04:686][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.09.15-15.58.04:686][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.09.15-15.58.04:688][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.09.15-15.58.04:688][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.09.15-15.58.04:688][470]LogInit: FAudioDevice initialized with ID 73.
+[2025.09.15-15.58.04:688][470]LogAudio: Display: Audio Device (ID: 73) registered with world 'MappaGioco'.
+[2025.09.15-15.58.04:688][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.09.15-15.58.04:743][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-15.58.04:743][470]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-15.58.04:758][470]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-17.58.04
+[2025.09.15-15.58.04:759][470]LogWorld: Bringing up level for play took: 0.015152
+[2025.09.15-15.58.04:761][470]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2025.09.15-15.58.05:204][470]PIE: Accesso al server effettuato
+[2025.09.15-15.58.05:205][470]PIE: Tempo di avvio totale di Riproduci nell'editor 0,59 secondi.
+[2025.09.15-15.58.31:651][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-15.58.31:652][621]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-15.58.31:652][621]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-15.58.31:658][621]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-15.58.31:660][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-15.58.31:662][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-15.58.31:666][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-15.58.31:683][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.09.15-15.58.31:683][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.09.15-15.58.31:685][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.09.15-15.58.31:694][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.15-15.58.31:749][622]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2025.09.15-15.59.28:467][772]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.TM_Laghetto_prova
+[2025.09.15-15.59.28:468][772]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2025.09.15-16.01.35:966][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.01.36:032][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.01.36:032][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.01.36:058][568]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.01.36:060][568]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_provaDF08C3514F91ECA01D3B82AA4D9FFE5A.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.01.36:070][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.451 ms (total: 16.2 sec)
+[2025.09.15-16.01.36:127][568]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.01.36:127][568]LogContentValidation: Enabled validators:
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.01.36:127][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.01.36:128][568]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.02.03:430][926]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TileMaps/TM_Rita/Limiti/TM_Grass.TM_Grass
+[2025.09.15-16.02.03:431][926]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
+[2025.09.15-16.02.40:106][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.15-16.02.40:111][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.09.15-16.02.40:183][323]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MappaGioco_Auto2
+[2025.09.15-16.02.40:183][323]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco_Auto264DB8CF64469BDD7EF743CB1D8F4CCA5.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto2.umap'
+[2025.09.15-16.02.40:185][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MappaGioco' took 0.208
+[2025.09.15-16.02.40:185][323]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2025.09.15-16.03.08:595][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17221.777344
+[2025.09.15-16.03.09:595][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.03.09:595][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17222.443359, Update Interval: 329.484558
+[2025.09.15-16.07.40:247][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.07.40:305][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.07.40:305][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.07.40:359][796]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.07.40:359][796]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova38BBB7E542264569E22FEC9FB5C2D720.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.07.40:369][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.465 ms (total: 16.3 sec)
+[2025.09.15-16.07.40:420][796]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.07.40:420][796]LogContentValidation: Enabled validators:
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.07.40:420][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.07.40:420][796]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.09.09:262][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17583.041016
+[2025.09.15-16.09.09:461][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.09.09:461][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17583.214844, Update Interval: 305.850403
+[2025.09.15-16.12.10:900][259]LogSlate: Window 'Impostazioni editor' being destroyed
+[2025.09.15-16.14.54:508][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17926.853516
+[2025.09.15-16.14.54:664][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.14.54:664][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17927.003906, Update Interval: 306.494934
+[2025.09.15-16.17.55:015][554]LogDerivedDataCache: C:/Users/Paolo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.15-16.17.55:828][591]Cmd: TRANSACTION UNDO
+[2025.09.15-16.17.55:828][591]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.20:692][638]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.20:692][638]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.21:336][653]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.21:337][653]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.21:897][677]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.21:897][677]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.22:474][701]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.22:474][701]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.23:165][730]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.23:166][730]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.23:727][754]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.23:727][754]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.29:984][ 21]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.29:984][ 21]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.30:504][ 30]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.30:504][ 30]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.31:060][ 54]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.31:060][ 54]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.41:872][493]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.41:872][493]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.42:592][511]Cmd: TRANSACTION UNDO
+[2025.09.15-16.19.42:592][511]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.19.50:315][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.19.50:379][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.19.50:379][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.19.50:408][798]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.19.50:410][798]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova5656D2C44E7F77DC4C7875B11CF3A655.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.19.50:419][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.825 ms (total: 16.4 sec)
+[2025.09.15-16.19.50:476][798]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.19.50:476][798]LogContentValidation: Enabled validators:
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.19.50:476][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.19.50:476][798]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.20.18:592][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.20.18:641][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.20.18:641][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.20.18:670][884]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.20.18:671][884]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova8FAD1DB74B3CC90C51821AA7A6CAACB6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.20.18:682][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.284 ms (total: 16.5 sec)
+[2025.09.15-16.20.18:742][884]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.20.18:742][884]LogContentValidation: Enabled validators:
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.20.18:742][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.20.18:743][884]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.20.33:557][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.20.33:609][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.20.33:609][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.20.33:609][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.20.33:822][533]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.20.33:823][533]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass4302BACE42856A7B46F7839935608BF4.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.20.33:833][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.093 ms (total: 16.8 sec)
+[2025.09.15-16.20.33:875][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.20.33:875][533]LogContentValidation: Enabled validators:
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.20.33:875][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.20.33:875][533]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.20.42:052][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18273.181641
+[2025.09.15-16.20.42:234][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.20.42:234][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18273.339844, Update Interval: 304.303101
+[2025.09.15-16.20.46:261][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.20.46:328][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-16.20.46:384][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.15-16.20.46:457][ 47]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-16.20.46:457][ 47]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco815DCF844CF8EFC4329E3A8820CB5B54.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-16.20.46:474][ 47]LogFileHelpers: Saving map 'MappaGioco' took 0.147
+[2025.09.15-16.20.46:481][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.258 ms (total: 17.0 sec)
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: Enabled validators:
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.20.46:543][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.20.46:544][ 47]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-16.20.48:672][143]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.20.48:682][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.20.48:682][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.20.48:698][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016029s)
+[2025.09.15-16.20.48:698][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016069s)
+[2025.09.15-16.20.48:714][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.15-16.20.48:717][143]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.20.48:718][143]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2025.09.15-16.20.48:719][143]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.20.48:719][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.20.48:719][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.20.48:719][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.20.48:719][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.20.48:719][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.20.48:720][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.20.48:744][143]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.20.48:744][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.20.48:744][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.20.48:744][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.20.48:744][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2025.09.15-16.20.48:744][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2025.09.15-16.20.48:747][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2025.09.15-16.20.48:747][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2025.09.15-16.20.48:747][143]LogInit: FAudioDevice initialized with ID 74.
+[2025.09.15-16.20.48:747][143]LogAudio: Display: Audio Device (ID: 74) registered with world 'MappaGioco'.
+[2025.09.15-16.20.48:747][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2025.09.15-16.20.48:806][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.20.48:806][143]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.20.48:820][143]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.20.48
+[2025.09.15-16.20.48:820][143]LogWorld: Bringing up level for play took: 0.013578
+[2025.09.15-16.20.48:822][143]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.09.15-16.20.49:267][143]PIE: Accesso al server effettuato
+[2025.09.15-16.20.49:269][143]PIE: Tempo di avvio totale di Riproduci nell'editor 0,588 secondi.
+[2025.09.15-16.21.04:101][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.21.04:101][876]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.21.04:103][876]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.21.04:133][876]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.21.04:136][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.21.04:139][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.21.04:142][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.21.04:159][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2025.09.15-16.21.04:159][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.09.15-16.21.04:161][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.09.15-16.21.04:171][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.15-16.21.04:236][877]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.09.15-16.21.52:062][118]Cmd: TRANSACTION UNDO
+[2025.09.15-16.21.52:062][118]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.05:400][223]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.05:400][223]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.06:103][239]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.06:103][239]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.06:568][257]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.06:568][257]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.07:139][279]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.07:139][279]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.08:375][326]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.08:375][326]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.08:846][344]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.08:846][344]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.09:234][358]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.09:234][358]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.09:666][365]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.09:666][365]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.10:370][391]Cmd: TRANSACTION UNDO
+[2025.09.15-16.24.10:370][391]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.24.29:553][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.24.29:604][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.24.29:605][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.24.29:634][297]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.24.29:635][297]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova3DAC0DC04A22FB23186C8D9729E05157.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.24.29:644][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.243 ms (total: 17.1 sec)
+[2025.09.15-16.24.29:705][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.24.29:705][297]LogContentValidation: Enabled validators:
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.24.29:705][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.24.29:705][297]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.24.32:593][435]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.24.32:603][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.24.32:604][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.24.32:620][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016539s)
+[2025.09.15-16.24.32:620][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016579s)
+[2025.09.15-16.24.32:642][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.15-16.24.32:646][435]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.24.32:647][435]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2025.09.15-16.24.32:648][435]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.24.32:648][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.24.32:648][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.24.32:648][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.24.32:648][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.24.32:648][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.24.32:650][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.24.32:670][435]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.24.32:670][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.24.32:670][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.24.32:670][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.24.32:671][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2025.09.15-16.24.32:671][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2025.09.15-16.24.32:673][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2025.09.15-16.24.32:673][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2025.09.15-16.24.32:673][435]LogInit: FAudioDevice initialized with ID 75.
+[2025.09.15-16.24.32:673][435]LogAudio: Display: Audio Device (ID: 75) registered with world 'MappaGioco'.
+[2025.09.15-16.24.32:673][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2025.09.15-16.24.32:717][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.24.32:718][435]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.24.32:732][435]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.24.32
+[2025.09.15-16.24.32:732][435]LogWorld: Bringing up level for play took: 0.013625
+[2025.09.15-16.24.32:734][435]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2025.09.15-16.24.33:177][435]PIE: Accesso al server effettuato
+[2025.09.15-16.24.33:179][435]PIE: Tempo di avvio totale di Riproduci nell'editor 0,577 secondi.
+[2025.09.15-16.24.45:071][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.24.45:071][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.24.45:072][828]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.24.45:106][828]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.24.45:109][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.24.45:112][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.24.45:116][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.24.45:133][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.24.45:133][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2025.09.15-16.24.45:133][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.09.15-16.24.45:135][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.09.15-16.24.45:145][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.15-16.24.45:210][829]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2025.09.15-16.25.12:424][156]Cmd: TRANSACTION UNDO
+[2025.09.15-16.25.12:424][156]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.25.13:293][178]Cmd: TRANSACTION UNDO
+[2025.09.15-16.25.13:293][178]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.02:372][461]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.02:372][461]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.03:333][488]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.03:333][488]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.03:877][508]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.03:877][508]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.04:340][526]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.04:340][526]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.04:773][543]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.04:773][543]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.05:390][567]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.05:390][567]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.23:072][208]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.23:072][208]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.28:220][389]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18618.250000
+[2025.09.15-16.26.28:422][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.26.28:422][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18618.427734, Update Interval: 318.792694
+[2025.09.15-16.26.30:492][478]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.30:492][478]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.37:312][725]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.37:312][725]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.45:743][ 55]Cmd: TRANSACTION UNDO
+[2025.09.15-16.26.45:743][ 55]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.26.48:548][166]Cmd: TRANSACTION REDO
+[2025.09.15-16.26.48:548][166]LogEditorTransaction: Redo Pittura dei tile
+[2025.09.15-16.26.50:020][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.26.50:068][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.26.50:068][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.26.50:097][222]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.26.50:098][222]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova19BCC7364078589D47A367A09B41E0FB.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.26.50:108][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.853 ms (total: 17.2 sec)
+[2025.09.15-16.26.50:168][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.26.50:168][222]LogContentValidation: Enabled validators:
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.26.50:168][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.26.50:168][222]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.26.51:553][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.26.51:585][271]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.26.51:585][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.26.51:616][271]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.26.51:616][271]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova43ECD070455A5DD09DC4D78682C77981.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.26.51:627][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.264 ms (total: 17.3 sec)
+[2025.09.15-16.26.51:669][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.26.51:669][271]LogContentValidation: Enabled validators:
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.26.51:669][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.26.51:669][271]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.26.54:980][423]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.26.54:991][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.26.54:991][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.26.55:008][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017574s)
+[2025.09.15-16.26.55:008][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017612s)
+[2025.09.15-16.26.55:027][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.15-16.26.55:032][423]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.26.55:033][423]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2025.09.15-16.26.55:034][423]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.26.55:034][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.26.55:034][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.26.55:034][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.26.55:034][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.26.55:034][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.26.55:036][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.26.55:056][423]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.26.55:057][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.26.55:057][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.26.55:057][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.26.55:057][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2025.09.15-16.26.55:058][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2025.09.15-16.26.55:060][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2025.09.15-16.26.55:060][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2025.09.15-16.26.55:060][423]LogInit: FAudioDevice initialized with ID 76.
+[2025.09.15-16.26.55:060][423]LogAudio: Display: Audio Device (ID: 76) registered with world 'MappaGioco'.
+[2025.09.15-16.26.55:060][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2025.09.15-16.26.55:117][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.26.55:117][423]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.26.55:131][423]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.26.55
+[2025.09.15-16.26.55:131][423]LogWorld: Bringing up level for play took: 0.013888
+[2025.09.15-16.26.55:134][423]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2025.09.15-16.26.55:578][423]PIE: Accesso al server effettuato
+[2025.09.15-16.26.55:580][423]PIE: Tempo di avvio totale di Riproduci nell'editor 0,591 secondi.
+[2025.09.15-16.27.03:232][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.27.03:232][293]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.27.03:233][293]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.27.03:264][293]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.27.03:268][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.27.03:271][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.27.03:275][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.27.03:292][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.27.03:292][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2025.09.15-16.27.03:292][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.09.15-16.27.03:295][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.09.15-16.27.03:303][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.15-16.27.03:368][294]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2025.09.15-16.32.31:172][396]Cmd: TRANSACTION UNDO
+[2025.09.15-16.32.31:172][396]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.32.31:723][407]Cmd: TRANSACTION UNDO
+[2025.09.15-16.32.31:723][407]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.32.32:235][428]Cmd: TRANSACTION UNDO
+[2025.09.15-16.32.32:235][428]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.32.32:713][447]Cmd: TRANSACTION UNDO
+[2025.09.15-16.32.32:713][447]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.32.33:332][474]Cmd: TRANSACTION UNDO
+[2025.09.15-16.32.33:332][474]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.32.38:234][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.32.38:298][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.32.38:298][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.32.38:327][670]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.32.38:327][670]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova49956417446F7AB990F3639C675E3AA1.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.32.38:337][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.802 ms (total: 17.4 sec)
+[2025.09.15-16.32.38:397][670]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.32.38:397][670]LogContentValidation: Enabled validators:
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.32.38:397][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.32.38:397][670]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.32.39:042][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18988.072266
+[2025.09.15-16.32.39:245][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.32.39:245][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18988.251953, Update Interval: 332.683502
+[2025.09.15-16.32.51:735][133]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.32.51:744][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.32.51:744][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.32.51:765][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020206s)
+[2025.09.15-16.32.51:765][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.020250s)
+[2025.09.15-16.32.51:788][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.15-16.32.51:792][133]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.32.51:794][133]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2025.09.15-16.32.51:795][133]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.32.51:795][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.32.51:795][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.32.51:795][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.32.51:795][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.32.51:795][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.32.51:797][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.32.51:818][133]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.32.51:818][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.32.51:818][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.32.51:818][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.32.51:818][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2025.09.15-16.32.51:818][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2025.09.15-16.32.51:821][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2025.09.15-16.32.51:821][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2025.09.15-16.32.51:821][133]LogInit: FAudioDevice initialized with ID 77.
+[2025.09.15-16.32.51:821][133]LogAudio: Display: Audio Device (ID: 77) registered with world 'MappaGioco'.
+[2025.09.15-16.32.51:821][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2025.09.15-16.32.51:879][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.32.51:879][133]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.32.51:893][133]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.32.51
+[2025.09.15-16.32.51:893][133]LogWorld: Bringing up level for play took: 0.014231
+[2025.09.15-16.32.51:896][133]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2025.09.15-16.32.52:346][133]PIE: Accesso al server effettuato
+[2025.09.15-16.32.52:348][133]PIE: Tempo di avvio totale di Riproduci nell'editor 0,605 secondi.
+[2025.09.15-16.33.00:321][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.33.00:321][ 50]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.33.00:322][ 50]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.33.00:355][ 50]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.33.00:358][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.33.00:360][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.33.00:364][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.33.00:382][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.33.00:383][ 50]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2025.09.15-16.33.00:383][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.09.15-16.33.00:385][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.09.15-16.33.00:393][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.15-16.33.00:459][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2025.09.15-16.34.55:455][775]Cmd: TRANSACTION UNDO
+[2025.09.15-16.34.55:455][775]LogEditorTransaction: Undo Taglia il livello
+[2025.09.15-16.34.56:469][803]Cmd: TRANSACTION UNDO
+[2025.09.15-16.34.56:469][803]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.35.21:099][652]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.21:099][652]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.21:407][656]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.21:407][656]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.21:640][659]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.21:640][659]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.21:856][666]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.21:856][666]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.22:034][672]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.22:034][672]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.22:216][678]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.22:216][678]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.22:422][685]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.22:422][685]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.22:627][692]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.22:627][692]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.22:831][699]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.22:831][699]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:038][706]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:038][706]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:222][712]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:222][712]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:399][718]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:399][718]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:578][724]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:578][724]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:760][730]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:760][730]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.23:941][736]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.23:941][736]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.24:124][742]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.24:124][742]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.24:336][749]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.24:336][749]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.26:348][823]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.26:348][823]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.26:606][826]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.26:606][826]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.26:822][829]Cmd: TRANSACTION UNDO
+[2025.09.15-16.35.26:822][829]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.35.52:409][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.35.52:443][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.35.52:443][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.35.52:443][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.35.52:632][709]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.35.52:633][709]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass7990225D4081CF6BF2F3779A796EF080.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.35.52:644][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 234.714 ms (total: 17.6 sec)
+[2025.09.15-16.35.52:693][709]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.35.52:693][709]LogContentValidation: Enabled validators:
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.35.52:693][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.35.52:693][709]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.36.25:664][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.36.25:729][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.36.25:729][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.36.25:729][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.36.25:908][821]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.36.25:909][821]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass27F2559B461F8022D8D6089A744DC851.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.36.25:920][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.450 ms (total: 17.9 sec)
+[2025.09.15-16.36.25:975][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.36.25:975][821]LogContentValidation: Enabled validators:
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.36.25:975][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.36.25:975][821]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.36.29:375][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.36.29:427][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.36.29:427][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.36.29:427][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.36.29:611][950]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.36.29:611][950]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass6841F4AB4449353480AF5D936E3B689E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.36.29:622][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.839 ms (total: 18.1 sec)
+[2025.09.15-16.36.29:676][950]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.36.29:676][950]LogContentValidation: Enabled validators:
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.36.29:676][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.36.29:676][950]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.36.33:726][120]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.36.33:736][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.36.33:736][120]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.36.33:753][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016807s)
+[2025.09.15-16.36.33:753][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016846s)
+[2025.09.15-16.36.33:792][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.15-16.36.33:799][120]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.36.33:801][120]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2025.09.15-16.36.33:801][120]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.36.33:801][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.36.33:801][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.36.33:801][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.36.33:801][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.36.33:801][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.36.33:803][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.36.33:826][120]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.36.33:826][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.36.33:826][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.36.33:826][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.36.33:827][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2025.09.15-16.36.33:827][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2025.09.15-16.36.33:829][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2025.09.15-16.36.33:829][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2025.09.15-16.36.33:829][120]LogInit: FAudioDevice initialized with ID 78.
+[2025.09.15-16.36.33:829][120]LogAudio: Display: Audio Device (ID: 78) registered with world 'MappaGioco'.
+[2025.09.15-16.36.33:829][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2025.09.15-16.36.33:890][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.36.33:891][120]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.36.33:904][120]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.36.33
+[2025.09.15-16.36.33:904][120]LogWorld: Bringing up level for play took: 0.013124
+[2025.09.15-16.36.33:906][120]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2025.09.15-16.36.34:353][120]PIE: Accesso al server effettuato
+[2025.09.15-16.36.34:356][120]PIE: Tempo di avvio totale di Riproduci nell'editor 0,619 secondi.
+[2025.09.15-16.36.52:210][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.36.52:210][215]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.36.52:212][215]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.36.52:244][215]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.36.52:247][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.36.52:249][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.36.52:254][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.36.52:268][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.36.52:269][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2025.09.15-16.36.52:269][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.09.15-16.36.52:271][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.09.15-16.36.52:279][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.15-16.36.52:348][216]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2025.09.15-16.37.10:881][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.37.10:945][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-16.37.10:993][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.15-16.37.11:064][984]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-16.37.11:065][984]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco363CAFC940665A25166594BD8266523B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-16.37.11:081][984]LogFileHelpers: Saving map 'MappaGioco' took 0.137
+[2025.09.15-16.37.11:135][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.242 ms (total: 18.4 sec)
+[2025.09.15-16.37.11:175][984]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.37.11:175][984]LogContentValidation: Enabled validators:
+[2025.09.15-16.37.11:175][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.37.11:176][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.37.11:176][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.37.11:176][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.37.11:176][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.37.11:176][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.37.11:176][984]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-16.37.21:178][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.37.21:244][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.37.21:244][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.37.21:274][323]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.37.21:275][323]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_provaF347F647421B85A8F469E7BDCAA1F5E6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.37.21:284][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.043 ms (total: 18.5 sec)
+[2025.09.15-16.37.21:342][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.37.21:342][323]LogContentValidation: Enabled validators:
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.37.21:342][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.37.21:342][323]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.37.29:695][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.37.29:762][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.37.29:762][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.37.29:790][634]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.37.29:790][634]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova7D92CDBA48FB64F9A882FCA9B3D2904F.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.37.29:800][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.580 ms (total: 18.6 sec)
+[2025.09.15-16.37.29:857][634]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.37.29:857][634]LogContentValidation: Enabled validators:
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.37.29:857][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.37.29:857][634]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.37.38:712][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.37.38:778][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.37.38:778][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.37.38:807][961]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.37.38:807][961]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova3E7E743143364D930D4667A999CB9115.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.37.38:817][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.441 ms (total: 18.7 sec)
+[2025.09.15-16.37.38:876][961]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.37.38:876][961]LogContentValidation: Enabled validators:
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.37.38:876][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.37.38:876][961]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.38.54:128][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19362.025391
+[2025.09.15-16.38.54:286][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.38.54:286][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19362.156250, Update Interval: 328.968170
+[2025.09.15-16.41.09:692][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.41.09:757][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.41.09:757][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.41.09:786][832]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.41.09:786][832]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_provaF40B0ECE46DA679D332CC4BDC57F27A3.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.41.09:796][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.866 ms (total: 18.8 sec)
+[2025.09.15-16.41.09:854][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.41.09:854][832]LogContentValidation: Enabled validators:
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.41.09:854][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.41.09:854][832]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.43.52:320][752]Cmd: TRANSACTION UNDO
+[2025.09.15-16.43.52:320][752]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.43.57:740][977]Cmd: TRANSACTION UNDO
+[2025.09.15-16.43.57:740][977]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.43.58:352][990]Cmd: TRANSACTION UNDO
+[2025.09.15-16.43.58:352][990]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.44.18:704][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.44.18:771][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.44.18:771][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.44.18:771][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.44.18:953][696]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.44.18:953][696]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass6E23D8E2467537F0527A188DFF74DA96.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.44.18:963][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.831 ms (total: 19.1 sec)
+[2025.09.15-16.44.19:017][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.44.19:017][696]LogContentValidation: Enabled validators:
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.44.19:017][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.44.19:018][696]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.44.21:724][828]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.44.21:733][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.44.21:734][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.44.21:750][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016254s)
+[2025.09.15-16.44.21:750][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016293s)
+[2025.09.15-16.44.21:777][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.15-16.44.21:783][828]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.44.21:785][828]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2025.09.15-16.44.21:785][828]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.44.21:785][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.44.21:785][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.44.21:785][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.44.21:785][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.44.21:785][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.44.21:787][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.44.21:808][828]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.44.21:808][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.44.21:808][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.44.21:808][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.44.21:808][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2025.09.15-16.44.21:808][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2025.09.15-16.44.21:811][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2025.09.15-16.44.21:811][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2025.09.15-16.44.21:811][828]LogInit: FAudioDevice initialized with ID 79.
+[2025.09.15-16.44.21:811][828]LogAudio: Display: Audio Device (ID: 79) registered with world 'MappaGioco'.
+[2025.09.15-16.44.21:811][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2025.09.15-16.44.21:864][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.44.21:864][828]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.44.21:877][828]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.44.21
+[2025.09.15-16.44.21:878][828]LogWorld: Bringing up level for play took: 0.012803
+[2025.09.15-16.44.21:880][828]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2025.09.15-16.44.22:320][828]PIE: Accesso al server effettuato
+[2025.09.15-16.44.22:322][828]PIE: Tempo di avvio totale di Riproduci nell'editor 0,589 secondi.
+[2025.09.15-16.44.34:530][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.44.34:530][261]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.44.34:531][261]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.44.34:563][261]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.44.34:566][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.44.34:569][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.44.34:574][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.44.34:590][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.44.34:590][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2025.09.15-16.44.34:590][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.09.15-16.44.34:592][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.09.15-16.44.34:601][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.15-16.44.34:668][262]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2025.09.15-16.44.40:568][514]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.44.40:578][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.44.40:578][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.44.40:594][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015508s)
+[2025.09.15-16.44.40:594][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.015541s)
+[2025.09.15-16.44.40:610][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.15-16.44.40:613][514]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.44.40:615][514]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2025.09.15-16.44.40:615][514]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.44.40:615][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.44.40:615][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.44.40:615][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.44.40:615][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.44.40:615][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.44.40:617][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.44.40:635][514]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.44.40:636][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.44.40:636][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.44.40:636][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.44.40:636][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2025.09.15-16.44.40:636][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2025.09.15-16.44.40:638][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2025.09.15-16.44.40:638][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2025.09.15-16.44.40:638][514]LogInit: FAudioDevice initialized with ID 80.
+[2025.09.15-16.44.40:638][514]LogAudio: Display: Audio Device (ID: 80) registered with world 'MappaGioco'.
+[2025.09.15-16.44.40:638][514]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2025.09.15-16.44.40:681][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.44.40:682][514]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.44.40:693][514]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.44.40
+[2025.09.15-16.44.40:694][514]LogWorld: Bringing up level for play took: 0.012271
+[2025.09.15-16.44.40:696][514]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2025.09.15-16.44.41:143][514]PIE: Accesso al server effettuato
+[2025.09.15-16.44.41:145][514]PIE: Tempo di avvio totale di Riproduci nell'editor 0,567 secondi.
+[2025.09.15-16.44.46:570][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.44.46:570][137]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.44.46:572][137]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.44.46:604][137]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.44.46:606][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.44.46:609][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.44.46:613][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.44.46:629][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2025.09.15-16.44.46:630][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2025.09.15-16.44.46:631][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2025.09.15-16.44.46:639][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.15-16.44.46:705][138]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2025.09.15-16.45.06:994][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19733.617188
+[2025.09.15-16.45.07:187][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.45.07:187][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19733.789062, Update Interval: 336.309082
+[2025.09.15-16.45.18:040][425]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.45.18:049][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.45.18:050][425]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.45.18:065][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015965s)
+[2025.09.15-16.45.18:065][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016006s)
+[2025.09.15-16.45.18:083][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.15-16.45.18:089][425]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.45.18:090][425]LogPlayLevel: PIE: World Init took: (0.001621s)
+[2025.09.15-16.45.18:091][425]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.45.18:091][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.45.18:091][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.45.18:091][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.45.18:091][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.45.18:091][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.45.18:093][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.45.18:112][425]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.45.18:112][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.45.18:112][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.45.18:112][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.45.18:113][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2025.09.15-16.45.18:113][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2025.09.15-16.45.18:115][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2025.09.15-16.45.18:115][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2025.09.15-16.45.18:115][425]LogInit: FAudioDevice initialized with ID 81.
+[2025.09.15-16.45.18:115][425]LogAudio: Display: Audio Device (ID: 81) registered with world 'MappaGioco'.
+[2025.09.15-16.45.18:115][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2025.09.15-16.45.18:147][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.45.18:148][425]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.45.18:162][425]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.45.18
+[2025.09.15-16.45.18:162][425]LogWorld: Bringing up level for play took: 0.013281
+[2025.09.15-16.45.18:164][425]LogOnline: OSS: Created online subsystem instance for: :Context_133
+[2025.09.15-16.45.18:610][425]PIE: Accesso al server effettuato
+[2025.09.15-16.45.18:613][425]PIE: Tempo di avvio totale di Riproduci nell'editor 0,563 secondi.
+[2025.09.15-16.45.22:250][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.45.22:250][833]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.45.22:251][833]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.45.22:257][833]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.45.22:259][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.45.22:263][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.45.22:267][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.45.22:283][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-16.45.22:283][833]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2025.09.15-16.45.22:283][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2025.09.15-16.45.22:285][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2025.09.15-16.45.22:293][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.15-16.45.22:393][834]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2025.09.15-16.45.36:705][444]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-16.45.36:714][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-16.45.36:714][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.45.36:730][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015604s)
+[2025.09.15-16.45.36:730][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.015637s)
+[2025.09.15-16.45.36:747][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.15-16.45.36:750][444]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-16.45.36:751][444]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2025.09.15-16.45.36:753][444]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-16.45.36:753][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-16.45.36:753][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-16.45.36:753][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-16.45.36:753][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-16.45.36:753][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-16.45.36:755][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-16.45.36:775][444]LogAudioMixer: Display: Using Audio Hardware Device Auricolare e microtelefono (Plantronics Blackwire 3220 Series)
+[2025.09.15-16.45.36:775][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-16.45.36:775][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-16.45.36:775][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-16.45.36:775][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2025.09.15-16.45.36:775][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2025.09.15-16.45.36:777][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2025.09.15-16.45.36:777][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2025.09.15-16.45.36:777][444]LogInit: FAudioDevice initialized with ID 82.
+[2025.09.15-16.45.36:777][444]LogAudio: Display: Audio Device (ID: 82) registered with world 'MappaGioco'.
+[2025.09.15-16.45.36:777][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2025.09.15-16.45.36:814][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.45.36:814][444]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-16.45.36:826][444]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-18.45.36
+[2025.09.15-16.45.36:827][444]LogWorld: Bringing up level for play took: 0.012867
+[2025.09.15-16.45.36:830][444]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2025.09.15-16.45.37:277][444]PIE: Accesso al server effettuato
+[2025.09.15-16.45.37:280][444]PIE: Tempo di avvio totale di Riproduci nell'editor 0,566 secondi.
+[2025.09.15-16.45.44:840][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-16.45.44:840][320]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-16.45.44:841][320]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-16.45.44:876][320]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-16.45.44:878][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.45.44:881][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-16.45.44:884][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-16.45.44:902][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2025.09.15-16.45.44:902][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2025.09.15-16.45.44:906][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2025.09.15-16.45.44:914][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.15-16.45.45:017][321]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2025.09.15-16.46.39:750][737]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Cuffie Rita (2- DOONKYX Phoenix), InstanceID=1
+[2025.09.15-16.46.39:772][737]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.15-16.46.39:774][737]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22716
+[2025.09.15-16.46.40:105][738]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.15-16.46.40:110][738]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c7aec899-0a45-4ad4-9696-3201636fbfae}, Name=Cuffie Rita (2- DOONKYX Phoenix)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.03
+[2025.09.15-16.46.40:110][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.15-16.46.40:112][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.15-16.48.02:123][783]Cmd: TRANSACTION UNDO
+[2025.09.15-16.48.02:123][783]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.49.26:000][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.49.26:046][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.49.26:047][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.49.26:075][478]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.49.26:076][478]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova795A373E4A8E900A45BEF5A3AAFC4D6B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.49.26:085][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.018 ms (total: 19.1 sec)
+[2025.09.15-16.49.26:130][478]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.49.26:130][478]LogContentValidation: Enabled validators:
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.49.26:130][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.49.26:130][478]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.49.44:715][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.49.44:783][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.49.44:783][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.49.44:813][282]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.49.44:813][282]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova9A86151141CBD1C175077096B776BC99.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.49.44:823][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.158 ms (total: 19.3 sec)
+[2025.09.15-16.49.44:879][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.49.44:879][282]LogContentValidation: Enabled validators:
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.49.44:879][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.49.44:879][282]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.49.50:930][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.49.50:980][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova] ([1] browsable assets)...
+[2025.09.15-16.49.50:980][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova]
+[2025.09.15-16.49.51:008][496]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova
+[2025.09.15-16.49.51:009][496]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Laghetto_prova26AF53AB49F03F377C620299570CD64B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova.uasset'
+[2025.09.15-16.49.51:018][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.137 ms (total: 19.3 sec)
+[2025.09.15-16.49.51:063][496]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.49.51:063][496]LogContentValidation: Enabled validators:
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.49.51:063][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.49.51:063][496]AssetCheck: /Game/TileMaps/TM_Rita/Laghetto/TM_Laghetto_prova Convalida asset
+[2025.09.15-16.51.24:448][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20111.162109
+[2025.09.15-16.51.24:673][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.51.24:673][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20111.369141, Update Interval: 343.001801
+[2025.09.15-16.51.59:644][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.51.59:678][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.51.59:678][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.51.59:678][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.51.59:860][221]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.51.59:860][221]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass4B29AC334709D63A1584FEB19525AB07.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.51.59:872][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.251 ms (total: 19.6 sec)
+[2025.09.15-16.51.59:929][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.51.59:929][221]LogContentValidation: Enabled validators:
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.51.59:929][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.51.59:929][221]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.52.24:929][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.52.24:978][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.52.24:978][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.52.24:978][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.52.25:159][ 60]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.52.25:160][ 60]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_GrassB36DED9A4929D36011FE31A4464294B7.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.52.25:169][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.279 ms (total: 19.8 sec)
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: Enabled validators:
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.52.25:228][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.52.25:228][ 60]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.53.39:892][806]Cmd: TRANSACTION UNDO
+[2025.09.15-16.53.39:892][806]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.53.59:819][543]Cmd: TRANSACTION UNDO
+[2025.09.15-16.53.59:819][543]LogEditorTransaction: Undo Attiva/Disattiva la visibilità del livello
+[2025.09.15-16.54.03:731][679]Cmd: TRANSACTION UNDO
+[2025.09.15-16.54.03:731][679]LogEditorTransaction: Undo Attiva/Disattiva la visibilità del livello
+[2025.09.15-16.54.04:255][688]Cmd: TRANSACTION UNDO
+[2025.09.15-16.54.04:255][688]LogEditorTransaction: Undo Eliminazione dei tile
+[2025.09.15-16.54.15:516][148]Cmd: TRANSACTION UNDO
+[2025.09.15-16.54.15:516][148]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-16.56.46:350][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.56.46:410][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-16.56.46:484][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.15-16.56.46:564][200]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-16.56.46:565][200]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco979760CF465325F81C0040A01658DAF5.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-16.56.46:581][200]LogFileHelpers: Saving map 'MappaGioco' took 0.172
+[2025.09.15-16.56.46:589][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.409 ms (total: 20.0 sec)
+[2025.09.15-16.56.46:656][200]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.56.46:656][200]LogContentValidation: Enabled validators:
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.56.46:656][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.56.46:656][200]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-16.57.52:585][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20499.519531
+[2025.09.15-16.57.53:318][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-16.57.53:318][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20500.230469, Update Interval: 351.955933
+[2025.09.15-16.58.01:504][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-16.58.01:556][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-16.58.01:556][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-16.58.01:556][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-16.58.01:764][833]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-16.58.01:764][833]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass3EA275AF44B01216ABBCEBA9E3E7EFE6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-16.58.01:773][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 269.244 ms (total: 20.3 sec)
+[2025.09.15-16.58.01:839][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-16.58.01:839][833]LogContentValidation: Enabled validators:
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-16.58.01:839][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-16.58.01:839][833]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-16.59.19:275][896]Cmd: TRANSACTION UNDO
+[2025.09.15-16.59.19:275][896]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-17.00.25:070][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.00.25:119][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-17.00.25:119][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-17.00.25:119][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-17.00.25:332][189]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-17.00.25:333][189]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass773A136D4AB78F120A219698021E4607.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-17.00.25:342][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 271.935 ms (total: 20.6 sec)
+[2025.09.15-17.00.25:405][189]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.00.25:405][189]LogContentValidation: Enabled validators:
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.00.25:405][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.00.25:405][189]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-17.00.27:951][280]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-17.00.27:961][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-17.00.27:962][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.00.27:979][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017295s)
+[2025.09.15-17.00.27:979][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017335s)
+[2025.09.15-17.00.28:005][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.15-17.00.28:010][280]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-17.00.28:011][280]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2025.09.15-17.00.28:012][280]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-17.00.28:012][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-17.00.28:012][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-17.00.28:012][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-17.00.28:012][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-17.00.28:012][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-17.00.28:016][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-17.00.28:036][280]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-17.00.28:036][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-17.00.28:036][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-17.00.28:036][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-17.00.28:037][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2025.09.15-17.00.28:037][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2025.09.15-17.00.28:039][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2025.09.15-17.00.28:039][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2025.09.15-17.00.28:039][280]LogInit: FAudioDevice initialized with ID 83.
+[2025.09.15-17.00.28:039][280]LogAudio: Display: Audio Device (ID: 83) registered with world 'MappaGioco'.
+[2025.09.15-17.00.28:039][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2025.09.15-17.00.28:099][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.00.28:099][280]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-17.00.28:112][280]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-19.00.28
+[2025.09.15-17.00.28:112][280]LogWorld: Bringing up level for play took: 0.012460
+[2025.09.15-17.00.28:115][280]LogOnline: OSS: Created online subsystem instance for: :Context_135
+[2025.09.15-17.00.28:565][280]PIE: Accesso al server effettuato
+[2025.09.15-17.00.28:568][280]PIE: Tempo di avvio totale di Riproduci nell'editor 0,607 secondi.
+[2025.09.15-17.00.38:215][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.00.38:215][398]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.00.38:217][398]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-17.00.38:247][398]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.00.38:249][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.00.38:252][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-17.00.38:256][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.00.38:274][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-17.00.38:274][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2025.09.15-17.00.38:274][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2025.09.15-17.00.38:275][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2025.09.15-17.00.38:284][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.15-17.00.38:387][399]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2025.09.15-17.01.54:383][225]LogStreaming: Display: FlushAsyncLoading(805): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.15-17.02.08:438][999]LogStreaming: Display: FlushAsyncLoading(806): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.15-17.02.38:177][309]Cmd: TRANSACTION UNDO
+[2025.09.15-17.02.38:177][309]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-17.02.38:776][325]Cmd: TRANSACTION UNDO
+[2025.09.15-17.02.38:776][325]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-17.03.39:335][677]Cmd: TRANSACTION UNDO
+[2025.09.15-17.03.39:335][677]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-17.03.39:902][688]Cmd: TRANSACTION UNDO
+[2025.09.15-17.03.39:902][688]LogEditorTransaction: Undo Pittura dei tile
+[2025.09.15-17.04.12:919][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.04.12:985][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-17.04.12:986][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-17.04.12:986][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-17.04.13:198][917]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-17.04.13:199][917]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass98F8D46F417D5076859E4B9E206183F8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-17.04.13:207][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.074 ms (total: 20.9 sec)
+[2025.09.15-17.04.13:264][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.04.13:264][917]LogContentValidation: Enabled validators:
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.04.13:264][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.04.13:265][917]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-17.04.34:867][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.04.34:916][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-17.04.34:916][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-17.04.34:916][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-17.04.35:127][729]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-17.04.35:128][729]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass577FE3ED4DF18ACC0E38AA8777DC7567.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-17.04.35:137][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 270.935 ms (total: 21.1 sec)
+[2025.09.15-17.04.35:198][729]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.04.35:198][729]LogContentValidation: Enabled validators:
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.04.35:198][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.04.35:198][729]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-17.04.38:045][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20904.960938
+[2025.09.15-17.04.38:243][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-17.04.38:243][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20905.130859, Update Interval: 358.417908
+[2025.09.15-17.05.08:961][986]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-17.05.08:971][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-17.05.08:981][986]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.05.08:998][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016399s)
+[2025.09.15-17.05.08:998][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016446s)
+[2025.09.15-17.05.09:021][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.15-17.05.09:027][986]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-17.05.09:029][986]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2025.09.15-17.05.09:030][986]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-17.05.09:030][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-17.05.09:030][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-17.05.09:030][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-17.05.09:030][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-17.05.09:033][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-17.05.09:033][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-17.05.09:052][986]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-17.05.09:052][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-17.05.09:052][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-17.05.09:052][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-17.05.09:054][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2025.09.15-17.05.09:054][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2025.09.15-17.05.09:056][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2025.09.15-17.05.09:056][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2025.09.15-17.05.09:056][986]LogInit: FAudioDevice initialized with ID 84.
+[2025.09.15-17.05.09:056][986]LogAudio: Display: Audio Device (ID: 84) registered with world 'MappaGioco'.
+[2025.09.15-17.05.09:056][986]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2025.09.15-17.05.09:111][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.05.09:112][986]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-17.05.09:124][986]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-19.05.09
+[2025.09.15-17.05.09:124][986]LogWorld: Bringing up level for play took: 0.012490
+[2025.09.15-17.05.09:126][986]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2025.09.15-17.05.09:567][986]PIE: Accesso al server effettuato
+[2025.09.15-17.05.09:569][986]PIE: Tempo di avvio totale di Riproduci nell'editor 0,599 secondi.
+[2025.09.15-17.05.15:975][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.05.15:976][722]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.05.15:977][722]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-17.05.16:008][722]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.05.16:010][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.05.16:013][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-17.05.16:016][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.05.16:034][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-17.05.16:035][722]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2025.09.15-17.05.16:035][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2025.09.15-17.05.16:037][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2025.09.15-17.05.16:044][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.15-17.05.16:148][723]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2025.09.15-17.06.23:847][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.06.23:897][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-17.06.23:897][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-17.06.23:897][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-17.06.24:110][184]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-17.06.24:110][184]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Grass5F44BB954C2127E444665591706033B1.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-17.06.24:120][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.129 ms (total: 21.4 sec)
+[2025.09.15-17.06.24:182][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.06.24:182][184]LogContentValidation: Enabled validators:
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.06.24:182][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.06.24:182][184]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-17.06.28:095][328]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-17.06.28:102][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-17.06.28:114][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.06.28:130][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015910s)
+[2025.09.15-17.06.28:130][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.015950s)
+[2025.09.15-17.06.28:149][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.15-17.06.28:153][328]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-17.06.28:155][328]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2025.09.15-17.06.28:155][328]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-17.06.28:156][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-17.06.28:156][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-17.06.28:156][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-17.06.28:156][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-17.06.28:156][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-17.06.28:158][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-17.06.28:178][328]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-17.06.28:178][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-17.06.28:178][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-17.06.28:178][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-17.06.28:178][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2025.09.15-17.06.28:178][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2025.09.15-17.06.28:181][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2025.09.15-17.06.28:181][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2025.09.15-17.06.28:181][328]LogInit: FAudioDevice initialized with ID 85.
+[2025.09.15-17.06.28:181][328]LogAudio: Display: Audio Device (ID: 85) registered with world 'MappaGioco'.
+[2025.09.15-17.06.28:181][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2025.09.15-17.06.28:227][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.06.28:227][328]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-17.06.28:241][328]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-19.06.28
+[2025.09.15-17.06.28:241][328]LogWorld: Bringing up level for play took: 0.013538
+[2025.09.15-17.06.28:243][328]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2025.09.15-17.06.28:690][328]PIE: Accesso al server effettuato
+[2025.09.15-17.06.28:692][328]PIE: Tempo di avvio totale di Riproduci nell'editor 0,589 secondi.
+[2025.09.15-17.06.49:795][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.06.49:795][796]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.06.49:797][796]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-17.06.49:828][796]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.06.49:831][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.06.49:833][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-17.06.49:838][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.06.49:858][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-17.06.49:858][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2025.09.15-17.06.49:858][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2025.09.15-17.06.49:860][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2025.09.15-17.06.49:868][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.15-17.06.49:972][797]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2025.09.15-17.06.57:001][ 15]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.06.57:001][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.06.57:669][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.15-17.07.00:002][113]LogSlate: Window 'TM_Laghetto_prova' being destroyed
+[2025.09.15-17.07.00:050][113]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.07.00:050][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.07.00:118][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.15-17.07.02:959][329]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TileMaps/TM_Rita/Limiti/TM_Grass.TM_Grass
+[2025.09.15-17.07.02:960][329]LogChaosDD: Creating Chaos Debug Draw Scene for world World_53
+[2025.09.15-17.07.13:015][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.07.13:062][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass] ([1] browsable assets)...
+[2025.09.15-17.07.13:062][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/Limiti/TM_Grass]
+[2025.09.15-17.07.13:062][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/TM_Rita/Limiti/TM_Grass" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset" SILENT=true
+[2025.09.15-17.07.13:246][867]LogSavePackage: Moving output files for package: /Game/TileMaps/TM_Rita/Limiti/TM_Grass
+[2025.09.15-17.07.13:247][867]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_GrassD37A721E451CBFE4D13A36B5C4A27BC4.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/TM_Rita/Limiti/TM_Grass.uasset'
+[2025.09.15-17.07.13:257][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.647 ms (total: 21.7 sec)
+[2025.09.15-17.07.13:311][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.07.13:311][867]LogContentValidation: Enabled validators:
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.07.13:311][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.07.13:311][867]AssetCheck: /Game/TileMaps/TM_Rita/Limiti/TM_Grass Convalida asset
+[2025.09.15-17.07.14:525][924]LogSlate: Window 'TM_Grass' being destroyed
+[2025.09.15-17.07.14:556][924]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.07.14:556][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.07.14:659][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
