@@ -15352,3 +15352,1431 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.09.15-17.38.56:129][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2025.09.15-17.38.56:193][436]LogPlayLevel: Display: Destroying online subsystem :Context_200
 [2025.09.15-17.39.14:062][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.15-17.40.06:814][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.40.06:867][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-17.40.06:915][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.15-17.40.06:998][583]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-17.40.06:999][583]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco8C9A2776491CDED57E6BF5AA12A0249B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-17.40.07:015][583]LogFileHelpers: Saving map 'MappaGioco' took 0.149
+[2025.09.15-17.40.07:024][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 209.757 ms (total: 34.5 sec)
+[2025.09.15-17.40.07:085][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.40.07:085][583]LogContentValidation: Enabled validators:
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.40.07:085][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.40.07:085][583]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-17.40.07:532][607]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-17.40.07:541][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-17.40.07:541][607]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.40.07:559][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017026s)
+[2025.09.15-17.40.07:559][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017060s)
+[2025.09.15-17.40.07:575][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.15-17.40.07:578][607]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-17.40.07:579][607]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2025.09.15-17.40.07:580][607]LogAudio: Display: Creating Audio Device:                 Id: 148, Scope: Unique, Realtime: True
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-17.40.07:580][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-17.40.07:580][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-17.40.07:580][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-17.40.07:580][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-17.40.07:580][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-17.40.07:582][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-17.40.07:601][607]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-17.40.07:602][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-17.40.07:602][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-17.40.07:602][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-17.40.07:602][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=148
+[2025.09.15-17.40.07:603][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=148
+[2025.09.15-17.40.07:604][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=148
+[2025.09.15-17.40.07:604][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=148
+[2025.09.15-17.40.07:604][607]LogInit: FAudioDevice initialized with ID 148.
+[2025.09.15-17.40.07:604][607]LogAudio: Display: Audio Device (ID: 148) registered with world 'MappaGioco'.
+[2025.09.15-17.40.07:604][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 148
+[2025.09.15-17.40.07:660][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.40.07:661][607]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-17.40.07:684][607]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-19.40.07
+[2025.09.15-17.40.07:685][607]LogWorld: Bringing up level for play took: 0.023633
+[2025.09.15-17.40.07:687][607]LogOnline: OSS: Created online subsystem instance for: :Context_201
+[2025.09.15-17.40.08:138][607]PIE: Accesso al server effettuato
+[2025.09.15-17.40.08:139][607]PIE: Tempo di avvio totale di Riproduci nell'editor 0,598 secondi.
+[2025.09.15-17.40.11:645][996]LogBlueprintUserMessages: [Giovanna_C_1] Giovanna
+[2025.09.15-17.40.17:625][710]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-17.40.19:027][877]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-17.40.20:697][ 77]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-17.40.23:300][388]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.40.24:226][499]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-17.40.25:628][667]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.40.25:677][673]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-17.40.29:959][186]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.40.31:318][349]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-17.40.35:030][794]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-17.40.36:225][936]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-17.40.36:225][936]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.40.40:583][456]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-17.40.44:149][883]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-17.40.44:850][967]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-17.40.44:850][967]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.40.44:850][967]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-17.40.46:036][108]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-17.40.46:954][218]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-17.40.46:954][218]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.40.46:954][218]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-17.40.46:954][218]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-17.40.46:954][218]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-17.40.50:624][658]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-17.40.52:318][861]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-17.40.53:628][ 18]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-17.40.53:628][ 18]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.40.53:628][ 18]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-17.40.53:628][ 18]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-17.40.53:628][ 18]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-17.40.57:259][453]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.40.58:418][592]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.40.59:760][753]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-17.41.04:703][345]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.05:504][441]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-17.41.05:553][447]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-17.41.09:755][950]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.12:256][250]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-17.41.16:723][784]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-17.41.17:406][866]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.17:582][887]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.17:589][888]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.17:598][889]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.17:607][890]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:165][957]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:173][958]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:181][959]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:190][960]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:198][961]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:207][962]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-17.41.18:932][ 49]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-17.41.18:932][ 49]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.41.18:932][ 49]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-17.41.18:932][ 49]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-17.41.21:915][407]LogBlueprintUserMessages: [NewBlueprint_C_1] 3
+[2025.09.15-17.41.21:915][407]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.41.21:915][407]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-17.41.21:915][407]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-17.41.21:915][407]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-17.41.23:382][583]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-17.41.25:933][889]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] 4
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-17.41.26:866][  1]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_2
+[2025.09.15-17.41.40:843][677]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-17.41.40:862][679]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-17.41.44:002][ 54]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-17.41.46:849][395]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-17.41.49:786][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-17.41.49:786][744]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-17.41.49:786][744]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-17.41.49:819][744]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.41.49:821][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.41.49:824][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-17.41.49:828][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.41.49:848][744]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 148
+[2025.09.15-17.41.49:848][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=148
+[2025.09.15-17.41.49:851][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=148
+[2025.09.15-17.41.49:860][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.15-17.41.49:957][745]LogPlayLevel: Display: Destroying online subsystem :Context_201
+[2025.09.15-17.42.01:891][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2025.09.15-17.42.01:893][186]LogChaosDD: Creating Chaos Debug Draw Scene for world World_54
+[2025.09.15-17.42.21:255][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23159.759766
+[2025.09.15-17.42.21:434][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-17.42.21:434][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23159.919922, Update Interval: 354.576263
+[2025.09.15-17.46.30:750][121]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2025.09.15-17.46.30:755][121]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2025.09.15-17.46.30:763][121]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.46.30:764][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.46.30:986][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.47.03:750][648]LogStreaming: Display: FlushAsyncLoading(807): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.15-17.47.03:771][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2025.09.15-17.47.03:772][648]LogChaosDD: Creating Chaos Debug Draw Scene for world World_55
+[2025.09.15-17.47.09:847][ 86]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2025.09.15-17.47.09:860][ 86]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.09:860][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.10:049][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.47.11:992][298]LogStreaming: Display: FlushAsyncLoading(808): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.15-17.47.12:013][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TopDownHouse_FurnitureState1_TileMap.TopDownHouse_FurnitureState1_TileMap
+[2025.09.15-17.47.12:013][298]LogChaosDD: Creating Chaos Debug Draw Scene for world World_56
+[2025.09.15-17.47.17:004][664]LogSlate: Window 'TopDownHouse_FurnitureState1_TileMap' being destroyed
+[2025.09.15-17.47.17:017][664]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.17:017][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.17:192][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.15-17.47.19:737][952]LogStreaming: Display: FlushAsyncLoading(809): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.15-17.47.19:758][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/frecciadestra.frecciadestra
+[2025.09.15-17.47.19:758][952]LogChaosDD: Creating Chaos Debug Draw Scene for world World_57
+[2025.09.15-17.47.24:125][254]LogSlate: Window 'frecciadestra' being destroyed
+[2025.09.15-17.47.24:138][254]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.24:138][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.24:313][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.15-17.47.29:733][819]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/ComandiInterazione.ComandiInterazione
+[2025.09.15-17.47.29:734][819]LogChaosDD: Creating Chaos Debug Draw Scene for world World_58
+[2025.09.15-17.47.29:741][819]LogChaosDD: Creating Chaos Debug Draw Scene for world World_59
+[2025.09.15-17.47.29:749][819]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Maiusc+Spazio]
+[2025.09.15-17.47.30:431][819]LogSlateStyle: Warning: Risorsa mancante dallo stile 'CoreStyle': 'Impossibile trovare lo SlateColor 'Foreground'.'
+[2025.09.15-17.47.36:099][289]LogSlate: Window 'ComandiInterazione' being destroyed
+[2025.09.15-17.47.36:166][289]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.36:166][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.36:177][289]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.36:177][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.36:297][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.47.37:309][388]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/BoxDialogo.BoxDialogo
+[2025.09.15-17.47.37:309][388]LogChaosDD: Creating Chaos Debug Draw Scene for world World_60
+[2025.09.15-17.47.37:316][388]LogChaosDD: Creating Chaos Debug Draw Scene for world World_61
+[2025.09.15-17.47.40:201][578]LogSlate: Window 'BoxDialogo' being destroyed
+[2025.09.15-17.47.40:256][578]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.40:257][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.40:266][578]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.47.40:266][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.47.40:394][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.48.54:838][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23551.152344
+[2025.09.15-17.48.54:989][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-17.48.54:990][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23551.289062, Update Interval: 321.641907
+[2025.09.15-17.49.26:673][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint
+[2025.09.15-17.49.26:673][113]LogChaosDD: Creating Chaos Debug Draw Scene for world World_62
+[2025.09.15-17.51.59:821][462]LogSlate: Window 'Crea Blueprint dalla selezione' being destroyed
+[2025.09.15-17.51.59:848][462]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'DefaultSceneRoot_GEN_VARIABLE' for 'PaperTileMapActor_891' in BlueprintGeneratedClass 'Bambola_Blueprint_C' (it may have been removed)
+[2025.09.15-17.51.59:959][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.15-17.52.00:000][462]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Bambola_Blueprint.Bambola_Blueprint
+[2025.09.15-17.52.00:000][462]LogChaosDD: Creating Chaos Debug Draw Scene for world World_63
+[2025.09.15-17.52.03:638][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.52.03:643][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.09.15-17.52.03:716][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MappaGioco_Auto4
+[2025.09.15-17.52.03:717][669]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco_Auto497D37FE945A4EFD7D4FEB09365C19CDD.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto4.umap'
+[2025.09.15-17.52.03:719][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MappaGioco' took 0.180
+[2025.09.15-17.52.03:719][669]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.180
+[2025.09.15-17.52.03:719][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.52.03:719][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-17.52.03:726][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint_Auto4
+[2025.09.15-17.52.03:726][669]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_Blueprint_Auto45ADB8BAD47E3543C626AAEA838873231.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint_Auto4.uasset'
+[2025.09.15-17.52.03:727][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.52.03:727][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-17.52.03:731][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Bambola_Blueprint_Auto4
+[2025.09.15-17.52.03:731][669]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_Blueprint_Auto436BCBB8E42DCE97803E8C5AE9F1177EC.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Blueprint/Bambola_Blueprint_Auto4.uasset'
+[2025.09.15-17.52.03:731][669]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.09.15-17.52.14:937][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.52.15:004][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.52.15:004][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-17.52.15:004][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.15-17.52.15:008][427]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.15-17.52.15:008][427]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_Blueprint2365E59A47103E3C312DA8B31328B74E.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.15-17.52.15:577][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 640.438 ms (total: 35.1 sec)
+[2025.09.15-17.52.15:637][427]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.52.15:637][427]LogContentValidation: Enabled validators:
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.52.15:637][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.52.15:637][427]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.15-17.52.27:043][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Scrigno_Chiuso_Blueprint.Scrigno_Chiuso_Blueprint
+[2025.09.15-17.52.27:043][282]LogChaosDD: Creating Chaos Debug Draw Scene for world World_64
+[2025.09.15-17.53.15:498][476]LogEditorTransaction: Undo Aggiungi nodo
+[2025.09.15-17.53.38:605][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.53.38:669][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.53.38:669][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-17.53.38:669][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.15-17.53.38:673][548]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.15-17.53.38:673][548]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_Blueprint5F5A38E443E69D4D07B6D48F3FB6F468.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.15-17.53.38:684][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.936 ms (total: 35.2 sec)
+[2025.09.15-17.53.38:734][548]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.53.38:734][548]LogContentValidation: Enabled validators:
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.53.38:734][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.53.38:734][548]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.15-17.53.46:118][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.53.46:167][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.53.46:167][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-17.53.46:167][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.15-17.53.46:171][188]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.15-17.53.46:171][188]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_Blueprint050CF25A42E0F88D0FD82DA721DF9D36.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.15-17.53.46:181][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.270 ms (total: 35.3 sec)
+[2025.09.15-17.53.46:234][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.53.46:234][188]LogContentValidation: Enabled validators:
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.53.46:234][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.53.46:234][188]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.15-17.55.08:960][922]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TileMaps/Shared/TM_Bambola.TM_Bambola
+[2025.09.15-17.55.08:960][922]LogChaosDD: Creating Chaos Debug Draw Scene for world World_65
+[2025.09.15-17.55.09:725][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23924.484375
+[2025.09.15-17.55.09:898][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-17.55.09:898][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23924.646484, Update Interval: 351.287567
+[2025.09.15-17.55.13:031][208]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.55.13:031][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.55.13:270][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.15-17.55.19:209][818]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Tilesets/TS_Rita/Inside/TS_Inside_C.TS_Inside_C
+[2025.09.15-17.55.19:213][818]LogChaosDD: Creating Chaos Debug Draw Scene for world World_66
+[2025.09.15-17.55.32:783][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.55.32:836][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tilesets/TS_Rita/Inside/TS_Inside_C] ([1] browsable assets)...
+[2025.09.15-17.55.32:838][846]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Tilesets/TS_Rita/Inside/TS_Inside_C.TS_Inside_C]
+[2025.09.15-17.55.32:838][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tilesets/TS_Rita/Inside/TS_Inside_C]
+[2025.09.15-17.55.32:838][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tilesets/TS_Rita/Inside/TS_Inside_C" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Tilesets/TS_Rita/Inside/TS_Inside_C.uasset" SILENT=true
+[2025.09.15-17.55.32:853][846]LogSavePackage: Moving output files for package: /Game/Tilesets/TS_Rita/Inside/TS_Inside_C
+[2025.09.15-17.55.32:854][846]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TS_Inside_CCD7EC36E49335A4B31D85586CBA24F4F.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Tilesets/TS_Rita/Inside/TS_Inside_C.uasset'
+[2025.09.15-17.55.32:865][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.739 ms (total: 35.4 sec)
+[2025.09.15-17.55.32:935][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.55.32:935][846]LogContentValidation: Enabled validators:
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.55.32:935][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.55.32:935][846]AssetCheck: /Game/Tilesets/TS_Rita/Inside/TS_Inside_C Convalida asset
+[2025.09.15-17.55.38:516][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.55.38:566][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tilesets/TS_Rita/Inside/TS_Inside_C] ([1] browsable assets)...
+[2025.09.15-17.55.38:568][261]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Tilesets/TS_Rita/Inside/TS_Inside_C.TS_Inside_C]
+[2025.09.15-17.55.38:568][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tilesets/TS_Rita/Inside/TS_Inside_C]
+[2025.09.15-17.55.38:568][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tilesets/TS_Rita/Inside/TS_Inside_C" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Tilesets/TS_Rita/Inside/TS_Inside_C.uasset" SILENT=true
+[2025.09.15-17.55.38:583][261]LogSavePackage: Moving output files for package: /Game/Tilesets/TS_Rita/Inside/TS_Inside_C
+[2025.09.15-17.55.38:584][261]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TS_Inside_C483D53AB427BD5E03432A6AAD5B54EC0.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Tilesets/TS_Rita/Inside/TS_Inside_C.uasset'
+[2025.09.15-17.55.38:594][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.141 ms (total: 35.4 sec)
+[2025.09.15-17.55.38:648][261]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.55.38:648][261]LogContentValidation: Enabled validators:
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.55.38:648][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.55.38:648][261]AssetCheck: /Game/Tilesets/TS_Rita/Inside/TS_Inside_C Convalida asset
+[2025.09.15-17.55.39:392][313]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.55.39:392][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.55.39:535][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.15-17.55.46:557][ 11]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/TileMaps/Shared/TM_Bambola.TM_Bambola
+[2025.09.15-17.55.46:558][ 11]LogChaosDD: Creating Chaos Debug Draw Scene for world World_67
+[2025.09.15-17.55.49:948][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.55.49:999][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/Shared/TM_Bambola] ([1] browsable assets)...
+[2025.09.15-17.55.49:999][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/Shared/TM_Bambola]
+[2025.09.15-17.55.49:999][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/Shared/TM_Bambola" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset" SILENT=true
+[2025.09.15-17.55.50:000][242]LogSavePackage: Moving output files for package: /Game/TileMaps/Shared/TM_Bambola
+[2025.09.15-17.55.50:001][242]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Bambola42F16F7342274DB13115E9B3E430269D.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset'
+[2025.09.15-17.55.50:011][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.667 ms (total: 35.5 sec)
+[2025.09.15-17.55.50:067][242]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.55.50:067][242]LogContentValidation: Enabled validators:
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.55.50:067][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.55.50:067][242]AssetCheck: /Game/TileMaps/Shared/TM_Bambola Convalida asset
+[2025.09.15-17.55.51:195][327]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-17.55.51:195][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-17.55.51:334][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.15-17.56.09:947][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-17.56.09:998][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-17.56.09:998][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-17.56.09:998][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.15-17.56.10:003][880]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.15-17.56.10:004][880]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_BlueprintD49A684F4931DF64A212FA9BDD2375A5.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.15-17.56.10:013][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.313 ms (total: 35.6 sec)
+[2025.09.15-17.56.10:065][880]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-17.56.10:065][880]LogContentValidation: Enabled validators:
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-17.56.10:065][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-17.56.10:065][880]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.15-17.57.17:062][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Importedassests/OggettiCasa/Sturalavandini_Blueprint.Sturalavandini_Blueprint
+[2025.09.15-17.57.17:062][599]LogChaosDD: Creating Chaos Debug Draw Scene for world World_68
+[2025.09.15-18.00.59:909][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.00.59:959][264]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.00.59:959][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.15-18.00.59:959][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.15-18.00.59:964][264]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.15-18.00.59:965][264]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Bambola_BlueprintF91F78D54D73A8633A042D912290C1B8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.15-18.00.59:975][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.156 ms (total: 35.6 sec)
+[2025.09.15-18.01.00:026][264]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.01.00:026][264]LogContentValidation: Enabled validators:
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.01.00:026][264]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.01.00:026][264]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.15-18.01.52:600][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24326.982422
+[2025.09.15-18.01.52:771][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-18.01.52:771][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24327.148438, Update Interval: 307.051605
+[2025.09.15-18.03.12:556][173]LogUObjectHash: Compacting FUObjectHashTables data took  11.14ms
+[2025.09.15-18.03.19:711][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.03.19:780][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.03.19:780][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.03.19:786][809]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.03.19:786][809]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_BlueprintE9FD3227440A3A2159C839A399826CAD.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.03.19:797][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.115 ms (total: 35.7 sec)
+[2025.09.15-18.03.19:859][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.03.19:859][809]LogContentValidation: Enabled validators:
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.03.19:859][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.03.19:859][809]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.03.21:247][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.09.15-18.04.10:686][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.15-18.04.10:692][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.09.15-18.04.10:765][791]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MappaGioco_Auto5
+[2025.09.15-18.04.10:766][791]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco_Auto584E67A4A4ED2FA24537F51B80B74C677.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto5.umap'
+[2025.09.15-18.04.10:768][791]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MappaGioco' took 0.101
+[2025.09.15-18.04.10:768][791]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2025.09.15-18.04.10:769][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Scrigno_Chiuso_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.04.10:769][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Scrigno_Chiuso_Blueprint]
+[2025.09.15-18.04.10:782][791]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Scrigno_Chiuso_Blueprint_Auto5
+[2025.09.15-18.04.10:782][791]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Scrigno_Chiuso_Blueprint_Auto556039EB34E3665B0017985839CCE1ED7.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/Blueprint/Scrigno_Chiuso_Blueprint_Auto5.uasset'
+[2025.09.15-18.04.10:783][791]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.09.15-18.07.47:597][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24680.837891
+[2025.09.15-18.07.47:755][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-18.07.47:755][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24680.994141, Update Interval: 301.073029
+[2025.09.15-18.10.26:689][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.10.26:754][394]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.10.26:754][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.10.26:760][394]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.10.26:761][394]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_BlueprintF476987B412403970FF973814F5A758B.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.10.26:771][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.744 ms (total: 35.8 sec)
+[2025.09.15-18.10.26:835][394]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.10.26:835][394]LogContentValidation: Enabled validators:
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.10.26:835][394]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.10.26:837][394]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.10.28:414][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.15-18.10.43:019][660]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.10.43:030][660]LogPlayLevel: [PlayLevel] Compiling MappaGioco before play...
+[2025.09.15-18.10.43:114][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.15-18.10.43:117][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2025.09.15-18.10.43:118][660]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.10.43:135][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017050s)
+[2025.09.15-18.10.43:135][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017088s)
+[2025.09.15-18.10.43:152][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.15-18.10.43:156][660]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.10.43:157][660]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2025.09.15-18.10.43:158][660]LogAudio: Display: Creating Audio Device:                 Id: 149, Scope: Unique, Realtime: True
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.10.43:158][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.10.43:158][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.10.43:158][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.10.43:158][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.10.43:158][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.10.43:162][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.10.43:183][660]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.10.43:183][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.10.43:183][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.10.43:184][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.10.43:185][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=149
+[2025.09.15-18.10.43:185][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=149
+[2025.09.15-18.10.43:186][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=149
+[2025.09.15-18.10.43:186][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=149
+[2025.09.15-18.10.43:186][660]LogInit: FAudioDevice initialized with ID 149.
+[2025.09.15-18.10.43:186][660]LogAudio: Display: Audio Device (ID: 149) registered with world 'MappaGioco'.
+[2025.09.15-18.10.43:186][660]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 149
+[2025.09.15-18.10.43:230][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.10.43:231][660]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.10.43:244][660]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.10.43
+[2025.09.15-18.10.43:244][660]LogWorld: Bringing up level for play took: 0.013654
+[2025.09.15-18.10.43:247][660]LogOnline: OSS: Created online subsystem instance for: :Context_217
+[2025.09.15-18.10.43:698][660]PIE: Accesso al server effettuato
+[2025.09.15-18.10.43:701][660]PIE: Tempo di avvio totale di Riproduci nell'editor 0,673 secondi.
+[2025.09.15-18.10.46:786][  6]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.48:106][158]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.49:052][270]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.51:963][615]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.52:379][664]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:127][753]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:138][754]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:148][755]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:159][756]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:170][757]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:180][758]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:190][759]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:200][760]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:210][761]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:221][762]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:231][763]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:242][764]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:252][765]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:263][766]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:273][767]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:284][768]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:294][769]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:305][770]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.53:315][771]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.56:401][138]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.10.57:025][211]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:002B
+[2025.09.15-18.10.57:026][211]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.10.57:026][211]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:005E
+[2025.09.15-18.10.57:026][211]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.10.59:695][531]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.11.04:317][ 85]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.11.04:710][132]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-18.11.04:710][132]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.11.08:763][618]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.11.09:556][713]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-18.11.09:990][765]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-18.11.09:990][765]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.11.09:990][765]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.11.11:212][911]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.11.11:726][969]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.11.11:726][969]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.11.11:726][969]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.11.11:726][969]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.11.11:726][969]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-18.11.15:209][381]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.11.17:353][637]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.11.17:705][679]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.11.17:705][679]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.11.17:705][679]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.11.17:705][679]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.11.17:706][679]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-18.11.19:818][932]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.11.20:962][ 69]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.11.34:763][709]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.11.35:382][780]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.11.44:149][811]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.11.48:784][342]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.11.50:045][491]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.11.51:459][659]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:002B
+[2025.09.15-18.11.51:460][659]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.51:460][659]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:005E
+[2025.09.15-18.11.51:470][660]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.51:470][660]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00D0
+[2025.09.15-18.11.51:470][660]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Set Actor Hidden In Game Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.51:470][660]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00F7
+[2025.09.15-18.11.51:470][660]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  SetActorEnableCollision Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.54:026][963]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:002B
+[2025.09.15-18.11.54:026][963]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.54:026][963]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:005E
+[2025.09.15-18.11.54:027][963]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.54:027][963]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00D0
+[2025.09.15-18.11.54:027][963]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Set Actor Hidden In Game Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.54:027][963]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00F7
+[2025.09.15-18.11.54:037][964]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  SetActorEnableCollision Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.11.57:456][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.11.57:456][365]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.11.57:458][365]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.11.57:466][365]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.11.57:468][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.11.57:602][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.11.57:606][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.11.57:624][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 149
+[2025.09.15-18.11.57:624][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=149
+[2025.09.15-18.11.57:627][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=149
+[2025.09.15-18.11.57:635][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.15-18.11.57:836][366]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2025.09.15-18.12.02:065][760]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.12.02:071][760]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.12.50:590][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/letto_Blueprint.letto_Blueprint
+[2025.09.15-18.12.50:590][596]LogChaosDD: Creating Chaos Debug Draw Scene for world World_69
+[2025.09.15-18.13.06:631][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.13.06:681][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.13.06:681][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.13.06:687][216]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.13.06:688][216]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_BlueprintC992552F4F38DBF9ABC085BCD248FF54.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.13.06:698][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.454 ms (total: 35.9 sec)
+[2025.09.15-18.13.06:765][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.13.06:765][216]LogContentValidation: Enabled validators:
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.13.06:765][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.13.06:765][216]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.13.07:476][238]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2025.09.15-18.13.11:946][416]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.15-18.13.11:946][416]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.15-18.13.14:566][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.13.14:633][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/Shared/TM_Bambola] ([1] browsable assets)...
+[2025.09.15-18.13.14:633][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/Shared/TM_Bambola]
+[2025.09.15-18.13.14:633][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/Shared/TM_Bambola" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset" SILENT=true
+[2025.09.15-18.13.14:634][633]LogSavePackage: Moving output files for package: /Game/TileMaps/Shared/TM_Bambola
+[2025.09.15-18.13.14:635][633]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Bambola244252184D22C4693713479ACCA58FB8.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset'
+[2025.09.15-18.13.14:645][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.126 ms (total: 36.0 sec)
+[2025.09.15-18.13.14:699][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.13.14:699][633]LogContentValidation: Enabled validators:
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.13.14:699][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.13.14:699][633]AssetCheck: /Game/TileMaps/Shared/TM_Bambola Convalida asset
+[2025.09.15-18.13.16:914][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.13.16:948][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/Shared/TM_Bambola] ([1] browsable assets)...
+[2025.09.15-18.13.16:948][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/Shared/TM_Bambola]
+[2025.09.15-18.13.16:948][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TileMaps/Shared/TM_Bambola" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset" SILENT=true
+[2025.09.15-18.13.16:949][716]LogSavePackage: Moving output files for package: /Game/TileMaps/Shared/TM_Bambola
+[2025.09.15-18.13.16:950][716]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/TM_Bambola8A46869C42F122B5E637399E6D73F410.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/TileMaps/Shared/TM_Bambola.uasset'
+[2025.09.15-18.13.16:960][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.205 ms (total: 36.0 sec)
+[2025.09.15-18.13.17:013][716]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.13.17:013][716]LogContentValidation: Enabled validators:
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.13.17:014][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.13.17:014][716]AssetCheck: /Game/TileMaps/Shared/TM_Bambola Convalida asset
+[2025.09.15-18.13.19:273][810]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.13.19:283][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.13.19:283][810]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.13.19:300][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017545s)
+[2025.09.15-18.13.19:300][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017583s)
+[2025.09.15-18.13.19:316][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.15-18.13.19:320][810]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.13.19:321][810]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2025.09.15-18.13.19:322][810]LogAudio: Display: Creating Audio Device:                 Id: 150, Scope: Unique, Realtime: True
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.13.19:322][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.13.19:322][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.13.19:322][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.13.19:322][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.13.19:322][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.13.19:324][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.13.19:343][810]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.13.19:343][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.13.19:343][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.13.19:343][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.13.19:344][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=150
+[2025.09.15-18.13.19:344][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=150
+[2025.09.15-18.13.19:346][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=150
+[2025.09.15-18.13.19:346][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=150
+[2025.09.15-18.13.19:346][810]LogInit: FAudioDevice initialized with ID 150.
+[2025.09.15-18.13.19:346][810]LogAudio: Display: Audio Device (ID: 150) registered with world 'MappaGioco'.
+[2025.09.15-18.13.19:346][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 150
+[2025.09.15-18.13.19:378][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.13.19:379][810]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.13.19:393][810]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.13.19
+[2025.09.15-18.13.19:393][810]LogWorld: Bringing up level for play took: 0.013684
+[2025.09.15-18.13.19:396][810]LogOnline: OSS: Created online subsystem instance for: :Context_219
+[2025.09.15-18.13.19:841][810]PIE: Accesso al server effettuato
+[2025.09.15-18.13.19:843][810]PIE: Tempo di avvio totale di Riproduci nell'editor 0,561 secondi.
+[2025.09.15-18.13.21:590][984]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.23:040][150]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.13.23:601][212]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.24:266][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25014.734375
+[2025.09.15-18.13.24:420][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-18.13.24:420][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25014.878906, Update Interval: 339.837646
+[2025.09.15-18.13.24:777][344]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.25:178][390]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:002B
+[2025.09.15-18.13.25:178][390]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.13.25:178][390]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:005E
+[2025.09.15-18.13.25:178][390]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.13.26:936][589]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.13.30:083][945]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.13.30:436][986]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-18.13.30:436][986]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.13.31:711][133]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.13.33:841][378]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.13.34:543][459]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-18.13.34:915][502]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-18.13.34:915][502]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.13.34:915][502]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.13.35:821][601]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.13.36:168][641]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.13.36:168][641]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.13.36:168][641]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.13.36:168][641]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.13.36:168][641]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-18.13.39:355][  4]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.41:635][267]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.13.43:516][483]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.13.45:781][743]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.13.47:100][896]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.13.47:100][896]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.13.47:100][896]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.13.47:100][896]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.13.47:100][896]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-18.13.49:564][179]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.13.54:118][702]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.54:410][735]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.13.54:695][768]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.13.55:164][821]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.14.00:954][471]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.14.04:420][857]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.14.05:188][944]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.14.05:342][961]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.14.05:787][ 12]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.14.05:798][ 13]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.14.05:810][ 14]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.14.06:226][ 62]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:002B
+[2025.09.15-18.14.06:226][ 62]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.14.06:226][ 62]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:005E
+[2025.09.15-18.14.06:226][ 62]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.14.06:226][ 62]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00D0
+[2025.09.15-18.14.06:226][ 62]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Set Actor Hidden In Game Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.14.06:226][ 62]LogScript: Warning: Accesso nullo nel tentativo di lettura della proprietà bambola
+	libreriaBianca_Blueprint_C /Game/UEDPIE_0_MappaGioco.MappaGioco:PersistentLevel.libreriaBianca_Blueprint_C_0
+	Function /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint.libreriaBianca_Blueprint_C:onInteractionPrima:00F7
+[2025.09.15-18.14.06:226][ 62]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  SetActorEnableCollision Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.14.08:626][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.14.08:626][326]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.14.08:628][326]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.14.08:633][326]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.14.08:636][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.14.08:799][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.14.08:803][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.14.08:822][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-18.14.08:822][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 150
+[2025.09.15-18.14.08:822][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2025.09.15-18.14.08:824][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2025.09.15-18.14.08:833][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.15-18.14.09:020][327]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2025.09.15-18.15.50:407][165]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.15.50:412][165]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.16.06:641][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.15-18.16.06:976][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.16.07:013][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-18.16.07:058][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.15-18.16.07:135][473]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-18.16.07:135][473]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco9372F8A14A067F8CC71E8E9261C65D83.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-18.16.07:151][473]LogFileHelpers: Saving map 'MappaGioco' took 0.139
+[2025.09.15-18.16.07:151][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Scrigno_Chiuso_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.16.07:152][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Scrigno_Chiuso_Blueprint]
+[2025.09.15-18.16.07:152][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Scrigno_Chiuso_Blueprint" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Scrigno_Chiuso_Blueprint.uasset" SILENT=true
+[2025.09.15-18.16.07:159][473]LogSavePackage: Moving output files for package: /Game/Blueprint/Scrigno_Chiuso_Blueprint
+[2025.09.15-18.16.07:160][473]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/Scrigno_Chiuso_Blueprint5AAE2795434DBC13210C7BB225EAF93D.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Blueprint/Scrigno_Chiuso_Blueprint.uasset'
+[2025.09.15-18.16.07:171][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.942 ms (total: 36.2 sec)
+[2025.09.15-18.16.07:230][473]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.15-18.16.07:230][473]LogContentValidation: Enabled validators:
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.16.07:230][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.16.07:230][473]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-18.16.07:231][473]AssetCheck: /Game/Blueprint/Scrigno_Chiuso_Blueprint Convalida asset
+[2025.09.15-18.17.20:826][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.17.20:879][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.17.20:879][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.17.20:886][417]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.17.20:886][417]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_BlueprintF32483B0426FBA3C1698E8B911800F47.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.17.20:897][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.851 ms (total: 36.3 sec)
+[2025.09.15-18.17.20:963][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.17.20:963][417]LogContentValidation: Enabled validators:
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.17.20:963][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.17.20:963][417]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.17.26:233][877]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.17.26:244][877]LogPlayLevel: [PlayLevel] Compiling libreriaBianca_Blueprint before play...
+[2025.09.15-18.17.26:308][877]LogPlayLevel: [PlayLevel] Compiling MappaGioco before play...
+[2025.09.15-18.17.26:371][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.15-18.17.26:377][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (2 blueprints)
+[2025.09.15-18.17.26:377][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.17.26:393][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016320s)
+[2025.09.15-18.17.26:393][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.016354s)
+[2025.09.15-18.17.26:410][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.15-18.17.26:414][877]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.17.26:416][877]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2025.09.15-18.17.26:416][877]LogAudio: Display: Creating Audio Device:                 Id: 151, Scope: Unique, Realtime: True
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.17.26:416][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.17.26:416][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.17.26:416][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.17.26:416][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.17.26:416][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.17.26:419][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.17.26:439][877]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.17.26:440][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.17.26:440][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.17.26:440][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.17.26:441][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=151
+[2025.09.15-18.17.26:441][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=151
+[2025.09.15-18.17.26:442][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=151
+[2025.09.15-18.17.26:442][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=151
+[2025.09.15-18.17.26:442][877]LogInit: FAudioDevice initialized with ID 151.
+[2025.09.15-18.17.26:442][877]LogAudio: Display: Audio Device (ID: 151) registered with world 'MappaGioco'.
+[2025.09.15-18.17.26:442][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 151
+[2025.09.15-18.17.26:473][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.17.26:473][877]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.17.26:487][877]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.17.26
+[2025.09.15-18.17.26:487][877]LogWorld: Bringing up level for play took: 0.013694
+[2025.09.15-18.17.26:489][877]LogOnline: OSS: Created online subsystem instance for: :Context_220
+[2025.09.15-18.17.26:933][877]PIE: Accesso al server effettuato
+[2025.09.15-18.17.26:935][877]PIE: Tempo di avvio totale di Riproduci nell'editor 0,693 secondi.
+[2025.09.15-18.17.28:675][ 67]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.28:831][ 85]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.28:841][ 86]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:156][123]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:166][124]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:176][125]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:186][126]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:197][127]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.29:418][153]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.17.30:713][306]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  Set Actor Hidden In Game Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.17.30:713][306]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà bambola". Nodo:  SetActorEnableCollision Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.17.32:626][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.17.32:626][528]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.17.32:627][528]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.17.32:632][528]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.17.32:635][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.17.32:735][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.17.32:739][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.17.32:757][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 151
+[2025.09.15-18.17.32:758][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2025.09.15-18.17.32:759][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2025.09.15-18.17.32:769][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.15-18.17.32:951][529]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2025.09.15-18.17.37:655][966]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.17.37:670][966]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.17.45:889][760]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.17.45:895][760]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.17.49:436][120]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.15-18.17.49:437][120]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.15-18.17.53:028][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.17.53:078][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-18.17.53:126][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.15-18.17.53:213][491]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-18.17.53:214][491]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGioco408EAC09464B986E3E66E4A7B2E93CC4.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-18.17.53:231][491]LogFileHelpers: Saving map 'MappaGioco' took 0.153
+[2025.09.15-18.17.53:241][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.739 ms (total: 36.5 sec)
+[2025.09.15-18.17.53:294][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.17.53:294][491]LogContentValidation: Enabled validators:
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.17.53:294][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.17.53:295][491]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-18.17.55:026][654]LogDerivedDataCache: C:/Users/Paolo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.15-18.17.58:020][954]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.17.58:028][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.17.58:029][954]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.17.58:046][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017277s)
+[2025.09.15-18.17.58:046][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017309s)
+[2025.09.15-18.17.58:066][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.15-18.17.58:070][954]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.17.58:071][954]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2025.09.15-18.17.58:072][954]LogAudio: Display: Creating Audio Device:                 Id: 152, Scope: Unique, Realtime: True
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.17.58:072][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.17.58:072][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.17.58:072][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.17.58:072][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.17.58:072][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.17.58:074][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.17.58:091][954]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.17.58:092][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.17.58:092][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.17.58:092][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.17.58:094][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=152
+[2025.09.15-18.17.58:094][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=152
+[2025.09.15-18.17.58:096][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=152
+[2025.09.15-18.17.58:096][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=152
+[2025.09.15-18.17.58:096][954]LogInit: FAudioDevice initialized with ID 152.
+[2025.09.15-18.17.58:096][954]LogAudio: Display: Audio Device (ID: 152) registered with world 'MappaGioco'.
+[2025.09.15-18.17.58:096][954]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 152
+[2025.09.15-18.17.58:140][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.17.58:140][954]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.17.58:153][954]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.17.58
+[2025.09.15-18.17.58:153][954]LogWorld: Bringing up level for play took: 0.013141
+[2025.09.15-18.17.58:156][954]LogOnline: OSS: Created online subsystem instance for: :Context_221
+[2025.09.15-18.17.58:602][954]PIE: Accesso al server effettuato
+[2025.09.15-18.17.58:603][954]PIE: Tempo di avvio totale di Riproduci nell'editor 0,575 secondi.
+[2025.09.15-18.18.00:241][133]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.00:371][148]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.00:382][149]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.01:393][270]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.02:749][432]LogBlueprintUserMessages: [Bambola_Blueprint_C_1] Bambola
+[2025.09.15-18.18.04:115][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.18.04:116][591]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.18.04:117][591]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.18.04:122][591]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.18.04:130][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.18.04:142][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.18.04:149][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.18.04:170][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 152
+[2025.09.15-18.18.04:171][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2025.09.15-18.18.04:173][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2025.09.15-18.18.04:181][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.15-18.18.04:246][592]LogPlayLevel: Display: Destroying online subsystem :Context_221
+[2025.09.15-18.18.07:612][947]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.18.07:624][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.18.07:625][947]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.18.07:650][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024501s)
+[2025.09.15-18.18.07:650][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.024560s)
+[2025.09.15-18.18.07:674][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.15-18.18.07:678][947]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.18.07:679][947]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2025.09.15-18.18.07:680][947]LogAudio: Display: Creating Audio Device:                 Id: 153, Scope: Unique, Realtime: True
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.18.07:680][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.18.07:680][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.18.07:680][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.18.07:680][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.18.07:680][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.18.07:682][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.18.07:704][947]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.18.07:704][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.18.07:704][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.18.07:704][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.18.07:705][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=153
+[2025.09.15-18.18.07:705][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=153
+[2025.09.15-18.18.07:707][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=153
+[2025.09.15-18.18.07:707][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=153
+[2025.09.15-18.18.07:707][947]LogInit: FAudioDevice initialized with ID 153.
+[2025.09.15-18.18.07:707][947]LogAudio: Display: Audio Device (ID: 153) registered with world 'MappaGioco'.
+[2025.09.15-18.18.07:707][947]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 153
+[2025.09.15-18.18.07:739][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.18.07:740][947]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.18.07:752][947]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.18.07
+[2025.09.15-18.18.07:752][947]LogWorld: Bringing up level for play took: 0.013564
+[2025.09.15-18.18.07:755][947]LogOnline: OSS: Created online subsystem instance for: :Context_222
+[2025.09.15-18.18.08:199][947]PIE: Accesso al server effettuato
+[2025.09.15-18.18.08:201][947]PIE: Tempo di avvio totale di Riproduci nell'editor 0,577 secondi.
+[2025.09.15-18.18.10:002][147]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.10:272][179]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.10:281][180]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.10:291][181]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.10:752][236]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.10:995][265]LogBlueprintUserMessages: [Bambola_Blueprint_C_1] Bambola
+[2025.09.15-18.18.12:642][462]LogBlueprintUserMessages: [Bambola_Blueprint_C_1] Bambola
+[2025.09.15-18.18.21:596][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.18.21:596][495]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.18.21:597][495]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.18.21:601][495]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.18.21:605][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.18.21:612][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.18.21:617][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.18.21:634][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 153
+[2025.09.15-18.18.21:634][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2025.09.15-18.18.21:636][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2025.09.15-18.18.21:644][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.15-18.18.21:703][496]LogPlayLevel: Display: Destroying online subsystem :Context_222
+[2025.09.15-18.18.45:643][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.18.45:694][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.18.45:694][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.18.45:700][501]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.18.45:701][501]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_BlueprintCBA8B12C4FE80E3683C8478B1FB15810.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.18.45:710][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.096 ms (total: 36.6 sec)
+[2025.09.15-18.18.45:778][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.18.45:778][501]LogContentValidation: Enabled validators:
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.18.45:778][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.18.45:778][501]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.18.47:756][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.15-18.18.51:764][972]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.18.51:773][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.18.51:773][972]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.18.51:791][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017510s)
+[2025.09.15-18.18.51:791][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017545s)
+[2025.09.15-18.18.51:809][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.15-18.18.51:814][972]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.18.51:815][972]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2025.09.15-18.18.51:816][972]LogAudio: Display: Creating Audio Device:                 Id: 154, Scope: Unique, Realtime: True
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.18.51:816][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.18.51:816][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.18.51:816][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.18.51:816][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.18.51:816][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.18.51:818][972]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.18.51:838][972]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.18.51:838][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.18.51:838][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.18.51:838][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.18.51:838][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=154
+[2025.09.15-18.18.51:838][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=154
+[2025.09.15-18.18.51:840][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=154
+[2025.09.15-18.18.51:840][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=154
+[2025.09.15-18.18.51:840][972]LogInit: FAudioDevice initialized with ID 154.
+[2025.09.15-18.18.51:840][972]LogAudio: Display: Audio Device (ID: 154) registered with world 'MappaGioco'.
+[2025.09.15-18.18.51:840][972]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 154
+[2025.09.15-18.18.51:888][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.18.51:888][972]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.18.51:901][972]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.18.51
+[2025.09.15-18.18.51:902][972]LogWorld: Bringing up level for play took: 0.013708
+[2025.09.15-18.18.51:904][972]LogOnline: OSS: Created online subsystem instance for: :Context_223
+[2025.09.15-18.18.52:352][972]PIE: Accesso al server effettuato
+[2025.09.15-18.18.52:354][972]PIE: Tempo di avvio totale di Riproduci nell'editor 0,581 secondi.
+[2025.09.15-18.18.54:117][161]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.54:275][179]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.54:285][180]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.55:296][297]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.18.55:989][376]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.18.59:081][735]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.19.01:128][972]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.19.01:388][  1]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.19.01:398][  2]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.19.01:409][  3]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.19.01:939][ 64]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.19.02:266][102]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-18.19.02:267][102]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.19.05:178][439]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-18.19.05:573][485]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-18.19.05:574][485]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.19.05:574][485]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.19.06:944][644]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.19.07:406][697]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.19.07:406][697]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.19.07:406][697]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.19.07:406][697]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.19.07:406][697]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-18.19.12:904][337]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.19.13:265][379]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.19.13:265][379]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.19.13:265][379]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.19.13:265][379]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.19.13:266][379]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-18.19.15:538][644]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.19.15:912][686]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.19.20:859][254]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.19.21:434][317]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.19.25:345][764]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.19.29:160][198]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.19.32:372][561]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.19.32:748][604]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.19.33:763][718]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.19.34:097][757]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.19.34:098][757]LogBlueprintUserMessages: [Bambola_Blueprint_C_1] Bambola
+[2025.09.15-18.19.36:839][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25385.146484
+[2025.09.15-18.19.37:002][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-18.19.37:002][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25385.296875, Update Interval: 352.087769
+[2025.09.15-18.19.37:463][146]PIE: Error: Errore di runtime Blueprint: "Accesso nullo nel tentativo di lettura della proprietà CallFunc_GetComponentByClass_ReturnValue". Nodo:  Ramo Grafico:  onInteractionPrima Funzione:  On Interaction Prima Blueprint:  libreriaBianca_Blueprint
+[2025.09.15-18.19.38:516][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.19.38:516][263]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.19.38:517][263]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.19.38:524][263]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.19.38:526][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.19.38:560][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.19.38:565][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.19.38:583][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-18.19.38:583][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 154
+[2025.09.15-18.19.38:583][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2025.09.15-18.19.38:586][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2025.09.15-18.19.38:594][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.15-18.19.38:765][264]LogPlayLevel: Display: Destroying online subsystem :Context_223
+[2025.09.15-18.19.53:243][620]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.19.53:249][620]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.09.15-18.22.35:071][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.22.35:123][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.22.35:123][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.22.35:130][908]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.22.35:130][908]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_Blueprint3F770D104016DBCCD6861F9B5A564AE6.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.22.35:140][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.664 ms (total: 36.6 sec)
+[2025.09.15-18.22.35:208][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.22.35:208][908]LogContentValidation: Enabled validators:
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.22.35:208][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.22.35:208][908]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.22.35:836][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.15-18.22.39:359][262]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.22.39:368][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.22.39:368][262]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.22.39:390][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021291s)
+[2025.09.15-18.22.39:390][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.021333s)
+[2025.09.15-18.22.39:407][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.15-18.22.39:411][262]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.22.39:412][262]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2025.09.15-18.22.39:413][262]LogAudio: Display: Creating Audio Device:                 Id: 155, Scope: Unique, Realtime: True
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.22.39:413][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.22.39:413][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.22.39:413][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.22.39:413][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.22.39:413][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.22.39:416][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.22.39:438][262]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.22.39:439][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.22.39:439][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.22.39:439][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.22.39:440][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=155
+[2025.09.15-18.22.39:440][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=155
+[2025.09.15-18.22.39:442][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=155
+[2025.09.15-18.22.39:442][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=155
+[2025.09.15-18.22.39:442][262]LogInit: FAudioDevice initialized with ID 155.
+[2025.09.15-18.22.39:442][262]LogAudio: Display: Audio Device (ID: 155) registered with world 'MappaGioco'.
+[2025.09.15-18.22.39:442][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 155
+[2025.09.15-18.22.39:484][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.22.39:484][262]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.22.39:499][262]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.22.39
+[2025.09.15-18.22.39:499][262]LogWorld: Bringing up level for play took: 0.014567
+[2025.09.15-18.22.39:502][262]LogOnline: OSS: Created online subsystem instance for: :Context_224
+[2025.09.15-18.22.39:944][262]PIE: Accesso al server effettuato
+[2025.09.15-18.22.39:946][262]PIE: Tempo di avvio totale di Riproduci nell'editor 0,578 secondi.
+[2025.09.15-18.22.41:964][483]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.22.44:007][722]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.22.44:177][742]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-18.22.44:177][742]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.22.47:849][175]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-18.22.48:200][216]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-18.22.48:200][216]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.22.48:200][216]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.22.49:416][358]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.22.49:668][388]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.22.49:668][388]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.22.49:668][388]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.22.49:668][388]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.22.49:668][388]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-18.22.52:381][707]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.22.52:767][752]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.22.54:267][928]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.22.54:565][963]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.22.54:565][963]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.22.54:565][963]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.22.54:565][963]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.22.54:565][963]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-18.22.56:265][164]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.22.56:588][202]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.23.02:049][854]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.23.02:593][919]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.23.03:071][976]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.23.10:188][826]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.23.13:568][227]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.23.13:907][267]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.23.14:578][347]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.23.19:401][924]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.23.20:146][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.23.20:146][  8]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.23.20:148][  8]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.23.20:154][  8]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.23.20:157][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.23.20:332][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.23.20:336][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.23.20:351][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-18.23.20:351][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 155
+[2025.09.15-18.23.20:352][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=155
+[2025.09.15-18.23.20:354][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=155
+[2025.09.15-18.23.20:363][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.15-18.23.20:422][  9]LogPlayLevel: Display: Destroying online subsystem :Context_224
+[2025.09.15-18.25.05:185][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.25.05:236][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.15-18.25.05:236][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.15-18.25.05:242][137]LogSavePackage: Moving output files for package: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint
+[2025.09.15-18.25.05:244][137]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/libreriaBianca_Blueprint913B66604B7A55BBD53172A77A7F8A75.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/Importedassests/OggettiCasa/libreriaBianca_Blueprint.uasset'
+[2025.09.15-18.25.05:254][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.889 ms (total: 36.7 sec)
+[2025.09.15-18.25.05:320][137]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.25.05:320][137]LogContentValidation: Enabled validators:
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.25.05:320][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.25.05:321][137]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.15-18.25.06:418][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.15-18.25.13:548][806]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.25.13:548][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.25.13:659][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.15-18.25.16:296][ 37]LogDebuggerCommands: Repeating last play command: Nuova finestra dell'editor (PIE)
+[2025.09.15-18.25.16:306][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-18.25.16:306][ 37]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.25.16:324][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017335s)
+[2025.09.15-18.25.16:324][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MappaGioco.MappaGioco to /Game/UEDPIE_0_MappaGioco.MappaGioco (0.017369s)
+[2025.09.15-18.25.16:340][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.15-18.25.16:343][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.15-18.25.16:345][ 37]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2025.09.15-18.25.16:345][ 37]LogAudio: Display: Creating Audio Device:                 Id: 156, Scope: Unique, Realtime: True
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-18.25.16:345][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-18.25.16:345][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-18.25.16:345][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-18.25.16:345][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-18.25.16:345][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-18.25.16:347][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-18.25.16:366][ 37]LogAudioMixer: Display: Using Audio Hardware Device Cuffie Rita (2- DOONKYX Phoenix)
+[2025.09.15-18.25.16:367][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-18.25.16:367][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-18.25.16:367][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-18.25.16:367][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=156
+[2025.09.15-18.25.16:367][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=156
+[2025.09.15-18.25.16:369][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=156
+[2025.09.15-18.25.16:369][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=156
+[2025.09.15-18.25.16:369][ 37]LogInit: FAudioDevice initialized with ID 156.
+[2025.09.15-18.25.16:369][ 37]LogAudio: Display: Audio Device (ID: 156) registered with world 'MappaGioco'.
+[2025.09.15-18.25.16:369][ 37]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 156
+[2025.09.15-18.25.16:417][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.25.16:417][ 37]LogLoad: Game class is 'GameModeBase'
+[2025.09.15-18.25.16:431][ 37]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.15-20.25.16
+[2025.09.15-18.25.16:431][ 37]LogWorld: Bringing up level for play took: 0.014125
+[2025.09.15-18.25.16:434][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_225
+[2025.09.15-18.25.16:875][ 37]PIE: Accesso al server effettuato
+[2025.09.15-18.25.16:878][ 37]PIE: Tempo di avvio totale di Riproduci nell'editor 0,572 secondi.
+[2025.09.15-18.25.21:076][520]LogBlueprintUserMessages: [foglio_Blueprint1_C_0] foglio
+[2025.09.15-18.25.21:609][583]LogBlueprintUserMessages: [NewBlueprint_C_1] 0
+[2025.09.15-18.25.21:609][583]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.25:012][987]LogBlueprintUserMessages: [Sturalavandini_Blueprint_C_0] Sturalavandini
+[2025.09.15-18.25.25:306][ 22]LogBlueprintUserMessages: [NewBlueprint_C_1] 1
+[2025.09.15-18.25.25:306][ 22]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.25:306][ 22]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.25.26:219][130]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] Vasca
+[2025.09.15-18.25.26:424][154]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.25.26:424][154]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.26:424][154]LogBlueprintUserMessages: [NewBlueprint_C_1] Sturalavandini_Blueprint_C_0
+[2025.09.15-18.25.26:424][154]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.25.26:424][154]LogBlueprintUserMessages: [vascaPiena_Blueprint_C_3] ChiaveA
+[2025.09.15-18.25.29:015][462]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.25.31:065][705]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.25.31:298][732]LogBlueprintUserMessages: [armadio_Blueprint_C_0] nome
+[2025.09.15-18.25.31:646][773]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.25.31:646][773]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.31:646][773]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_0
+[2025.09.15-18.25.31:646][773]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.25.31:646][773]LogBlueprintUserMessages: [armadio_Blueprint_C_0]  valid
+[2025.09.15-18.25.33:327][973]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.25.34:585][122]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.15-18.25.37:243][438]LogBlueprintUserMessages: [Scrigno_Chiuso_Blueprint_C_1] Scrigno
+[2025.09.15-18.25.40:749][853]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.25.40:921][873]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.25.41:540][946]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.15-18.25.47:012][585]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.25.50:332][971]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.25.50:973][ 46]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.15-18.25.51:495][107]LogBlueprintUserMessages: [NewBlueprint_C_1] 2
+[2025.09.15-18.25.51:495][107]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.51:495][107]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.25.51:495][107]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-18.25.53:019][287]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.15-18.25.55:880][620]LogBlueprintUserMessages: [idleSignora_Blueprint_C_0] Anziana signora
+[2025.09.15-18.25.56:452][685]LogBlueprintUserMessages: [NewBlueprint_C_1] 3
+[2025.09.15-18.25.56:452][685]LogBlueprintUserMessages: [NewBlueprint_C_1] foglio_Blueprint1_C_0
+[2025.09.15-18.25.56:452][685]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_1
+[2025.09.15-18.25.56:452][685]LogBlueprintUserMessages: [NewBlueprint_C_1] Bambola_Blueprint_C_0
+[2025.09.15-18.25.56:452][685]LogBlueprintUserMessages: [NewBlueprint_C_1] chiave_Blueprint1_C_2
+[2025.09.15-18.26.06:561][853]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-18.26.06:580][855]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-18.26.09:618][212]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-18.26.12:183][515]LogBlueprintUserMessages: [TM_Porta_Brutta_Blueprint_C_0] nome
+[2025.09.15-18.26.13:676][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-18.26.13:676][686]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.15-18.26.13:677][686]LogSlate: Window 'ProgettoMO Anteprima [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.15-18.26.13:681][686]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.26.13:684][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.26.13:712][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-18.26.13:716][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.26.13:736][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 156
+[2025.09.15-18.26.13:736][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=156
+[2025.09.15-18.26.13:737][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=156
+[2025.09.15-18.26.13:747][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.15-18.26.13:807][687]LogPlayLevel: Display: Destroying online subsystem :Context_225
+[2025.09.15-18.26.14:701][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25781.757812
+[2025.09.15-18.26.14:860][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-18.26.14:861][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25781.908203, Update Interval: 344.834747
+[2025.09.15-18.26.32:236][765]Cmd: TRANSACTION UNDO
+[2025.09.15-18.26.32:236][765]LogEditorTransaction: Undo Muovi elementi
+[2025.09.15-18.26.32:797][774]Cmd: TRANSACTION UNDO
+[2025.09.15-18.26.32:798][774]LogEditorTransaction: Undo Muovi elementi
+[2025.09.15-18.26.33:636][812]Cmd: TRANSACTION UNDO
+[2025.09.15-18.26.33:636][812]LogEditorTransaction: Undo Muovi elementi
+[2025.09.15-18.26.34:392][843]Cmd: TRANSACTION UNDO
+[2025.09.15-18.26.34:392][843]LogEditorTransaction: Undo Muovi elementi
+[2025.09.15-18.27.02:086][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-18.27.02:157][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.15-18.27.02:206][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.15-18.27.02:286][ 89]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.15-18.27.02:286][ 89]LogSavePackage: Moving '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Saved/MappaGiocoF84A77B14A4AD5D1A9995AADB829C866.tmp' to '../../../../../../Users/Paolo/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.15-18.27.02:302][ 89]LogFileHelpers: Saving map 'MappaGioco' took 0.147
+[2025.09.15-18.27.02:311][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.537 ms (total: 36.9 sec)
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: Enabled validators:
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-18.27.02:368][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-18.27.02:368][ 89]AssetCheck: /Game/MappaGioco Convalida asset
+[2025.09.15-18.27.07:386][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.09.15-18.27.11:336][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.15-18.27.11:410][604]LogStall: Shutdown...
+[2025.09.15-18.27.11:410][604]LogStall: Shutdown complete.
+[2025.09.15-18.27.11:461][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-18.27.11:461][604]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.11:461][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.11:571][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-18.27.11:571][604]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.11:571][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.11:685][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-18.27.11:685][604]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.11:685][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.11:770][604]LogSlate: Window 'libreriaBianca_Blueprint' being destroyed
+[2025.09.15-18.27.11:802][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-18.27.11:802][604]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.11:802][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.11:933][604]LogSlate: Window 'ProgettoMO - Unreal Editor' being destroyed
+[2025.09.15-18.27.11:938][604]LogWindowsTextInputMethodSystem: Activated input method: Italiano (Italia) - (Keyboard).
+[2025.09.15-18.27.14:394][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.15-18.27.14:427][605]Cmd: QUIT_EDITOR
+[2025.09.15-18.27.14:427][605]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.15-18.27.14:440][605]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.15-18.27.14:442][605]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.15-18.27.14:443][605]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.15-18.27.14:453][605]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.14:454][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.14:488][605]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.15-18.27.14:498][605]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.15-18.27.14:544][605]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-18.27.14:544][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-18.27.14:560][605]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.15-18.27.14:573][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.09.15-18.27.14:573][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.09.15-18.27.14:573][605]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.09.15-18.27.15:247][605]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.15-18.27.15:247][605]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.15-18.27.15:247][605]LogAudio: Display: Audio Device unregistered from world 'MappaGioco'.
+[2025.09.15-18.27.15:247][605]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.15-18.27.15:248][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.15-18.27.15:252][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.15-18.27.15:298][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.15-18.27.15:298][605]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.15-18.27.15:312][605]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.15-18.27.15:314][605]LogExit: Preparing to exit.
+[2025.09.15-18.27.15:408][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.15-18.27.15:417][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:418][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:428][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:430][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:431][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:432][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:433][605]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.15:433][605]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-18.27.16:789][605]LogEditorDataStorage: Deinitializing
+[2025.09.15-18.27.17:107][605]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.15-18.27.17:373][605]LogExit: Editor shut down
+[2025.09.15-18.27.17:390][605]LogExit: Transaction tracking system shut down
+[2025.09.15-18.27.18:376][605]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 12.
+[2025.09.15-18.27.18:447][605]LogExit: Object subsystem successfully closed.
+[2025.09.15-18.27.18:489][605]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.15-18.27.19:635][605]LogMemoryProfiler: Shutdown
+[2025.09.15-18.27.19:636][605]LogNetworkingProfiler: Shutdown
+[2025.09.15-18.27.19:636][605]LoadingProfiler: Shutdown
+[2025.09.15-18.27.19:636][605]LogTimingProfiler: Shutdown
+[2025.09.15-18.27.20:867][605]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.15-18.27.20:923][605]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.15-18.27.20:923][605]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2BFC5F4A-4140-94AB-A2BA-BDB7B702A6C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=4cd29ec442904f121ae6d98b26e3820c%7C34c1024d980f4821af048fbfb69ee8fd%7Cafaf8223-1c3c-4a34-a553-2525838a5bd7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.15-18.27.21:521][605]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.15-18.27.21:531][605]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.09.15-18.27.21:532][605]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.15-18.27.21:533][605]RenderDocPlugin: plugin has been unloaded.
+[2025.09.15-18.27.21:570][605]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.15-18.27.21:570][605]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.15-18.27.21:570][605]LogPakFile: Destroying PakPlatformFile
+[2025.09.15-18.27.22:740][605]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.15-18.27.22:870][605]LogExit: Exiting.
+[2025.09.15-18.27.22:934][605]Log file closed, 09/15/25 20:27:22
