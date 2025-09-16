@@ -9734,3 +9734,198 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.09.16-15.46.26:627][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
 [2025.09.16-15.46.26:642][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
 [2025.09.16-15.46.26:731][736]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.09.16-15.46.53:211][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.16-15.46.53:392][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MappaGioco_Auto8
+[2025.09.16-15.46.53:394][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/MappaGioco_Auto819473C76465CD693CACFE09734E7D2C9.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/MappaGioco_Auto8.umap'
+[2025.09.16-15.46.53:397][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MappaGioco' took 0.210
+[2025.09.16-15.46.53:397][871]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.210
+[2025.09.16-15.46.53:398][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/blueprintProtagonista] ([2] browsable assets)...
+[2025.09.16-15.46.53:398][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/blueprintProtagonista]
+[2025.09.16-15.46.53:432][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/blueprintProtagonista_Auto8
+[2025.09.16-15.46.53:434][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/blueprintProtagonista_Auto8BB4E71F44D706FD10839FDB7EE8F8B2B.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Blueprint/blueprintProtagonista_Auto8.uasset'
+[2025.09.16-15.46.53:437][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/armadio_Blueprint] ([2] browsable assets)...
+[2025.09.16-15.46.53:437][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/armadio_Blueprint]
+[2025.09.16-15.46.53:456][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/armadio_Blueprint_Auto8
+[2025.09.16-15.46.53:456][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/armadio_Blueprint_Auto8118DC9C1471559BC4D190CA55DA27B93.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/armadio_Blueprint_Auto8.uasset'
+[2025.09.16-15.46.53:457][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Scrigno_Chiuso_Blueprint] ([2] browsable assets)...
+[2025.09.16-15.46.53:457][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Scrigno_Chiuso_Blueprint]
+[2025.09.16-15.46.53:470][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Scrigno_Chiuso_Blueprint_Auto8
+[2025.09.16-15.46.53:471][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Scrigno_Chiuso_Blueprint_Auto824E9E777451219D85063D7A5E065CE0F.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Blueprint/Scrigno_Chiuso_Blueprint_Auto8.uasset'
+[2025.09.16-15.46.53:473][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Flipbooks/FB_Rita/TM_Porta_Brutta_Blueprint] ([2] browsable assets)...
+[2025.09.16-15.46.53:473][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Flipbooks/FB_Rita/TM_Porta_Brutta_Blueprint]
+[2025.09.16-15.46.53:487][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Flipbooks/FB_Rita/TM_Porta_Brutta_Blueprint_Auto8
+[2025.09.16-15.46.53:487][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Porta_Brutta_Blueprint_Auto895664D944978C75154027BAC1DBD738A.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Flipbooks/FB_Rita/TM_Porta_Brutta_Blueprint_Auto8.uasset'
+[2025.09.16-15.46.53:488][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint] ([2] browsable assets)...
+[2025.09.16-15.46.53:488][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint]
+[2025.09.16-15.46.53:500][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint_Auto8
+[2025.09.16-15.46.53:500][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/libreriaBianca_Blueprint_Auto839C6405B4E747F66D58E7D8FE88C7C55.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint_Auto8.uasset'
+[2025.09.16-15.46.53:501][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/letto_Blueprint] ([2] browsable assets)...
+[2025.09.16-15.46.53:501][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/letto_Blueprint]
+[2025.09.16-15.46.53:514][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/letto_Blueprint_Auto8
+[2025.09.16-15.46.53:516][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/letto_Blueprint_Auto8296CE3B0464D72F10E1E9F8BF12B6629.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/letto_Blueprint_Auto8.uasset'
+[2025.09.16-15.46.53:519][871]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/ComandiMovimento] ([2] browsable assets)...
+[2025.09.16-15.46.53:528][871]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/ComandiMovimento.ComandiMovimento]
+[2025.09.16-15.46.53:528][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/ComandiMovimento]
+[2025.09.16-15.46.53:536][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/ComandiMovimento_Auto8
+[2025.09.16-15.46.53:536][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/ComandiMovimento_Auto8AEF0A0E448B502BB0A31A7B1B1BDE739.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Blueprint/ComandiMovimento_Auto8.uasset'
+[2025.09.16-15.46.53:537][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/Shared/TM_Bambola] ([1] browsable assets)...
+[2025.09.16-15.46.53:537][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/Shared/TM_Bambola]
+[2025.09.16-15.46.53:539][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/Shared/TM_Bambola_Auto8
+[2025.09.16-15.46.53:539][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Bambola_Auto82DFB279F449D619BCCC831BFEC9B369A.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/Shared/TM_Bambola_Auto8.uasset'
+[2025.09.16-15.46.53:540][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/Shared/TM_Biglietto] ([1] browsable assets)...
+[2025.09.16-15.46.53:540][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/Shared/TM_Biglietto]
+[2025.09.16-15.46.53:542][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/Shared/TM_Biglietto_Auto8
+[2025.09.16-15.46.53:542][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Biglietto_Auto8203627F8496B25DB8A97CDAB4B40ACE9.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/Shared/TM_Biglietto_Auto8.uasset'
+[2025.09.16-15.46.53:544][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto] ([1] browsable assets)...
+[2025.09.16-15.46.53:544][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto]
+[2025.09.16-15.46.53:546][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Auto8
+[2025.09.16-15.46.53:546][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Libro_Aperto_Auto89B7DB63D4FE73FF78F07A2A5D013B562.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Auto8.uasset'
+[2025.09.16-15.46.53:547][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Fronte] ([1] browsable assets)...
+[2025.09.16-15.46.53:547][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Fronte]
+[2025.09.16-15.46.53:550][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Fronte_Auto8
+[2025.09.16-15.46.53:550][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Libro_Aperto_Fronte_Auto89D2D16924D704AD93F71EF9E20E9374B.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Aperto_Fronte_Auto8.uasset'
+[2025.09.16-15.46.53:552][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Blu] ([1] browsable assets)...
+[2025.09.16-15.46.53:552][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Blu]
+[2025.09.16-15.46.53:555][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Blu_Auto8
+[2025.09.16-15.46.53:555][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Libro_Blu_Auto8124DC0384B0C87C68FFBEEB1944949E7.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Libro_Blu_Auto8.uasset'
+[2025.09.16-15.46.53:557][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Pila_Libri] ([1] browsable assets)...
+[2025.09.16-15.46.53:557][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Pila_Libri]
+[2025.09.16-15.46.53:559][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Pila_Libri_Auto8
+[2025.09.16-15.46.53:559][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/TM_Pila_Libri_Auto806B3F5104005173DFC7F4F8087386423.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/TileMaps/TM_Rita/CasaBruciata/Oggetti/TM_Pila_Libri_Auto8.uasset'
+[2025.09.16-15.46.53:561][871]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/ComandiInterazione] ([2] browsable assets)...
+[2025.09.16-15.46.53:567][871]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/ComandiInterazione.ComandiInterazione]
+[2025.09.16-15.46.53:567][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/ComandiInterazione]
+[2025.09.16-15.46.53:574][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/ComandiInterazione_Auto8
+[2025.09.16-15.46.53:574][871]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/ComandiInterazione_Auto89E3DE8C144ED3DBC819BC2B96E5907A5.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Autosaves/Game/Blueprint/ComandiInterazione_Auto8.uasset'
+[2025.09.16-15.46.53:575][871]LogFileHelpers: Auto-saving content packages took 0.179
+[2025.09.16-15.47.15:265][948]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:291][949]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:317][950]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:343][951]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:369][952]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:392][953]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:419][954]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:443][955]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:470][956]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:495][957]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:519][958]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:544][959]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:568][960]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:594][961]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:618][962]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:643][963]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:667][964]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:691][965]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:716][966]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:740][967]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:767][968]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:792][969]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:818][970]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:846][971]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:873][972]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:899][973]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:924][974]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.15:949][975]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:003][977]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:029][978]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:054][979]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:081][980]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:106][981]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:133][982]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:162][983]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:183][984]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:206][985]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:230][986]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:256][987]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:282][988]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:307][989]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:329][990]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:350][991]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:374][992]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:399][993]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:424][994]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:450][995]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:475][996]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:501][997]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:529][998]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:550][999]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:573][  0]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:596][  1]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:620][  2]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:644][  3]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:667][  4]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:690][  5]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:714][  6]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:737][  7]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:761][  8]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:785][  9]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:809][ 10]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:832][ 11]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:855][ 12]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:878][ 13]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:906][ 14]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:934][ 15]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:960][ 16]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.16:987][ 17]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:013][ 18]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:039][ 19]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:092][ 21]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:118][ 22]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:169][ 24]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:221][ 26]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:251][ 27]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:277][ 28]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:303][ 29]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:329][ 30]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:353][ 31]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:378][ 32]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:401][ 33]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:425][ 34]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:450][ 35]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:473][ 36]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:495][ 37]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:519][ 38]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:544][ 39]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:571][ 40]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:599][ 41]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:627][ 42]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:655][ 43]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:683][ 44]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:707][ 45]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:731][ 46]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:753][ 47]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:775][ 48]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:799][ 49]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:821][ 50]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:843][ 51]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:865][ 52]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:887][ 53]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:909][ 54]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:933][ 55]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:957][ 56]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.17:980][ 57]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:002][ 58]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:024][ 59]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:046][ 60]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:068][ 61]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:091][ 62]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:112][ 63]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:135][ 64]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:157][ 65]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:180][ 66]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:203][ 67]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:226][ 68]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:249][ 69]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:271][ 70]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:293][ 71]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:318][ 72]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:339][ 73]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:360][ 74]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:385][ 75]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.18:719][ 76]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.19:051][ 77]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.19:385][ 78]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.19:718][ 79]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.20:051][ 80]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.20:385][ 81]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.09.16-15.47.20:719][ 82]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
