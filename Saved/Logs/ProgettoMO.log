@@ -1913,3 +1913,24 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.09.17-09.26.58:086][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.17-09.26.58:086][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.17-09.26.58:086][723]AssetCheck: /Game/Importedassests/OggettiCasa/libreriaBianca_Blueprint Convalida asset
+[2025.09.17-09.27.28:112][ 20]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.17-09.27.28:142][ 20]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.17-09.27.50:258][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1733.670410
+[2025.09.17-09.27.50:467][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.17-09.27.50:467][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1733.825195, Update Interval: 344.693756
+[2025.09.17-09.27.54:612][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-09.27.54:674][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.17-09.27.54:746][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.17-09.27.54:882][111]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.17-09.27.54:882][111]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/MappaGioco2C2F6A134CD1E81AEB5AB89844E51D03.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.17-09.27.54:910][111]LogFileHelpers: Saving map 'MappaGioco' took 0.237
+[2025.09.17-09.27.54:921][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.655 ms (total: 1.86 sec)
+[2025.09.17-09.27.54:989][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-09.27.54:989][111]LogContentValidation: Enabled validators:
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-09.27.54:989][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-09.27.54:989][111]AssetCheck: /Game/MappaGioco Convalida asset
