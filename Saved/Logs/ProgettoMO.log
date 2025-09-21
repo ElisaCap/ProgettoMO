@@ -1527,3 +1527,19 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.21-23.15.53:594][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.21-23.15.53:594][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.21-23.15.53:594][846]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
+[2025.09.21-23.16.06:672][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-23.16.06:728][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Bambola_Blueprint] ([2] browsable assets)...
+[2025.09.21-23.16.06:729][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Bambola_Blueprint]
+[2025.09.21-23.16.06:729][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Bambola_Blueprint" FILE="../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset" SILENT=true
+[2025.09.21-23.16.06:738][ 88]LogSavePackage: Moving output files for package: /Game/Blueprint/Bambola_Blueprint
+[2025.09.21-23.16.06:738][ 88]LogSavePackage: Moving '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Saved/Bambola_BlueprintA5088E534323F1AD85F857A997B48A23.tmp' to '../../../../../../Users/Utente/Documents/Unreal Projects/ProgettoMO/Content/Blueprint/Bambola_Blueprint.uasset'
+[2025.09.21-23.16.06:750][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.126 ms (total: 170.255 ms)
+[2025.09.21-23.16.06:813][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: Enabled validators:
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-23.16.06:814][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-23.16.06:814][ 88]AssetCheck: /Game/Blueprint/Bambola_Blueprint Convalida asset
