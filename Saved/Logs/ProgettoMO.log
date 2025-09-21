@@ -8685,3 +8685,354 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.09.21-00.44.57:720][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
 [2025.09.21-00.44.57:728][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2025.09.21-00.44.57:868][373]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2025.09.21-00.49.03:619][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16581.732422
+[2025.09.21-00.49.04:620][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-00.49.04:620][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16582.400391, Update Interval: 342.318787
+[2025.09.21-00.50.05:653][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.21-00.50.05:806][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-00.50.05:865][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-00.50.05:935][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.21-00.50.06:084][920]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-00.50.06:084][920]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGiocoEA214F844DFBF9CC7A3B719B04339F52.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-00.50.06:111][920]LogFileHelpers: Saving map 'MappaGioco' took 0.247
+[2025.09.21-00.50.06:132][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.558 ms (total: 28.3 sec)
+[2025.09.21-00.50.06:231][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-00.50.06:231][920]LogContentValidation: Enabled validators:
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-00.50.06:231][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-00.50.06:231][920]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-00.50.11:368][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.21-00.50.11:370][163]Cmd: MAP LOAD FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.21-00.50.11:460][163]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.50.11:460][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.50.11:523][163]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.50.11:523][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.50.11:546][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.50.11:554][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.21-00.50.11:561][163]LogStreaming: Display: FlushAsyncLoading(752): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.50.11:585][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'maiManuMap'.
+[2025.09.21-00.50.11:585][163]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-00.50.11:617][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.21-00.50.11:641][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-00.50.11:666][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.21-00.50.11:666][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2025.09.21-00.50.11:667][163]LogSlate: Window 'Open Level' being destroyed
+[2025.09.21-00.50.11:714][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.21-00.50.19:898][121]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-00.50.19:912][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-00.50.19:912][121]LogPlayLevel: Display: Creating online subsystem for client :Context_104
+[2025.09.21-00.50.19:915][121]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2025.09.21-00.50.19:924][122]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-00.50.19:925][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2025.09.21-00.50.19:925][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001112s)
+[2025.09.21-00.50.19:946][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-00.50.19:950][122]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-00.50.19:951][122]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2025.09.21-00.50.19:952][122]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-00.50.19:952][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-00.50.19:952][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-00.50.19:952][122]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-00.50.19:952][122]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-00.50.19:952][122]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-00.50.19:954][122]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-00.50.19:973][122]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-00.50.19:973][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-00.50.19:973][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-00.50.19:973][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-00.50.19:973][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2025.09.21-00.50.19:973][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2025.09.21-00.50.19:976][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2025.09.21-00.50.19:976][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2025.09.21-00.50.19:976][122]LogInit: FAudioDevice initialized with ID 78.
+[2025.09.21-00.50.19:976][122]LogAudio: Display: Audio Device (ID: 78) registered with world 'maiManuMap'.
+[2025.09.21-00.50.19:976][122]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2025.09.21-00.50.20:016][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-00.50.20:016][122]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-00.50.20:017][122]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-02.50.20
+[2025.09.21-00.50.20:017][122]LogWorld: Bringing up level for play took: 0.000478
+[2025.09.21-00.50.20:020][122]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-00.50.20:020][122]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-00.50.20:024][122]PIE: Server logged in
+[2025.09.21-00.50.20:026][122]PIE: Play in editor total start time 0.114 seconds.
+[2025.09.21-00.50.38:527][243]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.09.21-00.50.38:527][243]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.09.21-00.50.38:538][244]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MappaGioco"
+[2025.09.21-00.50.38:538][244]LogNet: Browse: /Game/MappaGioco
+[2025.09.21-00.50.38:538][244]LogLoad: LoadMap: /Game/MappaGioco
+[2025.09.21-00.50.38:538][244]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-00.50.38:538][244]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.50.38:538][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.50.38:601][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.50.38:603][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.21-00.50.38:605][244]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.50.38:737][244]LogAudio: Display: Audio Device (ID: 78) registered with world 'MappaGioco'.
+[2025.09.21-00.50.38:737][244]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.21-00.50.38:739][244]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2025.09.21-00.50.38:739][244]LogLoad: Game class is 'NewBlueprint2_C'
+[2025.09.21-00.50.38:785][244]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.21-02.50.38
+[2025.09.21-00.50.38:785][244]LogWorld: Bringing up level for play took: 0.045793
+[2025.09.21-00.50.38:786][244]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.21-00.50.39:432][244]LogLoad: Took 0.894081 seconds to LoadMap(/Game/MappaGioco)
+[2025.09.21-00.50.39:432][244]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MappaGioco
+[2025.09.21-00.52.01:238][949]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FinalMap"
+[2025.09.21-00.52.01:238][949]LogNet: Browse: /Game/FinalMap
+[2025.09.21-00.52.01:238][949]LogLoad: LoadMap: /Game/FinalMap
+[2025.09.21-00.52.01:238][949]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.21-00.52.01:238][949]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.52.01:241][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.52.01:313][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.52.01:318][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.21-00.52.01:321][949]LogStreaming: Display: FlushAsyncLoading(754): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.52.01:351][949]LogAudio: Display: Audio Device (ID: 78) registered with world 'FinalMap'.
+[2025.09.21-00.52.01:351][949]LogChaosDD: Creating Chaos Debug Draw Scene for world FinalMap
+[2025.09.21-00.52.01:353][949]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2025.09.21-00.52.01:353][949]LogLoad: Game class is 'NewBlueprint2_C'
+[2025.09.21-00.52.01:359][949]LogWorld: Bringing World /Game/UEDPIE_0_FinalMap.FinalMap up for play (max tick rate 0) at 2025.09.21-02.52.01
+[2025.09.21-00.52.01:359][949]LogWorld: Bringing up level for play took: 0.006030
+[2025.09.21-00.52.01:369][949]LogLoad: Took 0.131594 seconds to LoadMap(/Game/FinalMap)
+[2025.09.21-00.52.01:369][949]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FinalMap
+[2025.09.21-00.52.23:591][388]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'dialogo' of length 5 in '/Game/Blueprint/DialogoFin.DialogoFin_C'!
+[2025.09.21-00.52.23:591][388]LogScript: Warning: Script Msg called by: DialogoFin_C /Engine/Transient.UnrealEdEngine_0:GameInstance_76.DialogoFin_C_0
+[2025.09.21-00.52.26:311][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-00.52.26:311][684]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FinalMap
+[2025.09.21-00.52.26:312][684]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-00.52.26:325][684]LogWorld: UWorld::CleanupWorld for FinalMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.52.26:326][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.52.26:328][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-00.52.26:338][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.52.26:358][684]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2025.09.21-00.52.26:358][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.09.21-00.52.26:361][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.09.21-00.52.26:370][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.21-00.52.26:405][685]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2025.09.21-00.54.15:185][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.21-00.54.15:187][631]Cmd: MAP LOAD FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/FinalMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.21-00.54.15:237][631]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.54.15:237][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.54.15:258][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.54.15:261][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.21-00.54.15:263][631]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.54.15:295][631]LogAudio: Display: Audio Device (ID: 1) registered with world 'FinalMap'.
+[2025.09.21-00.54.15:295][631]LogChaosDD: Creating Chaos Debug Draw Scene for world FinalMap
+[2025.09.21-00.54.15:334][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.21-00.54.15:357][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.21-00.54.15:381][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.21-00.54.15:381][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2025.09.21-00.54.15:382][631]LogSlate: Window 'Open Level' being destroyed
+[2025.09.21-00.54.32:048][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.21-00.54.32:055][465]Cmd: MAP LOAD FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.21-00.54.32:133][465]LogWorld: UWorld::CleanupWorld for FinalMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.54.32:133][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.54.32:154][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.54.32:156][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.21-00.54.32:158][465]LogStreaming: Display: FlushAsyncLoading(756): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.54.32:181][465]LogAudio: Display: Audio Device (ID: 1) registered with world 'maiManuMap'.
+[2025.09.21-00.54.32:181][465]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-00.54.32:216][465]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.21-00.54.32:240][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-00.54.32:263][465]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.21-00.54.32:263][465]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2025.09.21-00.54.32:264][465]LogSlate: Window 'Open Level' being destroyed
+[2025.09.21-00.54.39:918][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-00.54.39:924][321]Cmd: MAP LOAD FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.21-00.54.39:974][321]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-00.54.39:974][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-00.54.39:993][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-00.54.39:995][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.21-00.54.39:998][321]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-00.54.40:124][321]LogAudio: Display: Audio Device (ID: 1) registered with world 'MappaGioco'.
+[2025.09.21-00.54.40:125][321]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.21-00.54.40:210][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.21-00.54.40:242][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.21-00.54.40:266][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.21-00.54.40:266][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2025.09.21-00.54.40:267][321]LogSlate: Window 'Open Level' being destroyed
+[2025.09.21-00.55.10:361][420]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MappaGioco.MappaGioco:PersistentLevel.MappaGioco
+[2025.09.21-00.55.10:362][420]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.09.21-00.55.24:543][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16959.556641
+[2025.09.21-00.55.24:748][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-00.55.24:748][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16959.728516, Update Interval: 311.028778
+[2025.09.21-00.59.51:796][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.21-00.59.52:191][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-00.59.52:249][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-00.59.52:322][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.21-00.59.52:474][531]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-00.59.52:475][531]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco1C9F3D5A42BB41DAE6D3449C2B44E90F.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-00.59.52:504][531]LogFileHelpers: Saving map 'MappaGioco' took 0.255
+[2025.09.21-00.59.52:509][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 318.334 ms (total: 28.6 sec)
+[2025.09.21-00.59.52:567][531]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-00.59.52:567][531]LogContentValidation: Enabled validators:
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-00.59.52:567][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-00.59.52:567][531]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.01.11:256][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17306.421875
+[2025.09.21-01.01.11:463][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.01.11:463][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17306.599609, Update Interval: 318.257996
+[2025.09.21-01.07.23:433][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17678.687500
+[2025.09.21-01.07.23:641][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.07.23:641][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17678.859375, Update Interval: 348.246094
+[2025.09.21-01.12.03:939][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.21-01.12.04:071][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.12.04:109][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.12.04:181][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.21-01.12.04:335][514]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.12.04:335][514]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco78864C7A4ABD6430A5FD60AE3732292B.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.12.04:363][514]LogFileHelpers: Saving map 'MappaGioco' took 0.254
+[2025.09.21-01.12.04:370][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 298.309 ms (total: 28.9 sec)
+[2025.09.21-01.12.04:426][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.12.04:426][514]LogContentValidation: Enabled validators:
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.12.04:426][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.12.04:426][514]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.14.05:052][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18080.318359
+[2025.09.21-01.14.05:270][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.14.05:270][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18080.505859, Update Interval: 322.416443
+[2025.09.21-01.14.24:948][508]LogDerivedDataCache: C:/Users/f/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.21-01.17.54:321][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.09.21-01.17.54:433][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.17.54:480][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.17.54:553][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-01.17.54:704][663]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.17.54:705][663]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGiocoC037A8A84E03301BFD5295B748220A45.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.17.54:732][663]LogFileHelpers: Saving map 'MappaGioco' took 0.253
+[2025.09.21-01.17.54:740][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.307 ms (total: 29.2 sec)
+[2025.09.21-01.17.54:796][663]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.17.54:796][663]LogContentValidation: Enabled validators:
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.17.54:796][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.17.54:796][663]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.19.30:788][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.21-01.19.32:794][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.21-01.20.12:196][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18447.306641
+[2025.09.21-01.20.12:340][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.20.12:340][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18447.443359, Update Interval: 307.787720
+[2025.09.21-01.20.19:282][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.21-01.21.24:277][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.21-01.23.25:331][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.09.21-01.25.50:037][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.21-01.25.50:177][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.25.50:241][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.25.50:313][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.21-01.25.50:471][265]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.25.50:471][265]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco6ADABC0949E5A35A429331890D2DB755.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.25.50:499][265]LogFileHelpers: Saving map 'MappaGioco' took 0.258
+[2025.09.21-01.25.50:505][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 327.151 ms (total: 29.6 sec)
+[2025.09.21-01.25.50:557][265]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.25.50:557][265]LogContentValidation: Enabled validators:
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.25.50:557][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.25.50:559][265]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.26.10:239][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18805.539062
+[2025.09.21-01.26.10:446][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.26.10:446][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18805.712891, Update Interval: 330.407410
+[2025.09.21-01.30.03:343][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.21-01.30.03:480][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.30.03:539][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.30.03:614][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.21-01.30.03:768][ 65]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.30.03:768][ 65]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco53953A934923169E7FA27B9BE6621313.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.30.03:796][ 65]LogFileHelpers: Saving map 'MappaGioco' took 0.258
+[2025.09.21-01.30.03:831][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 351.692 ms (total: 29.9 sec)
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: Enabled validators:
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.30.03:887][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.30.03:887][ 65]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.31.43:698][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.21-01.31.43:803][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.31.43:862][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.31.43:934][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-01.31.44:088][748]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.31.44:088][748]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco82176ECF4AFD89A5BC1473968A08360D.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.31.44:117][748]LogFileHelpers: Saving map 'MappaGioco' took 0.256
+[2025.09.21-01.31.44:123][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 319.638 ms (total: 30.2 sec)
+[2025.09.21-01.31.44:178][748]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.31.44:178][748]LogContentValidation: Enabled validators:
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.31.44:178][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.31.44:178][748]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.32.25:110][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19180.617188
+[2025.09.21-01.32.25:298][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-01.32.25:298][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19180.777344, Update Interval: 305.388947
+[2025.09.21-01.32.34:166][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.21-01.32.34:290][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-01.32.34:332][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MappaGioco" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-01.32.34:407][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.21-01.32.34:564][620]LogSavePackage: Moving output files for package: /Game/MappaGioco
+[2025.09.21-01.32.34:565][620]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/MappaGioco76AD873B4792FE3C7BB162AC883EAEF9.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/MappaGioco.umap'
+[2025.09.21-01.32.34:593][620]LogFileHelpers: Saving map 'MappaGioco' took 0.261
+[2025.09.21-01.32.34:599][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 309.404 ms (total: 30.5 sec)
+[2025.09.21-01.32.34:648][620]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-01.32.34:648][620]LogContentValidation: Enabled validators:
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-01.32.34:648][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-01.32.34:648][620]AssetCheck: /Game/MappaGioco Validating asset
+[2025.09.21-01.33.20:156][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.21-01.33.24:883][380]LogSlate: Window 'MappaGioco' being destroyed
+[2025.09.21-01.33.24:891][380]LogSlate: Window 'MappaGioco' being destroyed
+[2025.09.21-01.33.24:904][380]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.24:904][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.25:311][380]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.25:312][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.25:329][380]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.25:329][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.25:646][380]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.25:646][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.25:663][380]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.25:665][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.25:873][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.21-01.33.25:873][380]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.25:873][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:067][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.21-01.33.26:068][380]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:068][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:242][380]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.21-01.33.26:243][380]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:243][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:429][380]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:429][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:503][380]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:503][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:520][380]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:520][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.26:756][380]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-01.33.26:756][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-01.33.27:060][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
