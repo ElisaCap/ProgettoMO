@@ -1913,3 +1913,994 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.21-08.33.34:536][719]AssetCheck: /Game/saveGame/settingsSave Validating asset
 [2025.09.21-08.33.53:525][156]LogEditorTransaction: Undo Remove Widget
 [2025.09.21-08.33.54:894][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.21-08.36.12:547][672]LogEditorTransaction: Undo Edit Vertical Alignment
+[2025.09.21-08.36.13:068][676]Cmd: TRANSACTION UNDO
+[2025.09.21-08.36.13:068][676]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2025.09.21-08.36.36:903][338]LogEditorTransaction: Undo Variable Toggle
+[2025.09.21-08.36.38:345][452]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.36.38:569][474]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.36.38:780][494]LogEditorTransaction: Undo Add Widget
+[2025.09.21-08.36.38:944][508]LogEditorTransaction: Undo Add Widget
+[2025.09.21-08.36.39:256][538]LogEditorTransaction: Undo Remove Widget
+[2025.09.21-08.36.57:183][874]LogEditorTransaction: Redo Remove Widget
+[2025.09.21-08.36.57:357][876]LogEditorTransaction: Redo Add Widget
+[2025.09.21-08.36.57:544][879]LogEditorTransaction: Redo Add Widget
+[2025.09.21-08.36.57:650][880]LogEditorTransaction: Redo Edit Size Rule
+[2025.09.21-08.36.57:785][885]LogEditorTransaction: Redo Edit Size Rule
+[2025.09.21-08.36.57:937][899]LogEditorTransaction: Redo Variable Toggle
+[2025.09.21-08.37.43:600][184]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.21-08.37.52:362][784]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.21-08.37.57:129][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.21-08.38.03:719][543]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.21-08.38.08:897][902]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.21-08.39.51:021][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.21-08.39.51:130][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.39.51:173][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.39.51:177][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.39.51:177][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.39.51:177][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.39.51:235][139]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.39.51:235][139]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuA6543CB94B989D4EB950388D5A1FC7B5.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.39.51:242][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.350 ms (total: 1.64 sec)
+[2025.09.21-08.39.51:289][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-08.39.51:289][139]LogContentValidation: Enabled validators:
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.39.51:289][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.39.51:291][139]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-08.39.58:268][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5180.778320
+[2025.09.21-08.39.58:424][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-08.39.58:424][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5180.925781, Update Interval: 340.240479
+[2025.09.21-08.40.38:035][360]LogBlueprint: Warning: [AssetLog] C:\Users\f\Documents\GitHub\ProgettoMO\Content\UI\optionMenu.uasset: [Compiler] On Mouse Capture Begin (VolumeSlider)  does not have a valid matching component!
+[2025.09.21-08.40.38:035][360]LogBlueprint: Warning: [AssetLog] C:\Users\f\Documents\GitHub\ProgettoMO\Content\UI\optionMenu.uasset: [Compiler] On Value Changed (VolumeSlider)  does not have a valid matching component!
+[2025.09.21-08.40.38:042][360]LogBlueprint: Error: [AssetLog] C:\Users\f\Documents\GitHub\ProgettoMO\Content\UI\optionMenu.uasset: [Compiler] This blueprint (self) is not a AudioMaterialSlider, therefore ' Target ' must have a connection.
+[2025.09.21-08.40.38:144][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.21-08.40.51:511][348]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.21-08.40.51:518][348]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.21-08.41.33:906][372]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/mainMenu.mainMenu
+[2025.09.21-08.41.33:906][372]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.21-08.41.33:913][372]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.21-08.41.37:208][682]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-08.41.38:618][818]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/maiManuMap.maiManuMap:PersistentLevel.maiManuMap
+[2025.09.21-08.41.38:619][818]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.21-08.41.38:982][818]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.41.38:982][818]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.42.06:945][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.21-08.42.07:110][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.42.07:167][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-08.42.07:238][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-08.42.07:244][345]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-08.42.07:244][345]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap59CD5D8C433BF0471245C8AB9740C183.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-08.42.07:268][345]LogFileHelpers: Saving map 'maiManuMap' took 0.101
+[2025.09.21-08.42.07:268][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.42.07:272][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.42.07:272][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.42.07:272][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.42.07:331][345]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.42.07:331][345]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu4CCDEC134291C4A599D9D0B59FB636CF.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.42.07:339][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.557 ms (total: 1.87 sec)
+[2025.09.21-08.42.07:399][345]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-08.42.07:399][345]LogContentValidation: Enabled validators:
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.42.07:399][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.42.07:399][345]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-08.42.07:401][345]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-08.42.09:531][572]Cmd: DELETE
+[2025.09.21-08.42.09:531][572]Cmd: ACTOR DELETE
+[2025.09.21-08.42.09:538][572]LogEditorActor: Deleted Actor: AmbientSound
+[2025.09.21-08.42.09:560][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.21-08.42.09:561][572]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.09.21-08.42.36:401][100]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/1kSineTonePing.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/1kSineTonePing.uasset' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.42.36:401][100]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.42.43:345][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.21-08.42.43:440][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.42.43:484][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-08.42.43:550][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.21-08.42.43:556][891]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-08.42.43:556][891]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap4F1CF590433ED66DD0EC3BA38C27F8D8.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-08.42.43:580][891]LogFileHelpers: Saving map 'maiManuMap' took 0.096
+[2025.09.21-08.42.43:585][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.983 ms (total: 2.02 sec)
+[2025.09.21-08.42.43:634][891]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-08.42.43:634][891]LogContentValidation: Enabled validators:
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.42.43:634][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.42.43:634][891]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-08.42.48:122][921]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-08.42.48:141][921]BlueprintLog: Warning: Blueprint failed to compile:  optionMenu
+[2025.09.21-08.42.48:141][921]LogPlayLevel: [PlayLevel] Compiling maiManuMap before play...
+[2025.09.21-08.42.48:191][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-08.42.48:193][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2025.09.21-08.42.50:284][921]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.09.21-08.42.50:289][921]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2025.09.21-08.42.50:291][921]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.21-08.42.50:314][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-08.42.50:316][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002336s)
+[2025.09.21-08.42.50:316][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.002445s)
+[2025.09.21-08.42.50:337][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.21-08.42.50:338][922]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-08.42.50:339][922]LogPlayLevel: PIE: World Init took: (0.001689s)
+[2025.09.21-08.42.50:340][922]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-08.42.50:340][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-08.42.50:340][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-08.42.50:340][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-08.42.50:340][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-08.42.50:341][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-08.42.50:343][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-08.42.50:363][922]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-08.42.50:363][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-08.42.50:363][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-08.42.50:363][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-08.42.50:363][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.21-08.42.50:363][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.21-08.42.50:366][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.21-08.42.50:366][922]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.21-08.42.50:366][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.21-08.42.50:366][922]LogAudio: Display: Audio Device (ID: 2) registered with world 'maiManuMap'.
+[2025.09.21-08.42.50:366][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.21-08.42.50:401][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-08.42.50:402][922]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-08.42.50:402][922]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-10.42.50
+[2025.09.21-08.42.50:403][922]LogWorld: Bringing up level for play took: 0.000533
+[2025.09.21-08.42.50:416][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-08.42.50:418][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-08.42.50:426][922]PIE: Server logged in
+[2025.09.21-08.42.50:428][922]PIE: Play in editor total start time 2.291 seconds.
+[2025.09.21-08.42.50:470][922]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mainMenuMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.09.21-08.42.52:565][131]Cmd: quit
+[2025.09.21-08.42.52:566][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-08.42.52:566][131]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-08.42.52:566][131]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-08.42.52:599][131]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-08.42.52:599][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-08.42.52:601][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-08.42.52:608][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-08.42.52:630][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.21-08.42.52:630][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.21-08.42.52:632][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.21-08.42.52:637][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.21-08.42.52:647][131]LogActorComponent: ReregisterComponent: (/Game/maiManuMap.maiManuMap:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2025.09.21-08.42.52:668][132]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.21-08.43.31:856][327]LogEditorTransaction: Undo Delete current selection
+[2025.09.21-08.44.57:965][283]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.44.58:403][291]LogEditorTransaction: Undo Create Pin Link
+[2025.09.21-08.44.58:702][310]LogEditorTransaction: Undo Create Pin Link
+[2025.09.21-08.45.00:602][483]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.00:926][484]LogEditorTransaction: Undo Add Node
+[2025.09.21-08.45.01:060][484]LogEditorTransaction: Undo Delete current selection
+[2025.09.21-08.45.01:403][485]LogEditorTransaction: Undo Add Node
+[2025.09.21-08.45.01:537][485]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.01:669][485]LogEditorTransaction: Undo Change Object Pin Value
+[2025.09.21-08.45.01:890][486]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.02:192][489]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.02:396][490]LogEditorTransaction: Undo Add Node
+[2025.09.21-08.45.02:575][493]LogEditorTransaction: Undo Delete Elements
+[2025.09.21-08.45.02:784][494]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.21-08.45.02:966][496]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.03:151][499]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.03:305][500]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.03:488][503]LogEditorTransaction: Undo Move Node
+[2025.09.21-08.45.03:674][506]LogEditorTransaction: Undo Move Nodes
+[2025.09.21-08.45.03:829][507]LogEditorTransaction: Undo Move Nodes
+[2025.09.21-08.45.03:982][508]LogEditorTransaction: Undo Rename Widget
+[2025.09.21-08.45.04:325][509]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.04:651][510]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.05:825][570]LogEditorTransaction: Undo Move Widget
+[2025.09.21-08.45.05:989][570]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.06:123][570]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.06:260][570]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.06:399][570]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.07:998][652]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.08:353][655]LogEditorTransaction: Undo Move Widget
+[2025.09.21-08.45.08:690][656]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.08:826][656]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.09:170][657]LogEditorTransaction: Undo Edit Bar Thickness
+[2025.09.21-08.45.09:497][658]LogEditorTransaction: Undo Edit Bar Thickness
+[2025.09.21-08.45.09:656][658]LogEditorTransaction: Undo Edit Slider Handle Color
+[2025.09.21-08.45.10:026][659]LogEditorTransaction: Undo Edit Slider Handle Color
+[2025.09.21-08.45.10:161][659]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.10:506][660]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.10:640][660]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.10:984][661]LogEditorTransaction: Undo Edit Value
+[2025.09.21-08.45.11:120][661]LogEditorTransaction: Undo Variable Toggle
+[2025.09.21-08.45.11:263][661]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.11:626][662]LogEditorTransaction: Undo Edit Size Rule
+[2025.09.21-08.45.12:179][679]LogEditorTransaction: Undo Add Widget
+[2025.09.21-08.45.12:679][727]LogEditorTransaction: Undo Add Widget
+[2025.09.21-08.45.13:087][767]LogEditorTransaction: Undo Remove Widget
+[2025.09.21-08.45.13:435][800]LogEditorTransaction: Undo Add Node
+[2025.09.21-08.45.14:513][917]LogEditorTransaction: Undo Delete current selection
+[2025.09.21-08.45.15:088][928]LogEditorTransaction: Undo Rename Widget
+[2025.09.21-08.45.17:532][198]LogEditorTransaction: Redo Rename Widget
+[2025.09.21-08.45.17:943][237]LogEditorTransaction: Redo Delete current selection
+[2025.09.21-08.45.18:304][273]LogEditorTransaction: Redo Add Node
+[2025.09.21-08.45.18:689][280]LogEditorTransaction: Redo Remove Widget
+[2025.09.21-08.45.20:138][430]LogEditorTransaction: Undo Remove Widget
+[2025.09.21-08.46.12:236][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5554.731934
+[2025.09.21-08.46.13:234][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-08.46.13:234][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5555.395996, Update Interval: 333.901184
+[2025.09.21-08.46.14:705][326]LogEditorTransaction: Undo Create Pin Link
+[2025.09.21-08.46.52:068][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-08.47.43:189][978]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.47.50:078][241]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-08.50.04:196][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.21-08.50.04:361][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.50.04:409][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-08.50.04:475][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.21-08.50.04:481][444]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-08.50.04:482][444]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap694FD71B4D000848A9ADC08127728FDB.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-08.50.04:505][444]LogFileHelpers: Saving map 'maiManuMap' took 0.097
+[2025.09.21-08.50.04:506][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.50.04:510][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.50.04:510][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.50.04:510][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.50.04:569][444]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.50.04:570][444]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuA53988D94A2827BC97384682168CD847.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.50.04:577][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.002 ms (total: 2.23 sec)
+[2025.09.21-08.50.04:676][444]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-08.50.04:676][444]LogContentValidation: Enabled validators:
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.50.04:676][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.50.04:676][444]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-08.50.04:678][444]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-08.52.42:206][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5944.707031
+[2025.09.21-08.52.42:883][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-08.52.42:883][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5945.372559, Update Interval: 336.999420
+[2025.09.21-08.53.55:810][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.21-08.54.48:755][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-08.54.48:882][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.54.48:924][596]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.54.48:928][596]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.54.48:928][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.54.48:928][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.54.48:990][596]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.54.48:990][596]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuCE331E12407B15EC3EEECE8B852F3EF9.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.54.48:996][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.054 ms (total: 2.35 sec)
+[2025.09.21-08.54.49:040][596]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-08.54.49:040][596]LogContentValidation: Enabled validators:
+[2025.09.21-08.54.49:040][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.54.49:040][596]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.54.49:041][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.54.49:041][596]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.54.49:041][596]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.54.49:041][596]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.54.49:042][596]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-08.55.46:750][735]LogEditorTransaction: Undo Move Nodes
+[2025.09.21-08.56.35:567][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.21-08.56.37:325][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.21-08.56.37:438][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.56.37:493][555]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.56.37:500][555]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.56.37:500][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.56.37:500][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.56.37:561][555]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.56.37:561][555]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu4069342D40BFAA1C2C8E3DB807609CB4.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.56.37:568][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.575 ms (total: 2.47 sec)
+[2025.09.21-08.56.37:613][555]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-08.56.37:613][555]LogContentValidation: Enabled validators:
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.56.37:614][555]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.56.37:615][555]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-08.58.52:959][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6315.430176
+[2025.09.21-08.58.53:115][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-08.58.53:115][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6315.575195, Update Interval: 352.395386
+[2025.09.21-08.59.50:654][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.21-08.59.50:748][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-08.59.50:791][959]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-08.59.50:795][959]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-08.59.50:795][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-08.59.50:795][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-08.59.50:857][959]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-08.59.50:858][959]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu8B2D6D1949F6946D8ABB58839DCECFD7.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-08.59.50:865][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.486 ms (total: 2.59 sec)
+[2025.09.21-08.59.50:924][959]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-08.59.50:924][959]LogContentValidation: Enabled validators:
+[2025.09.21-08.59.50:924][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-08.59.50:925][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-08.59.50:925][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-08.59.50:925][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-08.59.50:925][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-08.59.50:925][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-08.59.50:927][959]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-09.01.13:616][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.21-09.01.13:618][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maiManuMap' took 0.023
+[2025.09.21-09.01.13:619][151]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-09.01.13:624][151]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-09.01.13:624][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-09.01.13:624][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/UI/optionMenu_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.09.21-09.01.13:686][151]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/optionMenu_Auto7
+[2025.09.21-09.01.13:686][151]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu_Auto7FA6918244012B08C5026BE91B9AE1290.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/Autosaves/Game/UI/optionMenu_Auto7.uasset'
+[2025.09.21-09.01.13:687][151]LogFileHelpers: Auto-saving content packages took 0.068
+[2025.09.21-09.01.29:308][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-09.01.29:405][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.01.29:464][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-09.01.29:464][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-09.01.29:464][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-09.01.29:527][722]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-09.01.29:527][722]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu66E294574EB16928C9EF3C9D9611CF4C.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-09.01.29:534][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.890 ms (total: 2.72 sec)
+[2025.09.21-09.01.29:596][722]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.01.29:596][722]LogContentValidation: Enabled validators:
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.01.29:596][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.01.29:599][722]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-09.01.42:450][709]LogEditorTransaction: Undo Move Node
+[2025.09.21-09.01.48:116][157]LogEditorTransaction: Undo Delete current selection
+[2025.09.21-09.02.33:591][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.21-09.02.33:707][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.02.33:767][323]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-09.02.33:771][323]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-09.02.33:771][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-09.02.33:771][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-09.02.33:835][323]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-09.02.33:836][323]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenu380C663246CD8CE39C2B74ABA75674CE.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-09.02.33:843][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.762 ms (total: 2.86 sec)
+[2025.09.21-09.02.33:884][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.02.33:884][323]LogContentValidation: Enabled validators:
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.02.33:884][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.02.33:886][323]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-09.02.34:726][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-09.03.05:975][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.21-09.03.44:696][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-09.03.44:797][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.03.44:856][793]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/optionMenu] ([2] browsable assets)...
+[2025.09.21-09.03.44:859][793]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/optionMenu.optionMenu]
+[2025.09.21-09.03.44:859][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/optionMenu]
+[2025.09.21-09.03.44:859][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/optionMenu" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset" SILENT=true
+[2025.09.21-09.03.44:923][793]LogSavePackage: Moving output files for package: /Game/UI/optionMenu
+[2025.09.21-09.03.44:923][793]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/optionMenuDEEEF6214978C7AFE36B72A245AAB1FF.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/UI/optionMenu.uasset'
+[2025.09.21-09.03.44:930][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.951 ms (total: 2.99 sec)
+[2025.09.21-09.03.44:988][793]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.03.44:988][793]LogContentValidation: Enabled validators:
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.03.44:988][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.03.44:990][793]AssetCheck: /Game/UI/optionMenu Validating asset
+[2025.09.21-09.03.52:499][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.21-09.04.16:225][ 78]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.04.16:239][ 78]LogPlayLevel: [PlayLevel] Compiling maiManuMap before play...
+[2025.09.21-09.04.16:290][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.21-09.04.16:299][ 78]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2025.09.21-09.04.16:299][ 78]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2025.09.21-09.04.16:301][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.21-09.04.16:318][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.04.16:319][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001476s)
+[2025.09.21-09.04.16:319][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001532s)
+[2025.09.21-09.04.16:338][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-09.04.16:339][ 79]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.04.16:341][ 79]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2025.09.21-09.04.16:341][ 79]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.04.16:341][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.04.16:342][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.04.16:342][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.04.16:342][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.04.16:342][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.04.16:342][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.04.16:343][ 79]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.04.16:362][ 79]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.04.16:363][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.04.16:363][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.04.16:363][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.04.16:363][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.21-09.04.16:363][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.21-09.04.16:366][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.21-09.04.16:366][ 79]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.21-09.04.16:366][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.21-09.04.16:366][ 79]LogAudio: Display: Audio Device (ID: 3) registered with world 'maiManuMap'.
+[2025.09.21-09.04.16:366][ 79]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.21-09.04.16:423][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.04.16:423][ 79]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.04.16:423][ 79]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.04.16
+[2025.09.21-09.04.16:424][ 79]LogWorld: Bringing up level for play took: 0.000452
+[2025.09.21-09.04.16:426][ 79]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.04.16:426][ 79]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.04.16:433][ 79]PIE: Server logged in
+[2025.09.21-09.04.16:438][ 79]PIE: Play in editor total start time 0.199 seconds.
+[2025.09.21-09.04.20:030][254]LogWindows: WindowsPlatformFeatures enabled
+[2025.09.21-09.04.30:401][766]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.09.21-09.04.30:401][766]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.09.21-09.04.30:426][767]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MappaGioco"
+[2025.09.21-09.04.30:426][767]LogNet: Browse: /Game/MappaGioco
+[2025.09.21-09.04.30:426][767]LogLoad: LoadMap: /Game/MappaGioco
+[2025.09.21-09.04.30:426][767]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.04.30:428][767]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.04.30:428][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.04.30:489][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-09.04.30:491][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.21-09.04.30:493][767]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-09.04.32:232][767]LogAudio: Display: Audio Device (ID: 3) registered with world 'MappaGioco'.
+[2025.09.21-09.04.32:232][767]LogChaosDD: Creating Chaos Debug Draw Scene for world MappaGioco
+[2025.09.21-09.04.32:234][767]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2025.09.21-09.04.32:234][767]LogLoad: Game class is 'NewBlueprint2_C'
+[2025.09.21-09.04.32:294][767]LogWorld: Bringing World /Game/UEDPIE_0_MappaGioco.MappaGioco up for play (max tick rate 0) at 2025.09.21-11.04.32
+[2025.09.21-09.04.32:295][767]LogWorld: Bringing up level for play took: 0.048362
+[2025.09.21-09.04.32:295][767]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.21-09.04.32:930][767]LogLoad: Took 2.503129 seconds to LoadMap(/Game/MappaGioco)
+[2025.09.21-09.04.32:930][767]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MappaGioco
+[2025.09.21-09.04.36:474][932]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.38:743][ 39]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.39:328][ 67]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.42:306][206]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.21-09.04.43:265][250]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.21-09.04.45:903][372]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.21-09.04.50:367][585]LogBlueprintUserMessages: [letto_Blueprint_C_0] Letto
+[2025.09.21-09.04.50:681][600]LogBlueprintUserMessages: [armadio_Blueprint_C_0] Armadio
+[2025.09.21-09.04.54:288][771]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.56:398][871]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.57:051][902]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.04.59:830][ 35]LogBlueprintUserMessages: [armadio_Blueprint_C_0] Armadio
+[2025.09.21-09.05.02:237][150]LogBlueprintUserMessages: [armadio_Blueprint_C_0] Armadio
+[2025.09.21-09.05.04:667][265]LogBlueprintUserMessages: [divano_Blueprint_C_0] Divano
+[2025.09.21-09.05.05:029][282]LogBlueprintUserMessages: [libreriaBianca_Blueprint_C_0] Libreria
+[2025.09.21-09.05.05:982][327]LogBlueprintUserMessages: [TM_Quadro_Blueprint1_C_0] Quadro
+[2025.09.21-09.05.10:857][560]LogBlueprintUserMessages: [frigo_Blueprint_C_0] Frigorifero
+[2025.09.21-09.05.22:205][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6704.734863
+[2025.09.21-09.05.22:417][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-09.05.22:417][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6704.925781, Update Interval: 314.141663
+[2025.09.21-09.05.25:359][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.05.25:359][249]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MappaGioco
+[2025.09.21-09.05.25:360][249]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.05.25:366][249]LogWorld: UWorld::CleanupWorld for MappaGioco, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.05.25:369][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.05.25:372][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.05.25:382][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.05.25:406][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.21-09.05.25:406][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.21-09.05.25:406][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.21-09.05.25:408][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.21-09.05.25:417][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.21-09.05.25:464][250]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.21-09.05.31:074][323]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.05.31:088][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.05.31:088][323]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.09.21-09.05.31:090][323]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.21-09.05.31:107][324]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.05.31:108][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001255s)
+[2025.09.21-09.05.31:108][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001307s)
+[2025.09.21-09.05.31:130][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-09.05.31:132][324]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.05.31:133][324]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2025.09.21-09.05.31:134][324]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.05.31:134][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.05.31:134][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.05.31:134][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.05.31:134][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.05.31:134][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.05.31:136][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.05.31:155][324]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.05.31:156][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.05.31:156][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.05.31:156][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.05.31:156][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.21-09.05.31:156][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.21-09.05.31:159][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.21-09.05.31:159][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.21-09.05.31:159][324]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.21-09.05.31:159][324]LogAudio: Display: Audio Device (ID: 4) registered with world 'maiManuMap'.
+[2025.09.21-09.05.31:159][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.21-09.05.31:218][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.05.31:219][324]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.05.31:219][324]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.05.31
+[2025.09.21-09.05.31:219][324]LogWorld: Bringing up level for play took: 0.000501
+[2025.09.21-09.05.31:221][324]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.05.31:221][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.05.31:228][324]PIE: Server logged in
+[2025.09.21-09.05.31:233][324]PIE: Play in editor total start time 0.144 seconds.
+[2025.09.21-09.05.57:113][603]Cmd: quit
+[2025.09.21-09.05.57:114][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.05.57:114][603]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.05.57:114][603]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.05.57:159][603]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.05.57:159][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.05.57:162][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.05.57:170][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.05.57:190][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.21-09.05.57:190][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.21-09.05.57:192][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.21-09.05.57:198][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.21-09.05.57:238][604]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.21-09.06.33:996][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.21-09.06.34:108][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.06.34:169][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-09.06.34:238][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.21-09.06.34:244][269]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-09.06.34:245][269]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMapD256144947FFE4DFC0C58F8EBC3C52C7.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-09.06.34:268][269]LogFileHelpers: Saving map 'maiManuMap' took 0.099
+[2025.09.21-09.06.34:275][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.466 ms (total: 3.16 sec)
+[2025.09.21-09.06.34:334][269]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.06.34:334][269]LogContentValidation: Enabled validators:
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.06.34:334][269]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.06.34:334][269]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-09.06.54:425][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.21-09.06.54:522][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.06.54:583][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-09.06.54:649][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-09.06.54:656][641]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-09.06.54:656][641]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap261C812646C1264805614B93C4D98227.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-09.06.54:679][641]LogFileHelpers: Saving map 'maiManuMap' took 0.097
+[2025.09.21-09.06.54:685][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.851 ms (total: 3.32 sec)
+[2025.09.21-09.06.54:732][641]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.06.54:732][641]LogContentValidation: Enabled validators:
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.06.54:732][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.06.54:732][641]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-09.08.38:321][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-09.08.44:242][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineSounds' is outside repository at 'C:/Users/f/Documents/GitHub/ProgettoMO'
+[2025.09.21-09.08.56:781][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.21-09.08.56:898][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.08.56:955][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-09.08.57:026][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-09.08.57:034][697]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-09.08.57:035][697]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap10586B6248E987C20EE4148DF80F5EAC.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-09.08.57:059][697]LogFileHelpers: Saving map 'maiManuMap' took 0.103
+[2025.09.21-09.08.57:064][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.345 ms (total: 3.48 sec)
+[2025.09.21-09.08.57:107][697]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.08.57:107][697]LogContentValidation: Enabled validators:
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.08.57:107][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.08.57:107][697]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-09.09.57:577][264]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-09.10.19:274][383]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.21-09.10.19:280][383]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.09.21-09.10.20:796][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-09.10.20:923][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.10.20:977][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-09.10.21:046][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.21-09.10.21:055][553]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-09.10.21:055][553]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMap427FEF1142809DCA8D70E8807002627C.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-09.10.21:079][553]LogFileHelpers: Saving map 'maiManuMap' took 0.102
+[2025.09.21-09.10.21:085][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.744 ms (total: 3.65 sec)
+[2025.09.21-09.10.21:144][553]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.10.21:144][553]LogContentValidation: Enabled validators:
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.10.21:144][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.10.21:144][553]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-09.10.29:070][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.21-09.10.29:859][147]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.10.29:873][147]LogPlayLevel: [PlayLevel] Compiling maiManuMap before play...
+[2025.09.21-09.10.29:875][147]LogBlueprint: Error: [AssetLog] C:\Users\f\Documents\GitHub\ProgettoMO\Content\maiManuMap.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To settingsSave  to imply a specific type.
+[2025.09.21-09.10.29:875][147]LogBlueprint: Error: [AssetLog] C:\Users\f\Documents\GitHub\ProgettoMO\Content\maiManuMap.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.09.21-09.10.29:880][147]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-09.10.29:937][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.21-09.10.29:938][147]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2025.09.21-09.10.29:938][147]BlueprintLog: Warning: Blueprint failed to compile:  maiManuMap
+[2025.09.21-09.10.31:733][147]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.09.21-09.10.35:055][471]LogSlate: Window 'Message Log' being destroyed
+[2025.09.21-09.10.35:061][471]LogSlate: Window 'Message Log' being destroyed
+[2025.09.21-09.10.50:461][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.21-09.10.50:555][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-09.10.50:596][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maiManuMap" FILE="../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.21-09.10.50:664][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-09.10.50:673][165]LogSavePackage: Moving output files for package: /Game/maiManuMap
+[2025.09.21-09.10.50:673][165]LogSavePackage: Moving '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Saved/maiManuMapD054FEA3424C14DD38C64FAFE6E88C18.tmp' to '../../../../../../Users/f/Documents/GitHub/ProgettoMO/Content/maiManuMap.umap'
+[2025.09.21-09.10.50:697][165]LogFileHelpers: Saving map 'maiManuMap' took 0.102
+[2025.09.21-09.10.50:702][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.659 ms (total: 3.79 sec)
+[2025.09.21-09.10.50:745][165]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-09.10.50:745][165]LogContentValidation: Enabled validators:
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-09.10.50:745][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-09.10.50:746][165]AssetCheck: /Game/maiManuMap Validating asset
+[2025.09.21-09.10.51:159][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.21-09.10.52:618][361]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.10.52:632][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.10.52:632][361]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.09.21-09.10.52:635][361]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.21-09.10.52:645][362]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.10.52:647][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001359s)
+[2025.09.21-09.10.52:647][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001398s)
+[2025.09.21-09.10.52:669][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.21-09.10.52:672][362]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.10.52:673][362]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2025.09.21-09.10.52:674][362]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.10.52:674][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.10.52:674][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.10.52:674][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.10.52:674][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.10.52:674][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.10.52:676][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.10.52:695][362]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.10.52:695][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.10.52:695][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.10.52:695][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.10.52:696][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.21-09.10.52:696][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.21-09.10.52:697][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.21-09.10.52:697][362]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.21-09.10.52:697][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.21-09.10.52:697][362]LogAudio: Display: Audio Device (ID: 5) registered with world 'maiManuMap'.
+[2025.09.21-09.10.52:697][362]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.21-09.10.52:753][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.10.52:753][362]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.10.52:754][362]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.10.52
+[2025.09.21-09.10.52:754][362]LogWorld: Bringing up level for play took: 0.000463
+[2025.09.21-09.10.52:756][362]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.10.52:756][362]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.10.52:760][362]PIE: Server logged in
+[2025.09.21-09.10.52:762][362]PIE: Play in editor total start time 0.13 seconds.
+[2025.09.21-09.11.00:323][ 85]Cmd: quit
+[2025.09.21-09.11.00:325][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.11.00:325][ 85]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.11.00:325][ 85]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.11.00:369][ 85]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.11.00:370][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.11.00:372][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.11.00:380][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.11.00:401][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.21-09.11.00:401][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.21-09.11.00:404][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.21-09.11.00:412][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.21-09.11.00:451][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.21-09.11.02:023][254]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.11.02:037][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.11.02:037][254]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.09.21-09.11.02:039][254]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.21-09.11.02:049][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.11.02:050][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001328s)
+[2025.09.21-09.11.02:050][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001366s)
+[2025.09.21-09.11.02:072][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-09.11.02:073][255]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.11.02:075][255]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2025.09.21-09.11.02:076][255]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.11.02:076][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.11.02:076][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.11.02:076][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.11.02:076][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.11.02:076][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.11.02:078][255]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.11.02:097][255]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.11.02:097][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.11.02:097][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.11.02:097][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.11.02:097][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.21-09.11.02:097][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.21-09.11.02:100][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.21-09.11.02:100][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.21-09.11.02:100][255]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.21-09.11.02:100][255]LogAudio: Display: Audio Device (ID: 6) registered with world 'maiManuMap'.
+[2025.09.21-09.11.02:100][255]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.21-09.11.02:154][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.11.02:154][255]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.11.02:155][255]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.11.02
+[2025.09.21-09.11.02:155][255]LogWorld: Bringing up level for play took: 0.000478
+[2025.09.21-09.11.02:157][255]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.11.02:157][255]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.11.02:160][255]PIE: Server logged in
+[2025.09.21-09.11.02:163][255]PIE: Play in editor total start time 0.126 seconds.
+[2025.09.21-09.11.14:780][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7057.287598
+[2025.09.21-09.11.14:939][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-09.11.14:939][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7057.435059, Update Interval: 318.512512
+[2025.09.21-09.12.12:454][374]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 79a...5be
+[2025.09.21-09.12.12:454][374]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.551e+07
+[2025.09.21-09.12.12:621][391]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 79a...5be Access[Expires: 2025.09.21-11.12.17 Remaining: 7200.25] Refresh[Expires: 2026-03-19T20:12:14.413Z Remaining: 15505197.41] State: Valid
+[2025.09.21-09.12.46:547][796]Cmd: quit
+[2025.09.21-09.12.46:547][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.12.46:547][796]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.12.46:547][796]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.12.46:554][796]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.12.46:554][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.12.46:557][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.12.46:565][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.12.46:586][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.21-09.12.46:586][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.21-09.12.46:587][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.21-09.12.46:595][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-09.12.46:650][798]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.21-09.12.47:824][917]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.12.47:840][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.12.47:840][917]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.09.21-09.12.47:843][917]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.21-09.12.47:856][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.12.47:858][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001598s)
+[2025.09.21-09.12.47:858][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001645s)
+[2025.09.21-09.12.47:880][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.21-09.12.47:882][918]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.12.47:884][918]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2025.09.21-09.12.47:884][918]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.21-09.12.47:884][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.12.47:884][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.12.47:884][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.12.47:884][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.12.47:884][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.12.47:885][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.12.47:885][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.12.47:885][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.12.47:885][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.12.47:885][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.12.47:885][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.12.47:886][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.12.47:905][918]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.12.47:905][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.12.47:905][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.12.47:905][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.12.47:905][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.21-09.12.47:905][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.21-09.12.47:909][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.21-09.12.47:909][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.21-09.12.47:909][918]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.21-09.12.47:909][918]LogAudio: Display: Audio Device (ID: 7) registered with world 'maiManuMap'.
+[2025.09.21-09.12.47:909][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.21-09.12.47:976][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.12.47:977][918]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.12.47:977][918]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.12.47
+[2025.09.21-09.12.47:977][918]LogWorld: Bringing up level for play took: 0.000443
+[2025.09.21-09.12.47:980][918]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.12.47:980][918]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.12.47:984][918]PIE: Server logged in
+[2025.09.21-09.12.47:985][918]PIE: Play in editor total start time 0.145 seconds.
+[2025.09.21-09.12.50:080][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.12.50:080][108]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.12.50:080][108]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.12.50:084][108]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.12.50:084][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.12.50:087][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.12.50:095][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.12.50:115][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.21-09.12.50:115][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.21-09.12.50:118][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.21-09.12.50:124][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.21-09.12.50:154][109]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.21-09.13.38:263][604]LogEditorTransaction: Undo Move Node
+[2025.09.21-09.13.38:685][612]LogEditorTransaction: Undo Move Node
+[2025.09.21-09.13.39:554][694]LogEditorTransaction: Undo Paste clipboard contents
+[2025.09.21-09.13.40:826][833]LogEditorTransaction: Undo Create Pin Link
+[2025.09.21-09.13.41:251][879]LogEditorTransaction: Undo Delete current selection
+[2025.09.21-09.13.42:561][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.21-09.13.45:370][335]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.13.45:383][335]LogPlayLevel: [PlayLevel] Compiling maiManuMap before play...
+[2025.09.21-09.13.45:441][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.21-09.13.45:443][335]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2025.09.21-09.13.45:443][335]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.09.21-09.13.45:445][335]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.21-09.13.45:482][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.13.45:484][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001524s)
+[2025.09.21-09.13.45:484][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001569s)
+[2025.09.21-09.13.45:505][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-09.13.45:507][336]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.13.45:508][336]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2025.09.21-09.13.45:509][336]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.13.45:510][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.13.45:510][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.13.45:510][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.13.45:510][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.13.45:510][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.13.45:511][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.13.45:529][336]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.13.45:529][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.13.45:529][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.13.45:529][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.13.45:530][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.21-09.13.45:530][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.21-09.13.45:533][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.21-09.13.45:533][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.21-09.13.45:533][336]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.21-09.13.45:533][336]LogAudio: Display: Audio Device (ID: 8) registered with world 'maiManuMap'.
+[2025.09.21-09.13.45:533][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.21-09.13.45:580][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.13.45:581][336]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.13.45:581][336]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.13.45
+[2025.09.21-09.13.45:581][336]LogWorld: Bringing up level for play took: 0.000438
+[2025.09.21-09.13.45:583][336]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.13.45:583][336]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.13.45:588][336]PIE: Server logged in
+[2025.09.21-09.13.45:589][336]PIE: Play in editor total start time 0.206 seconds.
+[2025.09.21-09.13.57:725][495]Cmd: quit
+[2025.09.21-09.13.57:726][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.13.57:726][495]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.13.57:726][495]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.13.57:760][495]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.13.57:760][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.13.57:762][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.13.57:770][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.13.57:791][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.21-09.13.57:791][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.21-09.13.57:793][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.21-09.13.57:799][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.21-09.13.57:833][496]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.21-09.13.59:031][623]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.13.59:044][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.13.59:045][623]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.09.21-09.13.59:046][623]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.21-09.13.59:057][624]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.13.59:060][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001313s)
+[2025.09.21-09.13.59:060][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001351s)
+[2025.09.21-09.13.59:081][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.21-09.13.59:083][624]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.13.59:084][624]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2025.09.21-09.13.59:085][624]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.13.59:085][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.13.59:085][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.13.59:085][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.13.59:085][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.13.59:085][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.13.59:087][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.13.59:106][624]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.13.59:106][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.13.59:106][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.13.59:106][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.13.59:106][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.21-09.13.59:106][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.21-09.13.59:109][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.21-09.13.59:109][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.21-09.13.59:109][624]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.21-09.13.59:109][624]LogAudio: Display: Audio Device (ID: 9) registered with world 'maiManuMap'.
+[2025.09.21-09.13.59:109][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.21-09.13.59:145][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.13.59:146][624]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.13.59:146][624]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.13.59
+[2025.09.21-09.13.59:146][624]LogWorld: Bringing up level for play took: 0.000496
+[2025.09.21-09.13.59:149][624]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.13.59:149][624]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.13.59:153][624]PIE: Server logged in
+[2025.09.21-09.13.59:154][624]PIE: Play in editor total start time 0.11 seconds.
+[2025.09.21-09.14.06:190][301]Cmd: quit
+[2025.09.21-09.14.06:191][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.14.06:191][301]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.14.06:191][301]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.14.06:230][301]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.14.06:230][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.14.06:232][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.14.06:240][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.14.06:260][301]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.21-09.14.06:260][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.21-09.14.06:262][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.21-09.14.06:269][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.21-09.14.06:302][302]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.21-09.14.21:091][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.21-09.15.13:890][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.21-09.15.30:549][955]LogDerivedDataCache: C:/Users/f/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.21-09.15.44:164][353]Cmd: DELETE
+[2025.09.21-09.15.44:164][353]Cmd: ACTOR DELETE
+[2025.09.21-09.15.44:166][353]LogEditorActor: Deleted Actor: AmbientSound
+[2025.09.21-09.15.44:189][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-09.15.44:191][353]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.09.21-09.15.45:372][489]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.09.21-09.15.45:386][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-09.15.45:386][489]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2025.09.21-09.15.45:388][489]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.09.21-09.15.45:396][490]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.15.45:397][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2025.09.21-09.15.45:397][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maiManuMap.maiManuMap to /Game/UEDPIE_0_maiManuMap.maiManuMap (0.001347s)
+[2025.09.21-09.15.45:417][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-09.15.45:420][490]LogChaosDD: Creating Chaos Debug Draw Scene for world maiManuMap
+[2025.09.21-09.15.45:422][490]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2025.09.21-09.15.45:423][490]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-09.15.45:423][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-09.15.45:423][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-09.15.45:423][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-09.15.45:423][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-09.15.45:423][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-09.15.45:425][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-09.15.45:443][490]LogAudioMixer: Display: Using Audio Hardware Device 2 - PHL 329P1 (AMD High Definition Audio Device)
+[2025.09.21-09.15.45:444][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-09.15.45:444][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-09.15.45:444][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-09.15.45:444][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.21-09.15.45:444][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.21-09.15.45:447][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.21-09.15.45:447][490]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.21-09.15.45:447][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.21-09.15.45:447][490]LogAudio: Display: Audio Device (ID: 10) registered with world 'maiManuMap'.
+[2025.09.21-09.15.45:447][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.21-09.15.45:500][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.15.45:501][490]LogLoad: Game class is 'menuGameMode_C'
+[2025.09.21-09.15.45:501][490]LogWorld: Bringing World /Game/UEDPIE_0_maiManuMap.maiManuMap up for play (max tick rate 0) at 2025.09.21-11.15.45
+[2025.09.21-09.15.45:501][490]LogWorld: Bringing up level for play took: 0.000402
+[2025.09.21-09.15.45:503][490]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.21-09.15.45:503][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.21-09.15.45:508][490]PIE: Server logged in
+[2025.09.21-09.15.45:511][490]PIE: Play in editor total start time 0.125 seconds.
+[2025.09.21-09.15.47:584][709]Cmd: quit
+[2025.09.21-09.15.47:584][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-09.15.47:584][709]LogWorld: BeginTearingDown for /Game/UEDPIE_0_maiManuMap
+[2025.09.21-09.15.47:585][709]LogSlate: Window 'ProgettoMO Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.21-09.15.47:619][709]LogWorld: UWorld::CleanupWorld for maiManuMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-09.15.47:620][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.15.47:622][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-09.15.47:630][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-09.15.47:651][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.21-09.15.47:651][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.21-09.15.47:653][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.21-09.15.47:659][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.21-09.15.47:668][709]LogActorComponent: ReregisterComponent: (/Game/maiManuMap.maiManuMap:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2025.09.21-09.15.47:688][710]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.09.21-09.15.49:216][889]Cmd: TRANSACTION UNDO
+[2025.09.21-09.15.49:216][889]LogEditorTransaction: Undo Delete Elements
+[2025.09.21-09.15.50:702][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
